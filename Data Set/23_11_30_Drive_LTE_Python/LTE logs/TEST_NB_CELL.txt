@@ -1,0 +1,4027 @@
+AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202201.00,3857.172776,N,09515.786015,W,1,02,5.2,295.1,M,-32.0,M,,*55
+ $GPRMC,202201.00,A,3857.172776,N,09515.786015,W,,,301123,2.5,E,A,V*55
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,332,-16,-89,-52,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,384,-19,-93,-66,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-16,-90,-65,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,280,-19,-93,-66,0,-,-,-,-,-
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,332,-16,-89,-52,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,384,-19,-93,-66,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-16,-90,-65,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,280,-19,-93,-66,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202205.00,3857.214342,N,09515.736288,W,1,02,1.7,295.4,M,-32.0,M,,*58
+ $GPRMC,202205.00,A,3857.214342,N,09515.736288,W,18.9,70.3,301123,2.5,E,A,V*58
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,332,-16,-88,-49,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,384,-17,-89,-63,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-20,-91,-63,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,280,-20,-94,-63,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202209.00,3857.207540,N,09515.677971,W,1,02,1.8,295.8,M,-32.0,M,,*58
+ $GPRMC,202209.00,A,3857.207540,N,09515.677971,W,23.6,84.1,301123,2.5,E,A,V*55
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,260,-18,-90,-51,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,,,,,,0,,,,,,,,*66
+ $GPRMC,,V,,,,,,,,,,N*53
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,260,-20,-84,-55,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,214,-9,-75,-46,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,104,-19,-83,-55,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,384,-20,-87,-55,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,,,,,,0,,,,,,,,*66
+ $GPRMC,,V,,,,,,,,,,N*53
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,260,-20,-85,-55,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,214,-10,-76,-44,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,384,-19,-84,-55,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,104,-19,-83,-55,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-20,-86,-55,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,,,,,,0,,,,,,,,*66
+ $GPRMC,,V,,,,,,,,,,N*53
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,384,-20,-83,-55,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,214,-9,-75,-45,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,260,-20,-89,-56,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,,,,,,0,,,,,,,,*66
+ $GPRMC,,V,,,,,,,,,,N*53
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,384,-20,-86,-58,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,214,-9,-77,-48,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,260,-20,-92,-58,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,,,,,,0,,,,,,,,*66
+ $GPRMC,,V,,,,,,,,,,N*53
+OK
+UserDevice> +MMNEBCELL:
+ "neighbourcell intra","LTE",2300,260,-20,-90,-60,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,214,-9,-78,-49,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,384,-19,-88,-59,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
+AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,,,,,,0,,,,,,,,*66
+ $GPRMC,,V,,,,,,,,,,N*53
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,260,-20,-87,-59,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,214,-10,-78,-47,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,384,-20,-89,-59,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,,,,,,0,,,,,,,,*66
+ $GPRMC,,V,,,,,,,,,,N*53
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,260,-20,-90,-57,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,214,-9,-75,-44,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,384,-20,-90,-57,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,,,,,,0,,,,,,,,*66
+ $GPRMC,,V,,,,,,,,,,N*53
+OK
+UserDevice> AT+MMSVRCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,260,-18,-89,-62,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,214,-9,-76,-46,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-19,-92,-64,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,384,-20,-92,-64,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,213,-20,-93,-64,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,,,,,,0,,,,,,,,*66
+ $GPRMC,,V,,,,,,,,,,N*53
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,260,-20,-83,-53,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,214,-9,-67,-37,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,246,-20,-91,-53,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,214,-8,-62,-30,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202255.00,3857.222889,N,09515.560250,W,1,03,1.4,305.2,M,-32.0,M,,*5C
+ $GPRMC,202255.00,A,3857.222889,N,09515.560250,W,12.7,79.5,301123,2.5,E,A,V*5B
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,214,-9,-66,-36,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-20,-84,-46,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,260,-19,-77,-46,0,-,-,-,-,-
+OK
+UserDevice> +MGPSNMEA:
+ $GPGGA,202259.00,3857.233307,N,09515.536519,W,1,02,2.3,304.6,M,-32.0,M,,*54
+ $GPRMC,202259.00,A,3857.233307,N,09515.536519,W,15.9,68.7,301123,2.5,E,A,V*58
+OK
+UserDevice> AT+MMSVRCELL
+AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,214,-9,-70,-40,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,,,,,,0,,,,,,,,*66
+ $GPRMC,,V,,,,,,,,,,N*53
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,214,-8,-68,-40,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,260,-15,-79,-52,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-20,-84,-53,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,,,,,,0,,,,,,,,*66
+ $GPRMC,,V,,,,,,,,,,N*53
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,214,-7,-67,-39,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,260,-19,-80,-51,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,104,-20,-85,-50,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,,,,,,0,,,,,,,,*66
+ $GPRMC,,V,,,,,,,,,,N*53
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,214,-8,-71,-43,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,260,-20,-87,-51,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,,,,,,0,,,,,,,,*66
+ $GPRMC,,V,,,,,,,,,,N*53
+OK
+UserDevice> +MMNEBCELL:
+ "neighbourcell intra","LTE",2300,214,-10,-82,-50,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,260,-16,-86,-60,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-13,-83,-61,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
+AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,,,,,,0,,,,,,,,*66
+ $GPRMC,,V,,,,,,,,,,N*53
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,214,-11,-81,-49,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,260,-14,-82,-63,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-19,-88,-62,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,104,-17,-86,-62,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,,,,,,0,,,,,,,,*66
+ $GPRMC,,V,,,,,,,,,,N*53
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,214,-19,-88,-43,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,260,-15,-78,-53,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-19,-85,-53,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,104,-19,-81,-53,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202328.00,3857.160875,N,09515.478336,W,1,06,1.0,300.6,M,-32.0,M,,*58
+ $GPRMC,202328.00,A,3857.160875,N,09515.478336,W,19.7,157.1,301123,2.5,E,A,V*6D
+OK
+UserDevice> AT+MMSVRCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,260,-15,-85,-51,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,214,-18,-90,-62,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-15,-85,-63,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,104,-16,-87,-62,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202333.00,3857.138462,N,09515.458668,W,1,06,1.0,304.1,M,-32.0,M,,*5A
+ $GPRMC,202333.00,A,3857.138462,N,09515.458668,W,18.4,142.8,301123,2.5,E,A,V*63
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,260,-18,-86,-48,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,214,-20,-93,-58,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-12,-82,-58,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-20,-97,-59,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202337.00,3857.125864,N,09515.439170,W,1,06,1.0,295.7,M,-32.0,M,,*5E
+ $GPRMC,202337.00,A,3857.125864,N,09515.439170,W,20.0,133.4,301123,2.5,E,A,V*6D
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,260,-19,-90,-62,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-16,-85,-47,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-16,-88,-61,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,282,-20,-93,-61,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202341.00,3857.113736,N,09515.418954,W,1,06,1.0,291.7,M,-32.0,M,,*5B
+ $GPRMC,202341.00,A,3857.113736,N,09515.418954,W,17.4,119.8,301123,2.5,E,A,V*68
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,387,-19,-88,-61,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-15,-83,-48,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-13,-84,-61,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202345.00,3857.106430,N,09515.401383,W,1,05,1.1,288.0,M,-32.0,M,,*5B
+ $GPRMC,202345.00,A,3857.106430,N,09515.401383,W,13.1,113.5,301123,2.5,E,A,V*63
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,331,-17,-87,-65,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-15,-83,-49,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202349.00,3857.099889,N,09515.393461,W,1,05,1.6,284.6,M,-32.0,M,,*54
+ $GPRMC,202349.00,A,3857.099889,N,09515.393461,W,6.4,133.3,301123,2.5,E,A,V*54
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,331,-15,-86,-64,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-13,-85,-50,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,387,-20,-90,-64,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202353.00,3857.096491,N,09515.390397,W,1,05,1.1,282.4,M,-32.0,M,,*5B
+ $GPRMC,202353.00,A,3857.096491,N,09515.390397,W,0.0,153.6,301123,2.5,E,A,V*59
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,331,-16,-87,-62,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-13,-84,-50,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,387,-20,-91,-62,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202357.00,3857.096365,N,09515.392428,W,1,06,1.2,281.6,M,-32.0,M,,*53
+ $GPRMC,202357.00,A,3857.096365,N,09515.392428,W,0.0,153.6,301123,2.5,E,A,V*50
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,331,-14,-86,-63,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-15,-81,-45,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,387,-17,-88,-63,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202401.00,3857.096239,N,09515.392130,W,1,07,1.1,281.9,M,-32.0,M,,*5E
+ $GPRMC,202401.00,A,3857.096239,N,09515.392130,W,0.0,153.6,301123,2.5,E,A,V*50
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,331,-16,-87,-63,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-13,-84,-50,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202406.00,3857.096282,N,09515.392152,W,1,06,1.3,282.0,M,-32.0,M,,*54
+ $GPRMC,202406.00,A,3857.096282,N,09515.392152,W,0.0,153.6,301123,2.5,E,A,V*53
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,331,-17,-89,-63,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-16,-86,-49,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,387,-20,-97,-63,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202410.00,3857.092705,N,09515.384575,W,1,06,1.3,282.6,M,-32.0,M,,*5D
+ $GPRMC,202410.00,A,3857.092705,N,09515.384575,W,15.0,117.7,301123,2.5,E,A,V*69
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,331,-14,-87,-64,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-15,-87,-51,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,387,-19,-92,-64,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202414.00,3857.089910,N,09515.376373,W,1,06,1.0,284.0,M,-32.0,M,,*57
+ $GPRMC,202414.00,A,3857.089910,N,09515.376373,W,6.6,116.4,301123,2.5,E,A,V*56
+OK
+UserDevice> +MMNEBCELL:
+ "neighbourcell intra","LTE",2300,331,-18,-88,-58,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-12,-80,-47,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,332,-20,-91,-58,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,387,-20,-92,-58,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
+AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202418.00,3857.080889,N,09515.367141,W,1,06,1.0,286.6,M,-32.0,M,,*54
+ $GPRMC,202418.00,A,3857.080889,N,09515.367141,W,7.7,143.4,301123,2.5,E,A,V*51
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,331,-18,-89,-60,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-12,-82,-50,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202422.00,3857.073693,N,09515.356375,W,1,07,0.9,289.5,M,-32.0,M,,*56
+ $GPRMC,202422.00,A,3857.073693,N,09515.356375,W,9.9,128.1,301123,2.5,E,A,V*5E
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,331,-20,-95,-57,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-12,-76,-42,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202426.00,3857.077566,N,09515.335775,W,1,07,0.9,286.2,M,-32.0,M,,*56
+ $GPRMC,202426.00,A,3857.077566,N,09515.335775,W,10.7,80.5,301123,2.5,E,A,V*57
+OK
+UserDevice> AT+MMSVRCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,331,-20,-91,-61,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-13,-83,-49,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202430.00,3857.082336,N,09515.316938,W,1,05,1.1,283.1,M,-32.0,M,,*53
+ $GPRMC,202430.00,A,3857.082336,N,09515.316938,W,12.7,79.0,301123,2.5,E,A,V*5E
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-12,-86,-52,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-16,-91,-66,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202434.00,3857.085570,N,09515.298143,W,1,05,1.1,281.1,M,-32.0,M,,*55
+ $GPRMC,202434.00,A,3857.085570,N,09515.298143,W,13.8,82.0,301123,2.5,E,A,V*50
+OK
+AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202435.00,3857.083508,N,09515.288388,W,1,05,1.1,281.8,M,-32.0,M,,*50
+ $GPRMC,202435.00,A,3857.083508,N,09515.288388,W,16.9,88.6,301123,2.5,E,A,V*54
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-11,-89,-58,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-18,-95,-70,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202439.00,3857.082962,N,09515.256357,W,1,07,0.9,282.9,M,-32.0,M,,*55
+ $GPRMC,202439.00,A,3857.082962,N,09515.256357,W,20.9,88.8,301123,2.5,E,A,V*53
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-13,-87,-53,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-17,-92,-68,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202443.00,3857.078291,N,09515.222741,W,1,07,0.9,283.9,M,-32.0,M,,*5B
+ $GPRMC,202443.00,A,3857.078291,N,09515.222741,W,20.8,89.1,301123,2.5,E,A,V*55
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-9,-84,-53,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-19,-94,-65,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202447.00,3857.080368,N,09515.194277,W,1,06,1.1,286.1,M,-32.0,M,,*54
+ $GPRMC,202447.00,A,3857.080368,N,09515.194277,W,17.2,86.2,301123,2.5,E,A,V*5D
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-12,-64,-30,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202451.00,3857.080151,N,09515.170724,W,1,05,1.2,286.0,M,-32.0,M,,*53
+ $GPRMC,202451.00,A,3857.080151,N,09515.170724,W,15.8,86.0,301123,2.4,E,A,V*50
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-13,-64,-28,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202455.00,3857.069537,N,09515.159063,W,1,04,1.2,288.4,M,-32.0,M,,*50
+ $GPRMC,202455.00,A,3857.069537,N,09515.159063,W,9.2,125.1,301123,2.4,E,A,V*56
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-9,-64,-35,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202459.00,3857.074421,N,09515.163100,W,1,04,1.2,287.4,M,-32.0,M,,*54
+ $GPRMC,202459.00,A,3857.074421,N,09515.163100,W,0.0,172.8,301123,2.4,E,A,V*5D
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-11,-64,-32,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202503.00,3857.077851,N,09515.167868,W,1,03,1.2,287.7,M,-32.0,M,,*55
+ $GPRMC,202503.00,A,3857.077851,N,09515.167868,W,0.0,43.0,301123,2.4,E,A,V*63
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-13,-63,-29,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202507.00,3857.078044,N,09515.167947,W,1,03,1.2,288.6,M,-32.0,M,,*50
+ $GPRMC,202507.00,A,3857.078044,N,09515.167947,W,0.0,43.0,301123,2.4,E,A,V*68
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-13,-64,-31,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202511.00,3857.078837,N,09515.167454,W,1,05,1.2,288.6,M,-32.0,M,,*52
+ $GPRMC,202511.00,A,3857.078837,N,09515.167454,W,0.0,43.0,301123,2.4,E,A,V*6C
+OK
+UserDevice> +MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-13,-73,-39,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
+AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202516.00,3857.075797,N,09515.144900,W,1,05,1.1,286.2,M,-32.0,M,,*59
+ $GPRMC,202516.00,A,3857.075797,N,09515.144900,W,14.0,97.9,301123,2.4,E,A,V*5B
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-14,-75,-37,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202520.00,3857.075985,N,09515.125265,W,1,05,1.1,288.4,M,-32.0,M,,*56
+ $GPRMC,202520.00,A,3857.075985,N,09515.125265,W,9.3,95.1,301123,2.4,E,A,V*69
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-12,-70,-37,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202524.00,3857.075948,N,09515.109249,W,1,04,1.1,287.3,M,-32.0,M,,*5A
+ $GPRMC,202524.00,A,3857.075948,N,09515.109249,W,10.3,95.8,301123,2.4,E,A,V*5D
+OK
+UserDevice> AT+MMSVRCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-12,-74,-42,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202528.00,3857.076649,N,09515.100368,W,1,04,1.1,288.8,M,-32.0,M,,*54
+ $GPRMC,202528.00,A,3857.076649,N,09515.100368,W,0.7,349.0,301123,2.4,E,A,V*58
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-12,-75,-41,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202532.00,3857.078901,N,09515.098094,W,1,03,1.2,288.7,M,-32.0,M,,*59
+ $GPRMC,202532.00,A,3857.078901,N,09515.098094,W,1.4,351.4,301123,2.4,E,A,V*51
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-13,-74,-39,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202536.00,3857.077515,N,09515.094772,W,1,03,1.2,290.8,M,-32.0,M,,*5E
+ $GPRMC,202536.00,A,3857.077515,N,09515.094772,W,0.0,311.0,301123,2.4,E,A,V*55
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-14,-74,-39,0,-,-,-,-,-
+OK
+UserDevice> UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-13,-74,-40,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,101,-20,-93,-55,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202545.00,3857.077831,N,09515.092359,W,1,04,1.1,285.4,M,-32.0,M,,*56
+ $GPRMC,202545.00,A,3857.077831,N,09515.092359,W,0.0,311.0,301123,2.4,E,A,V*51
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-13,-74,-40,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202549.00,3857.079171,N,09515.092268,W,1,04,1.1,282.9,M,-32.0,M,,*50
+ $GPRMC,202549.00,A,3857.079171,N,09515.092268,W,0.0,311.0,301123,2.4,E,A,V*5D
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-13,-70,-39,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202553.00,3857.079470,N,09515.092110,W,1,03,1.2,282.7,M,-32.0,M,,*59
+ $GPRMC,202553.00,A,3857.079470,N,09515.092110,W,0.0,311.0,301123,2.4,E,A,V*5E
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-13,-73,-40,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,387,-20,-83,-49,0,-,-,-,-,-
+OK
+UserDevice> +MGPSNMEA:
+ $GPGGA,202557.00,3857.078466,N,09515.088085,W,1,02,1.7,280.4,M,-32.0,M,,*58
+ $GPRMC,202557.00,A,3857.078466,N,09515.088085,W,0.0,169.7,301123,2.4,E,A,V*50
+OK
+UserDevice> AT+MMSVRCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-12,-72,-39,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
+AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,,,,,,0,,,,,,,,*66
+ $GPRMC,,V,,,,,,,,,,N*53
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-14,-67,-31,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,,,,,,0,,,,,,,,*66
+ $GPRMC,,V,,,,,,,,,,N*53
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-13,-71,-38,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,,,,,,0,,,,,,,,*66
+ $GPRMC,,V,,,,,,,,,,N*53
+OK
+UserDevice> AT+MMSVRCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-12,-70,-38,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202614.00,3857.079483,N,09515.092094,W,1,03,1.3,282.9,M,-32.0,M,,*57
+ $GPRMC,202614.00,A,3857.079483,N,09515.092094,W,0.0,311.0,301123,2.4,E,A,V*5F
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-10,-70,-41,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202618.00,3857.079475,N,09515.092093,W,1,03,1.5,282.9,M,-32.0,M,,*53
+ $GPRMC,202618.00,A,3857.079475,N,09515.092093,W,0.0,311.0,301123,2.4,E,A,V*5D
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-10,-71,-40,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202623.00,3857.079474,N,09515.092094,W,1,03,2.5,283.1,M,-32.0,M,,*57
+ $GPRMC,202623.00,A,3857.079474,N,09515.092094,W,0.0,311.0,301123,2.4,E,A,V*53
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-13,-68,-35,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202627.00,3857.079459,N,09515.092075,W,1,02,2.2,283.2,M,-32.0,M,,*56
+ $GPRMC,202627.00,A,3857.079459,N,09515.092075,W,0.0,311.0,301123,2.4,E,A,V*57
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-14,-76,-42,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202631.00,3857.079457,N,09515.092073,W,1,02,500.0,283.3,M,-32.0,M,,*5D
+ $GPRMC,202631.00,A,3857.079457,N,09515.092073,W,0.0,311.0,301123,2.4,E,A,V*58
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-14,-76,-42,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,387,-18,-83,-56,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202635.00,3857.079458,N,09515.092071,W,1,03,2.1,283.0,M,-32.0,M,,*50
+ $GPRMC,202635.00,A,3857.079458,N,09515.092071,W,0.0,311.0,301123,2.4,E,A,V*51
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-12,-73,-40,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,387,-20,-83,-52,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202639.00,3857.079456,N,09515.092071,W,1,03,2.5,282.8,M,-32.0,M,,*5F
+ $GPRMC,202639.00,A,3857.079456,N,09515.092071,W,0.0,311.0,301123,2.4,E,A,V*53
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-11,-71,-37,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,277,-20,-84,-49,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202643.00,3857.079455,N,09515.092070,W,1,03,2.5,282.9,M,-32.0,M,,*51
+ $GPRMC,202643.00,A,3857.079455,N,09515.092070,W,0.0,311.0,301123,2.4,E,A,V*5C
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-14,-72,-37,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202647.00,3857.079455,N,09515.092070,W,1,03,3.0,283.1,M,-32.0,M,,*58
+ $GPRMC,202647.00,A,3857.079455,N,09515.092070,W,0.0,311.0,301123,2.4,E,A,V*58
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-12,-71,-39,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,277,-20,-88,-51,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,,,,,,0,,,,,,,,*66
+ $GPRMC,,V,,,,,,,,,,N*53
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-14,-72,-39,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,277,-20,-84,-50,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,,,,,,0,,,,,,,,*66
+ $GPRMC,,V,,,,,,,,,,N*53
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,,,,,,0,,,,,,,,*66
+ $GPRMC,,V,,,,,,,,,,N*53
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-17,-87,-57,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,277,-13,-77,-44,0,-,-,-,-,-
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-18,-83,-55,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,277,-15,-78,-43,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,388,-17,-80,-55,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,387,-20,-93,-55,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,,,,,,0,,,,,,,,*66
+ $GPRMC,,V,,,,,,,,,,N*53
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-18,-90,-62,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,277,-15,-86,-50,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,388,-17,-87,-62,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,387,-13,-86,-62,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202727.00,3857.079452,N,09515.092051,W,1,05,2.0,290.7,M,-32.0,M,,*58
+ $GPRMC,202727.00,A,3857.079452,N,09515.092051,W,0.0,311.0,301123,2.4,E,A,V*5B
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-17,-81,-55,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,277,-15,-78,-42,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,387,-20,-88,-55,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202731.00,3857.078514,N,09514.978334,W,1,07,0.9,280.5,M,-32.0,M,,*5B
+ $GPRMC,202731.00,A,3857.078514,N,09514.978334,W,11.8,90.1,301123,2.4,E,A,V*51
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,277,-15,-82,-46,0,43,7,6,4,255
+ "neighbourcell intra","LTE",2300,278,-16,-84,-59,0,42,7,6,4,255
+ "neighbourcell intra","LTE",2300,387,-17,-85,-60,0,40,7,6,4,255
+ "neighbourcell inter","LTE",5230,-,-,-,-,-,-,0,6,1
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202735.00,3857.078029,N,09514.963953,W,1,07,0.9,285.1,M,-32.0,M,,*54
+ $GPRMC,202735.00,A,3857.078029,N,09514.963953,W,10.0,98.1,301123,2.4,E,A,V*5E
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,277,-15,-83,-46,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,388,-17,-86,-59,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-18,-86,-59,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202739.00,3857.077618,N,09514.950836,W,1,05,1.3,281.3,M,-32.0,M,,*5E
+ $GPRMC,202739.00,A,3857.077618,N,09514.950836,W,9.3,92.8,301123,2.4,E,A,V*63
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,277,-16,-83,-47,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,388,-20,-91,-60,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-14,-84,-59,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202744.00,3857.074386,N,09514.947136,W,1,06,1.0,279.7,M,-32.0,M,,*59
+ $GPRMC,202744.00,A,3857.074386,N,09514.947136,W,2.2,137.5,301123,2.4,E,A,V*5E
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,277,-14,-79,-45,0,46,7,6,4,255
+ "neighbourcell intra","LTE",2300,278,-18,-83,-56,0,42,7,6,4,255
+ "neighbourcell inter","LTE",5230,-,-,-,-,-,-,0,6,1
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202748.00,3857.078777,N,09514.946734,W,1,06,1.0,280.0,M,-32.0,M,,*57
+ $GPRMC,202748.00,A,3857.078777,N,09514.946734,W,0.0,91.7,301123,2.4,E,A,V*6E
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,277,-16,-83,-46,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-15,-81,-58,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-16,-86,-58,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202752.00,3857.079717,N,09514.946124,W,1,07,0.9,276.7,M,-32.0,M,,*5B
+ $GPRMC,202752.00,A,3857.079717,N,09514.946124,W,0.0,91.7,301123,2.4,E,A,V*65
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,277,-15,-80,-44,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-17,-83,-57,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,388,-15,-81,-57,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-16,-82,-57,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202756.00,3857.082635,N,09514.944092,W,1,06,1.3,273.7,M,-32.0,M,,*5B
+ $GPRMC,202756.00,A,3857.082635,N,09514.944092,W,5.8,10.7,301123,2.4,E,A,V*6E
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,388,-11,-82,-49,0,40,7,6,4,255
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202800.00,3857.099517,N,09514.944534,W,1,06,1.3,274.7,M,-32.0,M,,*50
+ $GPRMC,202800.00,A,3857.099517,N,09514.944534,W,10.2,0.1,301123,2.4,E,A,V*6B
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,277,-15,-85,-50,0,40,7,6,4,255
+ "neighbourcell intra","LTE",2300,387,-15,-87,-62,0,38,7,6,4,255
+ "neighbourcell intra","LTE",2300,278,-20,-92,-62,0,33,7,6,4,255
+ "neighbourcell inter","LTE",5230,-,-,-,-,-,-,0,6,1
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202804.00,3857.107549,N,09514.942795,W,1,06,1.5,272.7,M,-32.0,M,,*56
+ $GPRMC,202804.00,A,3857.107549,N,09514.942795,W,8.2,4.4,301123,2.4,E,A,V*55
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,277,-17,-90,-52,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,387,-11,-83,-63,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-20,-95,-63,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,388,-17,-91,-63,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202808.00,3857.121089,N,09514.942268,W,1,06,1.0,273.6,M,-32.0,M,,*55
+ $GPRMC,202808.00,A,3857.121089,N,09514.942268,W,7.6,7.0,301123,2.4,E,A,V*5F
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,277,-16,-90,-52,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,387,-12,-84,-64,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,388,-15,-87,-64,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-20,-97,-64,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202812.00,3857.134729,N,09514.939433,W,1,04,1.2,272.0,M,-32.0,M,,*54
+ $GPRMC,202812.00,A,3857.134729,N,09514.939433,W,8.5,9.1,301123,2.4,E,A,V*5A
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,277,-14,-84,-50,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,387,-12,-82,-62,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,388,-16,-88,-62,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202816.00,3857.144115,N,09514.937463,W,1,03,2.2,269.5,M,-32.0,M,,*5E
+ $GPRMC,202816.00,A,3857.144115,N,09514.937463,W,5.2,5.5,301123,2.4,E,A,V*59
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,277,-14,-85,-49,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,387,-12,-82,-62,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,388,-17,-89,-62,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-18,-90,-63,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202821.00,3857.142761,N,09514.915842,W,1,03,5.2,269.1,M,-32.0,M,,*55
+ $GPRMC,202821.00,A,3857.142761,N,09514.915842,W,5.2,69.6,301123,2.4,E,A,V*68
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,277,-14,-85,-49,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,387,-12,-82,-63,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,388,-17,-89,-63,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-20,-99,-63,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202825.00,3857.145073,N,09514.911844,W,1,03,3.2,269.8,M,-32.0,M,,*5F
+ $GPRMC,202825.00,A,3857.145073,N,09514.911844,W,3.7,71.4,301123,2.4,E,A,V*65
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,277,-16,-84,-47,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,387,-11,-82,-63,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202829.00,3857.145681,N,09514.912939,W,1,03,3.2,270.2,M,-32.0,M,,*52
+ $GPRMC,202829.00,A,3857.145681,N,09514.912939,W,2.3,82.8,301123,2.4,E,A,V*6F
+OK
+UserDevice> AT+MMSVRCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,277,-16,-88,-50,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,387,-15,-87,-64,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,388,-15,-88,-64,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202833.00,3857.145900,N,09514.918282,W,1,03,5.2,271.1,M,-32.0,M,,*5A
+ $GPRMC,202833.00,A,3857.145900,N,09514.918282,W,1.8,57.4,301123,2.4,E,A,V*6F
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,277,-19,-91,-50,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,387,-14,-86,-63,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,388,-13,-88,-63,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-20,-97,-63,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202837.00,3857.149479,N,09514.923153,W,1,02,4.3,270.6,M,-32.0,M,,*51
+ $GPRMC,202837.00,A,3857.149479,N,09514.923153,W,4.9,6.1,301123,2.4,E,A,V*56
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,277,-17,-90,-64,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,387,-13,-86,-64,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,388,-15,-89,-54,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-20,-94,-64,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,,,,,,0,,,,,,,,*66
+ $GPRMC,,V,,,,,,,,,,N*53
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,277,-18,-89,-63,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,387,-11,-82,-63,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,388,-14,-86,-50,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202845.00,3857.175764,N,09514.913150,W,1,04,3.3,275.7,M,-32.0,M,,*51
+ $GPRMC,202845.00,A,3857.175764,N,09514.913150,W,9.5,5.0,301123,2.4,E,A,V*50
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,388,-8,-78,-53,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-20,-96,-64,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,277,-20,-94,-64,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202849.00,3857.186946,N,09514.912761,W,1,04,3.3,274.6,M,-32.0,M,,*5A
+ $GPRMC,202849.00,A,3857.186946,N,09514.912761,W,8.8,0.6,301123,2.4,E,A,V*54
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,388,-7,-74,-48,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202853.00,3857.187803,N,09514.913204,W,1,04,3.3,273.1,M,-32.0,M,,*57
+ $GPRMC,202853.00,A,3857.187803,N,09514.913204,W,2.6,2.3,301123,2.4,E,A,V*5A
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,388,-7,-73,-46,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,277,-20,-88,-60,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202857.00,3857.189248,N,09514.919168,W,1,04,3.3,271.9,M,-32.0,M,,*51
+ $GPRMC,202857.00,A,3857.189248,N,09514.919168,W,2.2,319.1,301123,2.4,E,A,V*59
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,388,-9,-77,-50,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,277,-15,-87,-59,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-20,-94,-58,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202902.00,3857.194439,N,09514.923947,W,1,04,3.3,270.5,M,-32.0,M,,*5D
+ $GPRMC,202902.00,A,3857.194439,N,09514.923947,W,4.9,335.0,301123,2.4,E,A,V*5A
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,388,-11,-82,-48,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,277,-15,-88,-62,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202906.00,3857.198327,N,09514.928084,W,1,03,5.3,270.8,M,-32.0,M,,*5C
+ $GPRMC,202906.00,A,3857.198327,N,09514.928084,W,4.4,321.3,301123,2.4,E,A,V*5C
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,388,-11,-82,-50,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,277,-15,-83,-59,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-20,-93,-60,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-20,-92,-60,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202910.00,3857.201244,N,09514.952237,W,1,03,4.7,271.9,M,-32.0,M,,*5E
+ $GPRMC,202910.00,A,3857.201244,N,09514.952237,W,8.7,302.6,301123,2.4,E,A,V*50
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,388,-14,-87,-64,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,277,-15,-87,-53,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-20,-99,-63,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202914.00,3857.208541,N,09514.961891,W,1,04,3.2,270.6,M,-32.0,M,,*5C
+ $GPRMC,202914.00,A,3857.208541,N,09514.961891,W,9.4,304.5,301123,2.4,E,A,V*5E
+OK
+UserDevice> +MMNEBCELL:
+ "neighbourcell intra","LTE",2300,388,-14,-89,-65,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,277,-16,-89,-53,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-20,-98,-65,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
+AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202918.00,3857.213137,N,09514.969436,W,1,04,2.3,270.8,M,-32.0,M,,*58
+ $GPRMC,202918.00,A,3857.213137,N,09514.969436,W,2.7,310.6,301123,2.4,E,A,V*5A
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,388,-15,-88,-65,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,277,-15,-89,-54,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-20,-97,-65,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202922.00,3857.201616,N,09514.968387,W,1,04,2.3,267.6,M,-32.0,M,,*52
+ $GPRMC,202922.00,A,3857.201616,N,09514.968387,W,0.6,19.5,301123,2.4,E,A,V*62
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,388,-11,-88,-68,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,277,-17,-90,-53,0,-,-,-,-,-
+OK
+UserDevice> +MGPSNMEA:
+ $GPGGA,202926.00,3857.200281,N,09514.971218,W,1,03,6.3,267.4,M,-32.0,M,,*53
+ $GPRMC,202926.00,A,3857.200281,N,09514.971218,W,0.7,98.1,301123,2.4,E,A,V*6E
+OK
+UserDevice> AT+MMSVRCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,388,-11,-88,-68,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,277,-15,-90,-53,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,,,,,,0,,,,,,,,*66
+ $GPRMC,,V,,,,,,,,,,N*53
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,388,-13,-88,-66,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,277,-15,-88,-53,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,363,-20,-96,-66,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202935.00,3857.204583,N,09514.976080,W,1,04,1.5,265.0,M,-32.0,M,,*54
+ $GPRMC,202935.00,A,3857.204583,N,09514.976080,W,1.4,331.0,301123,2.4,E,A,V*5A
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,388,-10,-86,-65,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,277,-16,-88,-52,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-18,-91,-65,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202939.00,3857.203510,N,09514.981070,W,1,06,1.0,264.6,M,-32.0,M,,*52
+ $GPRMC,202939.00,A,3857.203510,N,09514.981070,W,4.4,264.1,301123,2.4,E,A,V*59
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,388,-9,-84,-55,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,277,-17,-95,-69,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-20,-97,-69,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202943.00,3857.204722,N,09514.987418,W,1,06,1.0,271.8,M,-32.0,M,,*5D
+ $GPRMC,202943.00,A,3857.204722,N,09514.987418,W,4.4,276.6,301123,2.4,E,A,V*58
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,388,-13,-89,-54,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,277,-14,-89,-66,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202947.00,3857.207321,N,09514.994611,W,1,06,1.0,266.4,M,-32.0,M,,*5E
+ $GPRMC,202947.00,A,3857.207321,N,09514.994611,W,4.9,277.0,301123,2.4,E,A,V*5B
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,388,-13,-89,-55,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,277,-15,-90,-68,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-17,-93,-68,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202951.00,3857.206372,N,09514.999810,W,1,08,0.8,263.6,M,-32.0,M,,*5C
+ $GPRMC,202951.00,A,3857.206372,N,09514.999810,W,2.7,266.8,301123,2.4,E,A,V*59
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,388,-13,-90,-66,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,277,-15,-90,-54,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-19,-97,-66,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,202955.00,3857.206040,N,09515.001132,W,1,08,0.8,263.7,M,-32.0,M,,*5B
+ $GPRMC,202955.00,A,3857.206040,N,09515.001132,W,1.0,266.7,301123,2.4,E,A,V*54
+OK
+UserDevice> AT+MGPSNMEA
++MMSRVCELL:
+ "servingcell","NOCONN","LTE","FDD",311,480,34D8716,277,2300,4,5,5,D806,-91,-16,-54,10,-
+OK
+UserDevice> AT+MMNEBCELL
+UserDevice> AT+MGPSNMEA
++MMSRVCELL:
+ "servingcell","NOCONN","LTE","FDD",311,480,34F0816,388,2300,4,5,5,D806,-85,-10,-55,11,-
+OK
+UserDevice> AT+MMNEBCELL
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203008.00,3857.204846,N,09515.003410,W,1,06,0.9,266.3,M,-32.0,M,,*5E
+ $GPRMC,203008.00,A,3857.204846,N,09515.003410,W,0.0,266.3,301123,2.4,E,A,V*5A
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203327.00,3857.197537,N,09515.061768,W,1,09,0.7,271.8,M,-32.0,M,,*56
+ $GPRMC,203327.00,A,3857.197537,N,09515.061768,W,4.7,277.7,301123,2.4,E,A,V*59
+OK
+UserDevice>  "neighbourcell intra","LTE",2300,388,-13,-90,-69,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,119,-20,-105,-71,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,277,-20,-98,-69,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,284,-12,-91,-57,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-20,-98,-69,0,-,-,-,-,-
+OK
+UserDevice> AT+MMNEBCELL
+AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203332.00,3857.206954,N,09515.067164,W,1,09,0.7,272.6,M,-32.0,M,,*51
+ $GPRMC,203332.00,A,3857.206954,N,09515.067164,W,13.6,2.0,301123,2.4,E,A,V*63
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,331,-15,-93,-67,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-16,-94,-67,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,389,-17,-93,-67,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,284,-14,-91,-56,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,363,-20,-98,-67,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203336.00,3857.226162,N,09515.067025,W,1,09,0.7,274.5,M,-32.0,M,,*5B
+ $GPRMC,203336.00,A,3857.226162,N,09515.067025,W,20.6,0.5,301123,2.4,E,A,V*6B
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,331,-15,-91,-67,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,284,-16,-92,-67,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,363,-16,-93,-69,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,389,-16,-95,-59,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-17,-93,-67,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203340.00,3857.250153,N,09515.066852,W,1,09,0.7,275.4,M,-32.0,M,,*50
+ $GPRMC,203340.00,A,3857.250153,N,09515.066852,W,21.5,0.4,301123,2.4,E,A,V*63
+OK
+UserDevice> AT+MMSVRCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,389,-8,-86,-57,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,284,-15,-91,-67,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-20,-97,-67,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-17,-94,-66,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203344.00,3857.274144,N,09515.065713,W,1,09,0.7,277.1,M,-32.0,M,,*5A
+ $GPRMC,203344.00,A,3857.274144,N,09515.065713,W,19.3,0.1,301123,2.4,E,A,V*66
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,389,-10,-87,-56,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,284,-10,-86,-69,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-20,-98,-69,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-17,-94,-69,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203348.00,3857.292539,N,09515.066266,W,1,09,0.7,280.8,M,-32.0,M,,*55
+ $GPRMC,203348.00,A,3857.292539,N,09515.066266,W,13.3,356.9,301123,2.4,E,A,V*6A
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,389,-11,-86,-54,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,284,-14,-89,-67,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-15,-88,-66,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203352.00,3857.302206,N,09515.067822,W,1,09,0.7,282.4,M,-32.0,M,,*58
+ $GPRMC,203352.00,A,3857.302206,N,09515.067822,W,3.0,343.8,301123,2.4,E,A,V*5E
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,389,-10,-85,-54,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,284,-13,-88,-64,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-15,-90,-64,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-20,-101,-65,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203356.00,3857.303224,N,09515.068250,W,1,09,0.7,282.0,M,-32.0,M,,*59
+ $GPRMC,203356.00,A,3857.303224,N,09515.068250,W,1.3,343.5,301123,2.4,E,A,V*57
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,389,-9,-84,-53,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,284,-14,-91,-63,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-18,-95,-63,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-20,-98,-63,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203400.00,3857.308737,N,09515.069661,W,1,09,0.7,281.2,M,-32.0,M,,*57
+ $GPRMC,203400.00,A,3857.308737,N,09515.069661,W,4.2,336.8,301123,2.4,E,A,V*53
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,389,-9,-80,-51,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,284,-15,-85,-59,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-20,-96,-59,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,195,-20,-96,-62,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-20,-89,-59,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203404.00,3857.314143,N,09515.069069,W,1,09,0.7,282.6,M,-32.0,M,,*52
+ $GPRMC,203404.00,A,3857.314143,N,09515.069069,W,5.5,35.3,301123,2.4,E,A,V*6C
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,389,-15,-89,-55,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,284,-11,-85,-64,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-20,-97,-64,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,387,-20,-99,-64,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203408.00,3857.317708,N,09515.059857,W,1,09,0.7,280.8,M,-32.0,M,,*5E
+ $GPRMC,203408.00,A,3857.317708,N,09515.059857,W,11.0,73.0,301123,2.4,E,A,V*5D
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,389,-16,-87,-61,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,284,-11,-82,-52,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,384,-20,-92,-62,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-20,-100,-62,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203412.00,3857.318430,N,09515.042465,W,1,09,0.7,282.1,M,-32.0,M,,*5E
+ $GPRMC,203412.00,A,3857.318430,N,09515.037230,W,12.8,89.2,301123,2.4,E,A,V*5C
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,284,-9,-77,-50,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,389,-20,-90,-60,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,283,-20,-89,-60,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
++MGPSNMEA:
+ $GPGGA,203417.00,3857.317918,N,09515.021561,W,1,09,0.7,279.7,M,-32.0,M,,*51
+ $GPRMC,203417.00,A,3857.317918,N,09515.021561,W,8.1,90.3,301123,2.4,E,A,V*6C
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,284,-6,-70,-42,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203421.00,3857.316667,N,09515.014349,W,1,09,0.7,276.3,M,-32.0,M,,*53
+ $GPRMC,203421.00,A,3857.316667,N,09515.014349,W,2.7,99.3,301123,2.4,E,A,V*60
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,284,-7,-71,-41,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203425.00,3857.316955,N,09515.010205,W,1,09,0.7,276.2,M,-32.0,M,,*55
+ $GPRMC,203425.00,A,3857.316955,N,09515.010205,W,0.0,99.8,301123,2.4,E,A,V*69
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,284,-7,-70,-44,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203429.00,3857.317492,N,09515.009696,W,1,09,0.7,276.9,M,-32.0,M,,*53
+ $GPRMC,203428.00,A,3857.317492,N,09515.009698,W,0.0,99.8,301123,2.4,E,A,V*6B
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,284,-7,-69,-43,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,474,-20,-85,-53,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203433.00,3857.317933,N,09515.008799,W,1,09,0.7,277.2,M,-32.0,M,,*5B
+ $GPRMC,203433.00,A,3857.317933,N,09515.008799,W,0.0,99.8,301123,2.4,E,A,V*66
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,284,-6,-70,-44,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
+GPSNMEA
++MGPSNMEA:
+ $GPGGA,203437.00,3857.318147,N,09515.008524,W,1,08,0.8,277.8,M,-32.0,M,,*5B
+ $GPRMC,203437.00,A,3857.318147,N,09515.008524,W,0.0,99.8,301123,2.4,E,A,V*62
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,284,-7,-70,-42,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,474,-19,-79,-52,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203441.00,3857.318153,N,09515.008499,W,1,08,0.8,277.9,M,-32.0,M,,*59
+ $GPRMC,203441.00,A,3857.318153,N,09515.008499,W,0.0,99.8,301123,2.4,E,A,V*61
+OK
+AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203442.00,3857.318150,N,09515.008486,W,1,08,0.8,277.9,M,-32.0,M,,*57
+ $GPRMC,203442.00,A,3857.318150,N,09515.008486,W,0.0,99.8,301123,2.4,E,A,V*6F
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,284,-6,-72,-44,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203446.00,3857.317907,N,09515.006712,W,1,09,0.7,279.5,M,-32.0,M,,*5A
+ $GPRMC,203446.00,A,3857.317907,N,09515.006712,W,2.7,102.0,301123,2.4,E,A,V*50
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,284,-7,-65,-36,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203450.00,3857.318564,N,09514.999424,W,1,09,0.7,276.1,M,-32.0,M,,*58
+ $GPRMC,203450.00,A,3857.318564,N,09514.999424,W,5.1,70.6,301123,2.4,E,A,V*6A
+OK
+UserDevice> AT+MMSVRCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,284,-6,-64,-38,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203454.00,3857.320651,N,09514.986112,W,1,09,0.7,279.0,M,-32.0,M,,*52
+ $GPRMC,203454.00,A,3857.320651,N,09514.986112,W,9.6,86.6,301123,2.4,E,A,V*6C
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,284,-6,-67,-41,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203458.00,3857.319264,N,09514.970996,W,1,09,0.7,279.9,M,-32.0,M,,*52
+ $GPRMC,203458.00,A,3857.319264,N,09514.970996,W,11.4,90.2,301123,2.4,E,A,V*5D
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,284,-6,-76,-52,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,387,-20,-96,-59,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,388,-20,-93,-59,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203502.00,3857.319151,N,09514.952181,W,1,09,0.7,279.9,M,-32.0,M,,*57
+ $GPRMC,203502.00,A,3857.319151,N,09514.952181,W,13.0,87.3,301123,2.4,E,A,V*59
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,284,-9,-83,-54,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,388,-12,-87,-65,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203506.00,3857.320579,N,09514.931921,W,1,09,0.7,278.9,M,-32.0,M,,*51
+ $GPRMC,203506.00,A,3857.320579,N,09514.931921,W,14.0,88.8,301123,2.4,E,A,V*5D
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,284,-16,-86,-62,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,388,-7,-80,-51,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,389,-19,-90,-61,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,277,-18,-90,-61,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-15,-90,-61,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203510.00,3857.320545,N,09514.909997,W,1,09,0.7,278.7,M,-32.0,M,,*51
+ $GPRMC,203510.00,A,3857.320545,N,09514.909997,W,14.5,91.6,301123,2.4,E,A,V*50
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,388,-7,-77,-45,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203514.00,3857.319225,N,09514.888418,W,1,09,0.7,278.5,M,-32.0,M,,*5E
+ $GPRMC,203514.00,A,3857.319225,N,09514.888418,W,15.2,88.5,301123,2.4,E,A,V*50
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,388,-8,-78,-46,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,277,-18,-88,-56,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203518.00,3857.318856,N,09514.867103,W,1,09,0.7,279.3,M,-32.0,M,,*54
+ $GPRMC,203518.00,A,3857.318856,N,09514.867103,W,13.1,87.9,301123,2.4,E,A,V*5B
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,388,-9,-78,-47,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,277,-20,-90,-58,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,387,-20,-91,-58,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203522.00,3857.317623,N,09514.845827,W,1,09,0.7,280.9,M,-32.0,M,,*5D
+ $GPRMC,203522.00,A,3857.317623,N,09514.845827,W,13.8,90.9,301123,2.4,E,A,V*51
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,388,-10,-79,-45,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,277,-20,-87,-61,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203526.00,3857.316913,N,09514.826924,W,1,09,0.7,280.9,M,-32.0,M,,*53
+ $GPRMC,203526.00,A,3857.316913,N,09514.826924,W,13.3,92.3,301123,2.4,E,A,V*5C
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,388,-9,-85,-56,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,277,-15,-89,-66,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,384,-20,-94,-66,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203530.00,3857.317331,N,09514.807678,W,1,09,0.7,279.5,M,-32.0,M,,*50
+ $GPRMC,203530.00,A,3857.317331,N,09514.807678,W,14.3,91.2,301123,2.4,E,A,V*50
+OK
+UserDevice> AT+MMNEBCELL
+No Neighbour Cell Information Received!
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203534.00,3857.317531,N,09514.786848,W,1,09,0.7,277.5,M,-32.0,M,,*57
+ $GPRMC,203534.00,A,3857.317531,N,09514.786848,W,16.9,89.9,301123,2.4,E,A,V*53
+OK
+UserDevice> +MMNEBCELL:
+ "neighbourcell intra","LTE",2300,387,-8,-87,-59,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,388,-19,-98,-70,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,277,-20,-100,-70,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,113,-20,-105,-70,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
+AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203539.00,3857.316719,N,09514.756459,W,1,09,0.7,279.9,M,-32.0,M,,*50
+ $GPRMC,203539.00,A,3857.316719,N,09514.756459,W,17.7,90.1,301123,2.4,E,A,V*59
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,277,-19,-101,-60,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,387,-11,-91,-71,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,388,-16,-99,-71,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203543.00,3857.316617,N,09514.730714,W,1,09,0.7,282.6,M,-32.0,M,,*53
+ $GPRMC,203543.00,A,3857.316617,N,09514.730714,W,18.4,90.2,301123,2.4,E,A,V*5E
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,277,-15,-96,-74,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,387,-11,-94,-62,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,260,-20,-110,-74,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203547.00,3857.316766,N,09514.704278,W,1,09,0.7,284.5,M,-32.0,M,,*5D
+ $GPRMC,203547.00,A,3857.316766,N,09514.704278,W,18.6,91.5,301123,2.4,E,A,V*51
+OK
+UserDevice> AT+MMSVRCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,277,-17,-94,-66,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,387,-16,-95,-51,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,388,-17,-96,-66,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,384,-14,-91,-66,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203552.00,3857.316446,N,09514.677432,W,1,09,0.7,288.6,M,-32.0,M,,*5A
+ $GPRMC,203552.00,A,3857.316446,N,09514.677432,W,10.5,93.3,301123,2.4,E,A,V*56
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,277,-14,-86,-50,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,384,-17,-89,-65,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,388,-20,-94,-65,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203556.00,3857.316721,N,09514.670451,W,1,09,0.7,292.0,M,-32.0,M,,*53
+ $GPRMC,203556.00,A,3857.316721,N,09514.670451,W,0.0,89.2,301123,2.4,E,A,V*6C
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,277,-15,-81,-45,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,384,-17,-84,-58,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,388,-20,-92,-56,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203600.00,3857.316318,N,09514.669389,W,1,09,0.7,292.1,M,-32.0,M,,*56
+ $GPRMC,203600.00,A,3857.316318,N,09514.669389,W,4.2,86.1,301123,2.4,E,A,V*62
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,277,-15,-87,-50,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,384,-19,-92,-66,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,388,-19,-92,-65,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203604.00,3857.318438,N,09514.662412,W,1,09,0.7,291.2,M,-32.0,M,,*57
+ $GPRMC,203604.00,A,3857.318438,N,09514.662412,W,6.2,54.2,301123,2.4,E,A,V*6D
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,277,-17,-92,-54,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,388,-16,-93,-69,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,387,-15,-93,-69,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,384,-19,-98,-68,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203608.00,3857.325390,N,09514.657500,W,1,09,0.7,292.7,M,-32.0,M,,*52
+ $GPRMC,203608.00,A,3857.325390,N,09514.657500,W,8.5,13.5,301123,2.4,E,A,V*63
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,277,-20,-96,-61,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,388,-15,-86,-49,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,387,-9,-80,-60,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203612.00,3857.336828,N,09514.663620,W,1,09,0.7,294.4,M,-32.0,M,,*50
+ $GPRMC,203612.00,A,3857.336828,N,09514.663620,W,14.8,328.7,301123,2.4,E,A,V*6D
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,387,-9,-78,-50,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,388,-14,-84,-62,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,277,-20,-91,-62,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203616.00,3857.351445,N,09514.676742,W,1,09,0.7,298.2,M,-32.0,M,,*59
+ $GPRMC,203616.00,A,3857.351445,N,09514.676742,W,17.9,322.2,301123,2.4,E,A,V*63
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,387,-9,-82,-58,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,277,-20,-96,-67,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,384,-20,-101,-68,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,388,-20,-96,-68,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,113,-20,-105,-67,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203620.00,3857.366977,N,09514.693952,W,1,09,0.7,299.6,M,-32.0,M,,*55
+ $GPRMC,203620.00,A,3857.366977,N,09514.693952,W,19.3,312.6,301123,2.4,E,A,V*69
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,387,-9,-88,-54,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,388,-17,-95,-66,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,277,-20,-106,-66,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203624.00,3857.380315,N,09514.713762,W,1,09,0.7,301.4,M,-32.0,M,,*51
+ $GPRMC,203624.00,A,3857.380315,N,09514.713762,W,16.8,302.5,301123,2.4,E,A,V*69
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,387,-7,-68,-39,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,388,-20,-81,-51,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,384,-20,-81,-51,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203628.00,3857.393979,N,09514.731245,W,1,09,0.7,302.3,M,-32.0,M,,*5B
+ $GPRMC,203628.00,A,3857.393979,N,09514.731245,W,13.9,313.0,301123,2.4,E,A,V*66
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,387,-8,-73,-48,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,388,-15,-79,-58,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203632.00,3857.402111,N,09514.746625,W,1,09,0.7,305.7,M,-32.0,M,,*58
+ $GPRMC,203632.00,A,3857.402111,N,09514.746625,W,9.8,314.8,301123,2.4,E,A,V*53
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,387,-8,-77,-50,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,169,-16,-86,-62,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203636.00,3857.408623,N,09514.751916,W,1,09,0.7,309.9,M,-32.0,M,,*5B
+ $GPRMC,203636.00,A,3857.408623,N,09514.751916,W,4.0,335.1,301123,2.4,E,A,V*5D
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,387,-9,-79,-49,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,169,-18,-86,-57,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-20,-93,-57,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203640.00,3857.411998,N,09514.752645,W,1,09,0.7,311.9,M,-32.0,M,,*5E
+ $GPRMC,203640.00,A,3857.411998,N,09514.752645,W,3.6,339.9,301123,2.4,E,A,V*54
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,387,-9,-80,-51,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,405,-20,-95,-60,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-19,-88,-60,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203644.00,3857.418324,N,09514.753807,W,1,09,0.7,311.3,M,-32.0,M,,*5D
+ $GPRMC,203644.00,A,3857.418324,N,09514.753807,W,9.0,356.4,301123,2.4,E,A,V*55
+OK
+UserDevice> +MMNEBCELL:
+ "neighbourcell intra","LTE",2300,387,-11,-80,-47,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-16,-87,-60,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,169,-14,-82,-60,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
+AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203648.00,3857.425544,N,09514.753399,W,1,08,0.8,312.0,M,-32.0,M,,*5D
+ $GPRMC,203648.00,A,3857.425544,N,09514.753399,W,5.3,9.6,301123,2.4,E,A,V*5F
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,387,-11,-81,-50,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-14,-85,-61,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,169,-15,-86,-61,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203652.00,3857.426342,N,09514.752934,W,1,09,0.7,310.1,M,-32.0,M,,*54
+ $GPRMC,203652.00,A,3857.426342,N,09514.752934,W,0.0,12.4,301123,2.4,E,A,V*65
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,387,-12,-82,-50,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-13,-85,-60,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,169,-16,-84,-60,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203656.00,3857.426486,N,09514.752811,W,1,09,0.7,310.3,M,-32.0,M,,*5B
+ $GPRMC,203656.00,A,3857.426486,N,09514.752811,W,0.0,12.4,301123,2.4,E,A,V*68
+OK
+UserDevice> AT+MMSVRCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,387,-12,-82,-49,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-14,-85,-60,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,169,-18,-87,-60,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203701.00,3857.427658,N,09514.752707,W,1,09,0.7,313.7,M,-32.0,M,,*57
+ $GPRMC,203701.00,A,3857.427658,N,09514.752707,W,0.0,12.4,301123,2.4,E,A,V*63
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,387,-11,-82,-50,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-13,-86,-62,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,169,-17,-87,-62,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203705.00,3857.428955,N,09514.752999,W,1,08,0.7,317.4,M,-32.0,M,,*51
+ $GPRMC,203705.00,A,3857.428955,N,09514.752999,W,0.0,12.4,301123,2.4,E,A,V*63
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,387,-12,-83,-50,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-14,-86,-62,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,169,-16,-88,-62,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203709.00,3857.428672,N,09514.752761,W,1,09,0.7,316.5,M,-32.0,M,,*5F
+ $GPRMC,203709.00,A,3857.428672,N,09514.752761,W,0.0,12.4,301123,2.4,E,A,V*6C
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,387,-11,-82,-51,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-14,-86,-59,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,169,-16,-87,-59,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203713.00,3857.428506,N,09514.752593,W,1,09,0.7,316.6,M,-32.0,M,,*58
+ $GPRMC,203713.00,A,3857.428506,N,09514.752593,W,0.0,12.4,301123,2.4,E,A,V*68
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,387,-11,-82,-51,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-15,-86,-62,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,169,-14,-84,-62,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203717.00,3857.425191,N,09514.753202,W,1,09,0.7,310.8,M,-32.0,M,,*5D
+ $GPRMC,203717.00,A,3857.425191,N,09514.753202,W,0.0,12.4,301123,2.4,E,A,V*65
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,387,-11,-81,-51,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-15,-86,-61,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,169,-14,-84,-61,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203721.00,3857.423873,N,09514.754203,W,1,08,0.7,307.9,M,-32.0,M,,*5B
+ $GPRMC,203721.00,A,3857.423873,N,09514.754203,W,0.0,12.4,301123,2.4,E,A,V*65
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,387,-10,-79,-49,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,169,-16,-86,-61,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-14,-84,-60,0,-,-,-,-,-
+ "neighbourcell inter","LTE",5230,387,-11,-69,-50,0,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203725.00,3857.423871,N,09514.754154,W,1,09,0.7,307.3,M,-32.0,M,,*57
+ $GPRMC,203725.00,A,3857.423871,N,09514.754154,W,1.6,12.4,301123,2.4,E,A,V*65
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",5230,387,-9,-71,-43,0,-,-,-,-,-
+ "neighbourcell intra","LTE",5230,169,-20,-83,-54,0,-,-,-,-,-
+ "neighbourcell inter","LTE",775,387,-6,-75,-58,0,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203729.00,3857.425843,N,09514.753249,W,1,09,0.7,307.8,M,-32.0,M,,*5F
+ $GPRMC,203729.00,A,3857.425843,N,09514.753249,W,2.3,13.3,301123,2.4,E,A,V*66
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",5230,387,-11,-69,-40,0,-,-,-,-,-
+ "neighbourcell intra","LTE",5230,405,-10,-71,-52,0,-,-,-,-,-
+ "neighbourcell intra","LTE",5230,169,-14,-74,-52,0,-,-,-,-,-
+ "neighbourcell inter","LTE",775,387,-7,-77,-62,0,-,-,-,-
+ "neighbourcell inter","LTE",775,405,-11,-82,-64,0,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203733.00,3857.430934,N,09514.751766,W,1,09,0.7,307.7,M,-32.0,M,,*54
+ $GPRMC,203733.00,A,3857.430934,N,09514.751766,W,5.2,11.3,301123,2.4,E,A,V*66
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",5230,405,-12,-72,-39,0,-,-,-,-,-
+ "neighbourcell intra","LTE",5230,387,-14,-73,-49,0,-,-,-,-,-
+ "neighbourcell intra","LTE",5230,169,-15,-73,-49,0,-,-,-,-,-
+ "neighbourcell inter","LTE",2300,387,-9,-79,-64,0,-,-,-,-
+ "neighbourcell inter","LTE",2300,405,-14,-85,-64,0,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203737.00,3857.439162,N,09514.752172,W,1,09,0.7,307.5,M,-32.0,M,,*50
+ $GPRMC,203737.00,A,3857.439162,N,09514.752172,W,7.5,341.9,301123,2.4,E,A,V*59
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",5230,405,-13,-74,-43,0,-,-,-,-,-
+ "neighbourcell intra","LTE",5230,387,-14,-76,-52,0,-,-,-,-,-
+ "neighbourcell intra","LTE",5230,169,-13,-75,-52,0,-,-,-,-,-
+ "neighbourcell intra","LTE",5230,407,-18,-80,-52,0,-,-,-,-,-
+ "neighbourcell inter","LTE",2300,387,-13,-86,-66,0,-,-,-,-
+ "neighbourcell inter","LTE",2300,169,-12,-84,-66,0,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203741.00,3857.447087,N,09514.764250,W,1,09,0.7,308.5,M,-32.0,M,,*5B
+ $GPRMC,203741.00,A,3857.447087,N,09514.764250,W,13.3,290.0,301123,2.4,E,A,V*6A
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",5230,387,-5,-68,-45,0,-,-,-,-,-
+ "neighbourcell inter","LTE",2300,387,-10,-86,-66,0,-,-,-,-
+ "neighbourcell inter","LTE",2300,331,-14,-89,-66,0,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203745.00,3857.452402,N,09514.781673,W,1,09,0.7,308.8,M,-32.0,M,,*51
+ $GPRMC,203745.00,A,3857.452402,N,09514.781673,W,13.7,288.3,301123,2.4,E,A,V*63
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",5230,387,-6,-72,-48,0,-,-,-,-,-
+ "neighbourcell intra","LTE",5230,405,-17,-87,-62,0,-,-,-,-,-
+ "neighbourcell intra","LTE",5230,407,-17,-84,-62,0,-,-,-,-,-
+ "neighbourcell inter","LTE",2300,387,-10,-83,-63,0,-,-,-,-
+ "neighbourcell inter","LTE",2300,331,-14,-88,-63,0,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203749.00,3857.458290,N,09514.799058,W,1,08,0.7,308.5,M,-32.0,M,,*50
+ $GPRMC,203749.00,A,3857.458290,N,09514.799058,W,10.7,304.8,301123,2.4,E,A,V*63
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",5230,387,-7,-72,-44,0,-,-,-,-,-
+ "neighbourcell intra","LTE",5230,405,-18,-81,-55,0,-,-,-,-,-
+ "neighbourcell intra","LTE",5230,169,-15,-76,-54,0,-,-,-,-,-
+ "neighbourcell inter","LTE",2300,387,-8,-79,-62,0,-,-,-,-
+ "neighbourcell inter","LTE",2300,169,-19,-89,-62,0,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203754.00,3857.465687,N,09514.817464,W,1,09,0.7,307.5,M,-32.0,M,,*5C
+ $GPRMC,203754.00,A,3857.465687,N,09514.817464,W,9.0,295.0,301123,2.4,E,A,V*5F
+OK
+UserDevice> +MMNEBCELL:
+ "neighbourcell intra","LTE",5230,387,-7,-72,-47,0,-,-,-,-,-
+ "neighbourcell intra","LTE",5230,405,-14,-80,-58,0,-,-,-,-,-
+ "neighbourcell intra","LTE",5230,169,-20,-87,-58,0,-,-,-,-,-
+ "neighbourcell intra","LTE",5230,407,-19,-85,-58,0,-,-,-,-,-
+ "neighbourcell inter","LTE",2300,387,-8,-79,-61,0,-,-,-,-
+ "neighbourcell inter","LTE",2300,169,-17,-87,-61,0,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
+AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203758.00,3857.467646,N,09514.824717,W,1,08,0.7,309.7,M,-32.0,M,,*55
+ $GPRMC,203758.00,A,3857.467646,N,09514.824717,W,1.1,294.0,301123,2.4,E,A,V*53
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",5230,387,-6,-74,-49,0,-,-,-,-,-
+ "neighbourcell intra","LTE",5230,405,-14,-80,-58,0,-,-,-,-,-
+ "neighbourcell intra","LTE",5230,169,-20,-89,-57,0,-,-,-,-,-
+ "neighbourcell intra","LTE",5230,407,-18,-84,-57,0,-,-,-,-,-
+ "neighbourcell inter","LTE",2300,387,-8,-78,-63,0,-,-,-,-
+ "neighbourcell inter","LTE",2300,169,-15,-87,-63,0,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203802.00,3857.465896,N,09514.824388,W,1,09,0.7,307.0,M,-32.0,M,,*5E
+ $GPRMC,203802.00,A,3857.465896,N,09514.824388,W,0.0,292.0,301123,2.4,E,A,V*56
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",5230,387,-6,-72,-47,0,-,-,-,-,-
+ "neighbourcell intra","LTE",5230,405,-15,-80,-58,0,-,-,-,-,-
+ "neighbourcell intra","LTE",5230,407,-18,-83,-57,0,-,-,-,-,-
+ "neighbourcell inter","LTE",2300,387,-9,-79,-62,0,-,-,-,-
+ "neighbourcell inter","LTE",2300,169,-16,-88,-62,0,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203806.00,3857.464638,N,09514.824039,W,1,08,0.8,304.4,M,-32.0,M,,*51
+ $GPRMC,203806.00,A,3857.464638,N,09514.824039,W,0.0,290.6,301123,2.4,E,A,V*54
+OK
+UserDevice> AT+MMSVRCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",5230,387,-7,-71,-45,0,-,-,-,-,-
+ "neighbourcell intra","LTE",5230,407,-18,-81,-54,0,-,-,-,-,-
+ "neighbourcell intra","LTE",5230,405,-16,-80,-54,0,-,-,-,-,-
+ "neighbourcell inter","LTE",2300,387,-9,-79,-60,0,-,-,-,-
+ "neighbourcell inter","LTE",2300,169,-16,-87,-60,0,-,-,-,-
+ "neighbourcell inter","LTE",2300,405,-15,-85,-60,0,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203810.00,3857.464607,N,09514.823823,W,1,07,0.8,304.2,M,-32.0,M,,*57
+ $GPRMC,203810.00,A,3857.464607,N,09514.823823,W,0.0,290.5,301123,2.4,E,A,V*58
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",5230,387,-7,-71,-44,0,-,-,-,-,-
+ "neighbourcell intra","LTE",5230,407,-20,-87,-59,0,-,-,-,-,-
+ "neighbourcell intra","LTE",5230,405,-12,-80,-59,0,-,-,-,-,-
+ "neighbourcell inter","LTE",2300,387,-8,-79,-62,0,-,-,-,-
+ "neighbourcell inter","LTE",2300,169,-17,-88,-62,0,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203814.00,3857.464664,N,09514.823827,W,1,07,0.8,304.2,M,-32.0,M,,*52
+ $GPRMC,203814.00,A,3857.464664,N,09514.823827,W,0.0,290.6,301123,2.4,E,A,V*5E
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",5230,387,-7,-72,-47,0,-,-,-,-,-
+ "neighbourcell intra","LTE",5230,407,-19,-85,-58,0,-,-,-,-,-
+ "neighbourcell intra","LTE",5230,405,-13,-79,-57,0,-,-,-,-,-
+ "neighbourcell inter","LTE",2300,387,-8,-79,-62,0,-,-,-,-
+ "neighbourcell inter","LTE",2300,169,-16,-87,-62,0,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203818.00,3857.464700,N,09514.823844,W,1,07,0.8,304.2,M,-32.0,M,,*58
+ $GPRMC,203818.00,A,3857.464700,N,09514.823844,W,0.0,290.6,301123,2.4,E,A,V*54
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",5230,387,-8,-72,-46,0,-,-,-,-,-
+ "neighbourcell intra","LTE",5230,407,-15,-79,-54,0,-,-,-,-,-
+ "neighbourcell inter","LTE",2300,387,-8,-78,-61,0,-,-,-,-
+ "neighbourcell inter","LTE",2300,169,-17,-88,-61,0,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203822.00,3857.464935,N,09514.824356,W,1,09,0.7,303.4,M,-32.0,M,,*56
+ $GPRMC,203822.00,A,3857.464935,N,09514.824356,W,2.4,294.7,301123,2.4,E,A,V*59
+AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203823.00,3857.465425,N,09514.825622,W,1,09,0.7,304.3,M,-32.0,M,,*5D
+ $GPRMC,203823.00,A,3857.465425,N,09514.825622,W,4.4,284.9,301123,2.4,E,A,V*5B
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",5230,387,-6,-71,-45,0,-,-,-,-,-
+ "neighbourcell intra","LTE",5230,405,-11,-77,-58,0,-,-,-,-,-
+ "neighbourcell intra","LTE",5230,169,-19,-85,-58,0,-,-,-,-,-
+ "neighbourcell intra","LTE",5230,283,-20,-94,-58,0,-,-,-,-,-
+ "neighbourcell inter","LTE",2300,387,-8,-77,-61,0,-,-,-,-
+ "neighbourcell inter","LTE",2300,169,-17,-86,-61,0,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203828.00,3857.470895,N,09514.838613,W,1,08,0.7,305.0,M,-32.0,M,,*58
+ $GPRMC,203827.00,A,3857.469363,N,09514.834892,W,9.5,294.7,301123,2.4,E,A,V*50
+OK
+UserDevice> AT+MMSVRCELL
+AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",5230,387,-6,-71,-48,0,-,-,-,-,-
+ "neighbourcell inter","LTE",2300,387,-8,-79,-62,0,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203832.00,3857.476560,N,09514.851845,W,1,09,0.7,304.7,M,-32.0,M,,*57
+ $GPRMC,203832.00,A,3857.476560,N,09514.851845,W,10.6,295.9,301123,2.4,E,A,V*62
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",5230,387,-5,-66,-43,0,-,-,-,-,-
+ "neighbourcell intra","LTE",5230,283,-20,-84,-52,0,-,-,-,-,-
+ "neighbourcell inter","LTE",2300,387,-10,-85,-66,0,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203836.00,3857.481710,N,09514.867327,W,1,09,0.7,305.7,M,-32.0,M,,*55
+ $GPRMC,203836.00,A,3857.481710,N,09514.867327,W,12.3,293.6,301123,2.4,E,A,V*6F
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",5230,387,-8,-72,-45,0,-,-,-,-,-
+ "neighbourcell intra","LTE",5230,283,-12,-74,-56,0,-,-,-,-,-
+ "neighbourcell inter","LTE",2300,387,-14,-81,-58,0,-,-,-,-
+ "neighbourcell inter","LTE",2300,283,-9,-74,-58,0,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203840.00,3857.486595,N,09514.882469,W,1,09,0.7,305.6,M,-32.0,M,,*5B
+ $GPRMC,203840.00,A,3857.486595,N,09514.882469,W,12.0,293.7,301123,2.4,E,A,V*62
+OK
+UserDevice> +MMNEBCELL:
+ "neighbourcell intra","LTE",2300,283,-9,-82,-47,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,387,-10,-81,-59,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
+AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203844.00,3857.492699,N,09514.898941,W,1,09,0.7,306.0,M,-32.0,M,,*5C
+ $GPRMC,203844.00,A,3857.492699,N,09514.898941,W,12.1,293.9,301123,2.4,E,A,V*6F
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,283,-8,-77,-46,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,387,-14,-82,-55,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,121,-20,-90,-56,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203848.00,3857.497690,N,09514.912811,W,1,09,0.7,304.6,M,-32.0,M,,*5F
+ $GPRMC,203848.00,A,3857.497690,N,09514.912811,W,8.5,299.9,301123,2.4,E,A,V*5D
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,283,-7,-71,-46,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,387,-20,-85,-57,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203852.00,3857.501408,N,09514.920859,W,1,09,0.7,301.5,M,-32.0,M,,*52
+ $GPRMC,203852.00,A,3857.501408,N,09514.920859,W,2.9,290.8,301123,2.4,E,A,V*58
+OK
+UserDevice> AT+MMSVRCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,283,-6,-77,-51,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,387,-16,-87,-61,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-20,-99,-61,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203856.00,3857.504624,N,09514.928525,W,1,09,0.7,303.0,M,-32.0,M,,*56
+ $GPRMC,203856.00,A,3857.504624,N,09514.928525,W,7.6,291.0,301123,2.4,E,A,V*58
+OK
+AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203857.00,3857.505641,N,09514.931374,W,1,09,0.7,303.2,M,-32.0,M,,*5D
+ $GPRMC,203857.00,A,3857.505641,N,09514.931374,W,9.8,294.5,301123,2.4,E,A,V*51
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,283,-9,-89,-60,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,387,-13,-91,-70,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-20,-102,-70,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,406,-15,-95,-70,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,384,-17,-97,-71,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203901.00,3857.511312,N,09514.946717,W,1,08,0.8,300.2,M,-32.0,M,,*55
+ $GPRMC,203901.00,A,3857.511312,N,09514.946717,W,10.5,289.4,301123,2.4,E,A,V*6C
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,283,-10,-90,-57,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,387,-18,-96,-68,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,406,-16,-95,-68,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
+AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203906.00,3857.516171,N,09514.964794,W,1,07,0.8,301.3,M,-32.0,M,,*56
+ $GPRMC,203905.00,A,3857.515856,N,09514.961696,W,9.1,279.9,301123,2.4,E,A,V*54
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,283,-15,-91,-68,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,406,-7,-82,-54,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,387,-18,-94,-67,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203910.00,3857.520147,N,09514.968109,W,1,09,0.7,302.1,M,-32.0,M,,*5F
+ $GPRMC,203910.00,A,3857.520147,N,09514.968109,W,0.0,286.4,301123,2.4,E,A,V*52
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,283,-17,-91,-66,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,406,-7,-82,-56,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203914.00,3857.521433,N,09514.967562,W,1,09,0.7,301.8,M,-32.0,M,,*50
+ $GPRMC,203914.00,A,3857.521433,N,09514.967562,W,0.0,286.4,301123,2.4,E,A,V*57
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,283,-17,-91,-67,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,406,-6,-81,-54,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203918.00,3857.521717,N,09514.967488,W,1,08,0.8,302.0,M,-32.0,M,,*59
+ $GPRMC,203918.00,A,3857.521717,N,09514.967488,W,0.0,286.4,301123,2.4,E,A,V*5B
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,283,-13,-92,-67,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,406,-7,-84,-57,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-20,-97,-68,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203922.00,3857.522574,N,09514.967252,W,1,08,0.7,303.2,M,-32.0,M,,*59
+ $GPRMC,203922.00,A,3857.522574,N,09514.967252,W,0.5,290.8,301123,2.4,E,A,V*59
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,283,-15,-92,-69,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,406,-8,-86,-56,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,387,-20,-100,-69,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203926.00,3857.523022,N,09514.967188,W,1,08,0.7,305.7,M,-32.0,M,,*5D
+ $GPRMC,203926.00,A,3857.523022,N,09514.967188,W,0.0,290.8,301123,2.4,E,A,V*5B
+OK
+UserDevice> +MMNEBCELL:
+ "neighbourcell intra","LTE",2300,283,-15,-94,-70,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,406,-7,-85,-59,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
+AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203930.00,3857.522926,N,09514.967161,W,1,07,0.8,306.8,M,-32.0,M,,*5D
+ $GPRMC,203930.00,A,3857.522926,N,09514.967161,W,0.0,290.8,301123,2.4,E,A,V*57
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,283,-14,-89,-67,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,406,-7,-85,-57,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,361,-19,-95,-67,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203934.00,3857.522939,N,09514.967194,W,1,07,0.8,307.2,M,-32.0,M,,*56
+ $GPRMC,203934.00,A,3857.522939,N,09514.967194,W,0.5,290.8,301123,2.4,E,A,V*52
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,283,-13,-91,-69,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,406,-7,-84,-57,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,387,-19,-97,-69,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203938.00,3857.524584,N,09514.972920,W,1,09,0.7,306.2,M,-32.0,M,,*55
+ $GPRMC,203938.00,A,3857.524584,N,09514.972920,W,7.7,295.2,301123,2.4,E,A,V*5B
+OK
+UserDevice> AT+MMSVRCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,283,-16,-93,-67,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,406,-8,-87,-56,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,413,-20,-102,-67,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203943.00,3857.529605,N,09514.990226,W,1,08,0.7,306.7,M,-32.0,M,,*5B
+ $GPRMC,203943.00,A,3857.529605,N,09514.990226,W,11.9,296.1,301123,2.4,E,A,V*68
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,283,-12,-90,-69,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,406,-10,-89,-56,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,169,-17,-94,-68,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,170,-15,-92,-68,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203947.00,3857.533341,N,09515.003244,W,1,08,0.8,305.8,M,-32.0,M,,*54
+ $GPRMC,203947.00,A,3857.533341,N,09515.003244,W,7.3,305.0,301123,2.4,E,A,V*53
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,283,-10,-86,-54,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,406,-13,-89,-66,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,169,-17,-92,-66,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,170,-14,-89,-66,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203951.00,3857.536723,N,09515.014710,W,1,08,0.8,305.2,M,-32.0,M,,*5E
+ $GPRMC,203951.00,A,3857.536723,N,09515.014710,W,10.3,288.9,301123,2.4,E,A,V*68
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,283,-10,-83,-54,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,406,-13,-88,-66,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,169,-17,-89,-66,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,170,-16,-88,-65,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203955.00,3857.539836,N,09515.027467,W,1,09,0.7,305.6,M,-32.0,M,,*57
+ $GPRMC,203955.00,A,3857.539836,N,09515.027467,W,7.0,283.9,301123,2.4,E,A,V*55
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,283,-8,-81,-50,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,406,-10,-84,-64,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,170,-20,-93,-63,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,203959.00,3857.541468,N,09515.035094,W,1,09,0.7,303.8,M,-32.0,M,,*50
+ $GPRMC,203959.00,A,3857.541468,N,09515.035094,W,5.2,301.4,301123,2.4,E,A,V*5C
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,283,-9,-80,-52,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,406,-12,-82,-64,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,170,-16,-85,-64,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204003.00,3857.548140,N,09515.043590,W,1,09,0.7,305.7,M,-32.0,M,,*5E
+ $GPRMC,204003.00,A,3857.548140,N,09515.043590,W,9.5,317.1,301123,2.4,E,A,V*52
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,283,-8,-80,-56,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,406,-16,-88,-68,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,170,-16,-87,-67,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,169,-20,-105,-67,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204007.00,3857.552936,N,09515.053403,W,1,09,0.7,308.9,M,-32.0,M,,*51
+ $GPRMC,204007.00,A,3857.552936,N,09515.053403,W,6.9,278.7,301123,2.4,E,A,V*53
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,283,-7,-80,-50,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,406,-19,-92,-61,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204011.00,3857.549621,N,09515.063144,W,1,09,0.7,307.9,M,-32.0,M,,*5F
+ $GPRMC,204011.00,A,3857.549621,N,09515.063144,W,6.2,228.5,301123,2.4,E,A,V*5E
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,283,-8,-79,-52,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,170,-20,-93,-61,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,406,-20,-92,-61,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204015.00,3857.542233,N,09515.068116,W,1,09,0.7,304.1,M,-32.0,M,,*50
+ $GPRMC,204015.00,A,3857.542233,N,09515.068116,W,6.4,197.1,301123,2.4,E,A,V*5F
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,283,-7,-72,-37,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204019.00,3857.537315,N,09515.072429,W,1,09,0.7,302.7,M,-32.0,M,,*59
+ $GPRMC,204019.00,A,3857.537315,N,09515.072429,W,6.7,226.6,301123,2.4,E,A,V*5B
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,283,-6,-72,-45,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,170,-20,-91,-56,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204023.00,3857.536479,N,09515.089511,W,1,08,0.8,303.6,M,-32.0,M,,*5C
+ $GPRMC,204023.00,A,3857.536479,N,09515.089511,W,14.6,269.7,301123,2.4,E,A,V*68
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,283,-9,-85,-56,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,282,-15,-91,-72,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204027.00,3857.536266,N,09515.108209,W,1,09,0.7,305.4,M,-32.0,M,,*5C
+ $GPRMC,204027.00,A,3857.536266,N,09515.108209,W,10.8,269.4,301123,2.4,E,A,V*6B
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,283,-10,-89,-57,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,282,-14,-94,-69,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-19,-99,-68,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,389,-16,-95,-68,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204031.00,3857.537629,N,09515.117324,W,1,09,0.7,306.5,M,-32.0,M,,*57
+ $GPRMC,204031.00,A,3857.537629,N,09515.117324,W,4.9,252.0,301123,2.4,E,A,V*5A
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,283,-13,-93,-70,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,282,-12,-93,-60,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,389,-19,-100,-70,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-20,-103,-70,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,384,-20,-109,-71,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204035.00,3857.534289,N,09515.123916,W,1,09,0.7,305.4,M,-32.0,M,,*50
+ $GPRMC,204035.00,A,3857.534289,N,09515.123916,W,5.9,219.0,301123,2.4,E,A,V*51
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,282,-9,-85,-55,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,283,-16,-92,-65,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-20,-97,-64,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204039.00,3857.522978,N,09515.128231,W,1,09,0.7,302.6,M,-32.0,M,,*5E
+ $GPRMC,204039.00,A,3857.522978,N,09515.128231,W,13.1,185.1,301123,2.4,E,A,V*62
+OK
+AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204040.00,3857.518047,N,09515.128487,W,1,09,0.7,304.0,M,-32.0,M,,*57
+ $GPRMC,204040.00,A,3857.518047,N,09515.128487,W,17.7,178.1,301123,2.4,E,A,V*6B
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,282,-7,-70,-37,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-20,-91,-52,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204043.00,3857.502419,N,09515.128398,W,1,09,0.7,300.7,M,-32.0,M,,*5A
+ $GPRMC,204043.00,A,3857.502419,N,09515.128398,W,20.9,180.0,301123,2.4,E,A,V*69
+OK
+T+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204044.00,3857.496484,N,09515.128738,W,1,08,0.7,300.2,M,-32.0,M,,*5F
+ $GPRMC,204044.00,A,3857.496484,N,09515.128738,W,21.1,180.7,301123,2.4,E,A,V*66
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,282,-10,-88,-58,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-19,-96,-67,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,389,-12,-89,-68,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,284,-16,-94,-68,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,384,-20,-103,-68,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204048.00,3857.474199,N,09515.130826,W,1,08,0.7,298.4,M,-32.0,M,,*59
+ $GPRMC,204048.00,A,3857.474199,N,09515.130826,W,18.8,180.3,301123,2.4,E,A,V*61
+OK
+UserDevice> AT+MMSVRCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,282,-12,-88,-56,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-18,-92,-66,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,389,-17,-91,-67,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,284,-19,-93,-66,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,384,-17,-92,-66,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204052.00,3857.453805,N,09515.127711,W,1,08,0.7,298.3,M,-32.0,M,,*51
+ $GPRMC,204052.00,A,3857.453805,N,09515.127711,W,13.3,191.9,301123,2.4,E,A,V*64
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,282,-18,-91,-62,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,213,-18,-92,-62,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,389,-16,-89,-62,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,284,-9,-83,-53,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,384,-19,-94,-62,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204056.00,3857.442791,N,09515.128701,W,1,09,0.7,295.6,M,-32.0,M,,*50
+ $GPRMC,204056.00,A,3857.442791,N,09515.128701,W,6.3,182.3,301123,2.4,E,A,V*50
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,282,-13,-89,-67,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,384,-20,-98,-66,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,389,-14,-91,-66,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,284,-11,-89,-58,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,213,-16,-93,-67,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204100.00,3857.437080,N,09515.132204,W,1,08,0.7,294.8,M,-32.0,M,,*52
+ $GPRMC,204100.00,A,3857.437080,N,09515.132204,W,5.9,184.9,301123,2.4,E,A,V*59
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,282,-18,-94,-65,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,213,-15,-92,-65,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,389,-10,-86,-65,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,284,-15,-92,-53,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204104.00,3857.429662,N,09515.139570,W,1,09,0.7,295.2,M,-32.0,M,,*56
+ $GPRMC,204104.00,A,3857.429662,N,09515.139570,W,10.5,232.6,301123,2.4,E,A,V*6E
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,384,-20,-96,-61,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,389,-7,-79,-51,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204108.00,3857.426955,N,09515.156462,W,1,09,0.7,293.4,M,-32.0,M,,*55
+ $GPRMC,204108.00,A,3857.426955,N,09515.156462,W,14.7,266.9,301123,2.4,E,A,V*65
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,282,-14,-92,-70,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,389,-9,-88,-61,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,384,-20,-102,-70,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,213,-20,-100,-70,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,284,-20,-99,-70,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204112.00,3857.428278,N,09515.175949,W,1,09,0.7,293.9,M,-32.0,M,,*5C
+ $GPRMC,204112.00,A,3857.428278,N,09515.175949,W,10.3,269.6,301123,2.4,E,A,V*61
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,282,-10,-90,-67,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,389,-9,-88,-58,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,384,-20,-106,-68,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204116.00,3857.428832,N,09515.186201,W,1,09,0.7,292.4,M,-32.0,M,,*5B
+ $GPRMC,204116.00,A,3857.428832,N,09515.186201,W,4.7,269.4,301123,2.4,E,A,V*59
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,282,-10,-88,-67,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,389,-10,-89,-57,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-19,-97,-67,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204120.00,3857.429842,N,09515.194601,W,1,09,0.7,293.2,M,-32.0,M,,*58
+ $GPRMC,204120.00,A,3857.429842,N,09515.194601,W,8.4,273.4,301123,2.4,E,A,V*59
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,282,-10,-88,-68,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,389,-12,-93,-61,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,284,-20,-98,-68,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-15,-92,-68,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204124.00,3857.430945,N,09515.208852,W,1,09,0.7,294.4,M,-32.0,M,,*5D
+ $GPRMC,204124.00,A,3857.430945,N,09515.208852,W,10.5,283.3,301123,2.4,E,A,V*6D
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,282,-8,-88,-60,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,389,-15,-95,-71,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204128.00,3857.431142,N,09515.221130,W,1,09,0.7,290.3,M,-32.0,M,,*5A
+ $GPRMC,204128.00,A,3857.431142,N,09515.221130,W,4.6,267.9,301123,2.4,E,A,V*5F
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,282,-8,-91,-63,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,389,-20,-101,-74,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-16,-97,-74,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,284,-17,-98,-74,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204133.00,3857.431163,N,09515.223218,W,1,09,0.7,292.3,M,-32.0,M,,*5A
+ $GPRMC,204133.00,A,3857.431163,N,09515.223218,W,0.0,272.4,301123,2.4,E,A,V*56
+OK
+UserDevice> +MMNEBCELL:
+ "neighbourcell intra","LTE",2300,282,-10,-90,-62,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,284,-17,-96,-72,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-17,-97,-72,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
+AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204137.00,3857.430816,N,09515.223275,W,1,09,0.7,291.5,M,-32.0,M,,*5A
+ $GPRMC,204137.00,A,3857.430816,N,09515.223275,W,0.0,271.7,301123,2.4,E,A,V*53
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,282,-9,-90,-62,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,284,-18,-98,-71,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-17,-98,-71,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,389,-17,-97,-71,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204141.00,3857.430808,N,09515.223118,W,1,09,0.7,291.4,M,-32.0,M,,*5D
+ $GPRMC,204141.00,A,3857.430808,N,09515.223118,W,0.0,271.7,301123,2.4,E,A,V*55
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,282,-10,-91,-61,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,284,-19,-99,-73,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-17,-97,-73,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204145.00,3857.430820,N,09515.223193,W,1,09,0.7,291.6,M,-32.0,M,,*52
+ $GPRMC,204145.00,A,3857.430820,N,09515.223193,W,0.0,271.7,301123,2.4,E,A,V*58
+OK
+UserDevice> AT+MMSVRCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,282,-10,-91,-60,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,284,-18,-98,-68,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-19,-98,-68,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,389,-17,-97,-68,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,111,-20,-109,-68,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204150.00,3857.431276,N,09515.224248,W,1,09,0.7,291.4,M,-32.0,M,,*5E
+ $GPRMC,204150.00,A,3857.431276,N,09515.224248,W,2.5,278.2,301123,2.4,E,A,V*5D
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,282,-9,-89,-60,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,389,-18,-97,-69,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,284,-19,-100,-69,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,213,-19,-103,-69,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-20,-102,-68,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204154.00,3857.430574,N,09515.232602,W,1,09,0.7,289.8,M,-32.0,M,,*56
+ $GPRMC,204154.00,A,3857.430574,N,09515.232602,W,9.8,257.3,301123,2.5,E,A,V*5B
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,389,-16,-102,-65,0,20,7,4,4,255
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204158.00,3857.428596,N,09515.247066,W,1,09,0.7,290.1,M,-32.0,M,,*58
+ $GPRMC,204158.00,A,3857.428596,N,09515.247066,W,10.0,257.4,301123,2.5,E,A,V*63
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,331,-16,-100,-63,0,23,7,6,4,255
+ "neighbourcell intra","LTE",2300,389,-14,-99,-77,0,24,7,6,4,255
+ "neighbourcell intra","LTE",2300,282,-13,-100,-77,0,23,7,6,4,255
+ "neighbourcell inter","LTE",5230,-,-,-,-,-,-,0,6,1
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204202.00,3857.428532,N,09515.256200,W,1,09,0.7,290.6,M,-32.0,M,,*5F
+ $GPRMC,204202.00,A,3857.428532,N,09515.256200,W,2.7,269.0,301123,2.5,E,A,V*5E
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,331,-14,-100,-76,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,282,-13,-99,-68,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204206.00,3857.428237,N,09515.256963,W,1,09,0.7,290.8,M,-32.0,M,,*59
+ $GPRMC,204206.00,A,3857.428237,N,09515.256963,W,0.0,254.6,301123,2.5,E,A,V*5B
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,331,-13,-99,-77,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,282,-14,-99,-64,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,389,-20,-107,-77,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204210.00,3857.427353,N,09515.257298,W,1,09,0.7,291.9,M,-32.0,M,,*5C
+ $GPRMC,204210.00,A,3857.427353,N,09515.257298,W,3.1,270.5,301123,2.5,E,A,V*59
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,331,-13,-96,-73,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,282,-14,-96,-61,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,332,-20,-111,-73,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204214.00,3857.427712,N,09515.266120,W,1,09,0.7,293.3,M,-32.0,M,,*53
+ $GPRMC,204214.00,A,3857.427712,N,09515.266120,W,8.3,271.3,301123,2.5,E,A,V*50
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,331,-15,-96,-61,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,282,-16,-99,-75,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,213,-17,-101,-75,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,389,-20,-103,-75,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204218.00,3857.426540,N,09515.276954,W,1,09,0.7,293.4,M,-32.0,M,,*56
+ $GPRMC,204218.00,A,3857.426540,N,09515.276954,W,7.7,251.4,301123,2.5,E,A,V*5C
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,331,-16,-98,-61,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,214,-16,-100,-74,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,213,-18,-101,-75,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,282,-16,-100,-74,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204222.00,3857.420639,N,09515.282366,W,1,09,0.7,292.8,M,-32.0,M,,*59
+ $GPRMC,204222.00,A,3857.420639,N,09515.282366,W,9.0,194.0,301123,2.5,E,A,V*59
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,331,-16,-98,-62,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,282,-12,-97,-76,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204226.00,3857.405324,N,09515.283095,W,1,09,0.7,290.4,M,-32.0,M,,*53
+ $GPRMC,204226.00,A,3857.405324,N,09515.283095,W,15.2,179.5,301123,2.5,E,A,V*64
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,282,-10,-95,-64,0,26,7,4,4,255
+ "neighbourcell intra","LTE",2300,331,-15,-100,-77,0,19,7,4,4,255
+ "neighbourcell inter","LTE",5230,-,-,-,-,-,-,0,6,1
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204230.00,3857.387301,N,09515.282227,W,1,09,0.7,287.3,M,-32.0,M,,*55
+ $GPRMC,204230.00,A,3857.387301,N,09515.282227,W,15.7,172.8,301123,2.5,E,A,V*60
+OK
+UserDevice> +MMNEBCELL:
+ "neighbourcell intra","LTE",2300,282,-12,-93,-59,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-20,-100,-72,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,389,-9,-89,-72,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
+AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204235.00,3857.370868,N,09515.283099,W,1,08,0.8,281.0,M,-32.0,M,,*51
+ $GPRMC,204235.00,A,3857.370868,N,09515.283099,W,5.6,174.5,301123,2.5,E,A,V*54
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,282,-12,-95,-60,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,389,-10,-89,-71,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,260,-20,-101,-71,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-19,-99,-71,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204239.00,3857.369409,N,09515.283131,W,1,07,0.8,280.6,M,-32.0,M,,*55
+ $GPRMC,204239.00,A,3857.369409,N,09515.283131,W,0.0,174.0,301123,2.5,E,A,V*5E
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,282,-13,-93,-60,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,389,-9,-90,-72,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,260,-17,-97,-72,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,60,-20,-110,-76,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-18,-99,-73,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204243.00,3857.365691,N,09515.283352,W,1,08,0.8,278.5,M,-32.0,M,,*5B
+ $GPRMC,204243.00,A,3857.365691,N,09515.283352,W,4.7,180.0,301123,2.5,E,A,V*53
+OK
+UserDevice> AT+MMSVRCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,282,-11,-92,-57,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,389,-14,-94,-69,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-19,-99,-70,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,213,-17,-99,-70,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204248.00,3857.357820,N,09515.281141,W,1,08,0.7,279.3,M,-32.0,M,,*5F
+ $GPRMC,204248.00,A,3857.357820,N,09515.281141,W,6.3,148.5,301123,2.5,E,A,V*58
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,282,-10,-91,-62,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,389,-12,-97,-73,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,213,-14,-94,-73,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-18,-99,-72,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204252.00,3857.352478,N,09515.273744,W,1,09,0.7,279.1,M,-32.0,M,,*5D
+ $GPRMC,204252.00,A,3857.352478,N,09515.273744,W,9.4,116.4,301123,2.5,E,A,V*5B
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,389,-11,-91,-58,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-14,-92,-70,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,282,-19,-97,-70,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204256.00,3857.352660,N,09515.257510,W,1,09,0.7,280.4,M,-32.0,M,,*54
+ $GPRMC,204256.00,A,3857.352660,N,09515.257510,W,13.2,85.7,301123,2.5,E,A,V*54
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,389,-8,-87,-56,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-18,-96,-69,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204300.00,3857.354322,N,09515.236462,W,1,09,0.7,279.4,M,-32.0,M,,*56
+ $GPRMC,204300.00,A,3857.354322,N,09515.236462,W,16.1,86.0,301123,2.5,E,A,V*52
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,389,-6,-76,-51,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204304.00,3857.355840,N,09515.214460,W,1,09,0.7,277.8,M,-32.0,M,,*5C
+ $GPRMC,204304.00,A,3857.355840,N,09515.214460,W,15.2,84.8,301123,2.5,E,A,V*50
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,389,-7,-83,-57,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,282,-18,-95,-66,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204308.00,3857.356180,N,09515.191613,W,1,09,0.7,278.4,M,-32.0,M,,*5D
+ $GPRMC,204308.00,A,3857.356180,N,09515.191613,W,13.6,84.0,301123,2.4,E,A,V*59
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,389,-7,-81,-53,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,282,-20,-97,-64,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-20,-100,-64,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204312.00,3857.357573,N,09515.171046,W,1,09,0.7,278.6,M,-32.0,M,,*55
+ $GPRMC,204312.00,A,3857.357573,N,09515.171046,W,14.5,91.4,301123,2.4,E,A,V*57
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,389,-8,-77,-47,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-20,-89,-57,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204316.00,3857.357526,N,09515.152137,W,1,09,0.7,278.4,M,-32.0,M,,*55
+ $GPRMC,204316.00,A,3857.357526,N,09515.152137,W,9.6,89.1,301123,2.4,E,A,V*66
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,389,-7,-69,-42,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204320.00,3857.357840,N,09515.145535,W,1,09,0.7,278.7,M,-32.0,M,,*5E
+ $GPRMC,204320.00,A,3857.357840,N,09515.145535,W,0.0,86.6,301123,2.4,E,A,V*69
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,389,-7,-70,-43,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204324.00,3857.357305,N,09515.140665,W,1,09,0.7,279.6,M,-32.0,M,,*53
+ $GPRMC,204324.00,A,3857.357305,N,09515.140665,W,6.0,91.1,301123,2.4,E,A,V*63
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,389,-7,-83,-56,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-17,-93,-69,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,284,-20,-96,-69,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204328.00,3857.355216,N,09515.130073,W,1,09,0.7,280.1,M,-32.0,M,,*59
+ $GPRMC,204328.00,A,3857.355216,N,09515.130073,W,9.4,120.4,301123,2.4,E,A,V*5D
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,389,-7,-78,-49,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-18,-90,-62,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204332.00,3857.343272,N,09515.120193,W,1,09,0.7,279.1,M,-32.0,M,,*5F
+ $GPRMC,204332.00,A,3857.343272,N,09515.120193,W,16.1,150.1,301123,2.4,E,A,V*64
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,389,-6,-70,-45,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204336.00,3857.329131,N,09515.106740,W,1,09,0.7,279.1,M,-32.0,M,,*5F
+ $GPRMC,204336.00,A,3857.329131,N,09515.106740,W,15.0,132.8,301123,2.4,E,A,V*6B
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,389,-7,-71,-45,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-20,-89,-56,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,284,-20,-87,-56,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204340.00,3857.322245,N,09515.096153,W,1,09,0.7,280.2,M,-32.0,M,,*5C
+ $GPRMC,204340.00,A,3857.322245,N,09515.096153,W,5.7,128.5,301123,2.4,E,A,V*5D
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,389,-7,-72,-44,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-20,-84,-55,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-20,-89,-55,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204344.00,3857.321023,N,09515.095802,W,1,09,0.7,279.1,M,-32.0,M,,*52
+ $GPRMC,204344.00,A,3857.321023,N,09515.095802,W,0.0,128.9,301123,2.4,E,A,V*58
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,389,-7,-69,-39,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-20,-90,-56,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,284,-20,-93,-56,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204348.00,3857.316803,N,09515.089874,W,1,09,0.7,278.7,M,-32.0,M,,*5B
+ $GPRMC,204348.00,A,3857.316803,N,09515.089874,W,10.5,139.5,301123,2.4,E,A,V*6E
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,389,-8,-79,-54,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-20,-92,-63,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,284,-16,-89,-64,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-20,-101,-63,0,-,-,-,-,-
+OK
+UserDevice>  $GPRMC,204353.00,A,3857.298053,N,09515.080159,W,21.1,175.7,301123,2.4,E,A,V*6D
+OK
+UserDevice> AT+MMSVRCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,389,-7,-79,-49,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,384,-20,-94,-61,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,277,-20,-93,-61,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-19,-90,-61,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204357.00,3857.270531,N,09515.079459,W,1,09,0.7,273.7,M,-32.0,M,,*5F
+ $GPRMC,204357.00,A,3857.270531,N,09515.079459,W,26.5,180.2,301123,2.4,E,A,V*61
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,389,-14,-94,-59,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-18,-97,-71,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,111,-20,-105,-71,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-17,-97,-71,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,284,-20,-100,-71,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,8,-20,-100,-71,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204401.00,3857.241727,N,09515.079772,W,1,08,0.7,272.1,M,-32.0,M,,*50
+ $GPRMC,204401.00,A,3857.241727,N,09515.079772,W,24.6,180.8,301123,2.4,E,A,V*63
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,389,-12,-90,-57,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-14,-91,-67,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,363,-19,-99,-67,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-17,-93,-67,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204405.00,3857.219409,N,09515.079513,W,1,09,0.7,270.9,M,-32.0,M,,*58
+ $GPRMC,204405.00,A,3857.219409,N,09515.079513,W,14.1,181.2,301123,2.4,E,A,V*6F
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,389,-20,-99,-70,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-14,-93,-71,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-19,-98,-58,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204409.00,3857.210030,N,09515.079450,W,1,09,0.7,269.1,M,-32.0,M,,*55
+ $GPRMC,204409.00,A,3857.210030,N,09515.079450,W,3.7,181.5,301123,2.4,E,A,V*55
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-17,-97,-60,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,363,-12,-94,-72,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-17,-97,-71,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,388,-15,-96,-72,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,389,-17,-98,-71,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204413.00,3857.209256,N,09515.079513,W,1,09,0.7,267.9,M,-32.0,M,,*54
+ $GPRMC,204413.00,A,3857.209256,N,09515.079513,W,1.3,180.9,301123,2.4,E,A,V*59
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,388,-10,-87,-58,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-18,-95,-67,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,389,-20,-96,-67,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,363,-17,-92,-67,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204417.00,3857.201763,N,09515.078660,W,1,09,0.7,268.6,M,-32.0,M,,*5D
+ $GPRMC,204417.00,A,3857.201763,N,09515.078660,W,12.9,178.3,301123,2.4,E,A,V*65
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,388,-10,-84,-55,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-17,-93,-62,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,363,-13,-88,-62,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,260,-20,-101,-62,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,284,-20,-96,-62,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-20,-96,-63,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,277,-20,-97,-62,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204421.00,3857.183704,N,09515.079494,W,1,09,0.7,269.1,M,-32.0,M,,*5E
+ $GPRMC,204421.00,A,3857.183704,N,09515.079494,W,19.3,181.1,301123,2.4,E,A,V*65
+OK
+UserDevice> AT+MMNEBCELL
+No Neighbour Cell Information Received!
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204425.00,3857.160831,N,09515.078763,W,1,09,0.7,266.5,M,-32.0,M,,*5F
+ $GPRMC,204425.00,A,3857.160831,N,09515.078763,W,20.9,180.1,301123,2.4,E,A,V*6E
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-13,-85,-52,0,0,7,6,4,255
+ "neighbourcell intra","LTE",2300,363,-20,-95,-50,0,0,7,6,4,255
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204429.00,3857.138009,N,09515.079520,W,1,09,0.7,266.6,M,-32.0,M,,*5A
+ $GPRMC,204429.00,A,3857.138009,N,09515.079520,W,21.5,180.9,301123,2.4,E,A,V*6D
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-14,-85,-50,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-20,-90,-60,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,388,-20,-91,-60,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,260,-20,-92,-59,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204433.00,3857.114616,N,09515.080353,W,1,09,0.7,268.5,M,-32.0,M,,*5E
+ $GPRMC,204433.00,A,3857.114616,N,09515.080353,W,17.9,179.5,301123,2.4,E,A,V*67
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-14,-79,-44,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204437.00,3857.098498,N,09515.080361,W,1,09,0.7,268.6,M,-32.0,M,,*59
+ $GPRMC,204437.00,A,3857.098498,N,09515.080361,W,10.1,182.6,301123,2.4,E,A,V*6B
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-13,-74,-38,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204441.00,3857.090696,N,09515.080513,W,1,09,0.7,268.2,M,-32.0,M,,*5B
+ $GPRMC,204441.00,A,3857.090696,N,09515.080513,W,6.3,191.8,301123,2.4,E,A,V*54
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-13,-79,-46,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,387,-18,-84,-58,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204445.00,3857.084761,N,09515.090008,W,1,09,0.7,266.8,M,-32.0,M,,*59
+ $GPRMC,204445.00,A,3857.084761,N,09515.090008,W,11.7,262.5,301123,2.4,E,A,V*62
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-13,-77,-43,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204449.00,3857.086579,N,09515.110097,W,1,09,0.7,267.8,M,-32.0,M,,*52
+ $GPRMC,204449.00,A,3857.086579,N,09515.110097,W,16.0,275.3,301123,2.4,E,A,V*68
+OK
+UserDevice> +MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-10,-75,-45,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-20,-94,-57,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204453.00,3857.089854,N,09515.136127,W,1,09,0.7,266.8,M,-32.0,M,,*5B
+ $GPRMC,204453.00,A,3857.089854,N,09515.136127,W,17.7,268.9,301123,2.4,E,A,V*60
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-14,-75,-41,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204457.00,3857.090412,N,09515.158646,W,1,09,0.7,268.7,M,-32.0,M,,*50
+ $GPRMC,204457.00,A,3857.090412,N,09515.158646,W,13.3,276.1,301123,2.4,E,A,V*6D
+AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204458.00,3857.090790,N,09515.162881,W,1,09,0.7,269.2,M,-32.0,M,,*5E
+ $GPRMC,204458.00,A,3857.090790,N,09515.162881,W,11.6,280.9,301123,2.4,E,A,V*61
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-12,-74,-41,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204501.00,3857.092606,N,09515.173186,W,1,09,0.7,270.0,M,-32.0,M,,*5B
+ $GPGGA,204502.00,3857.092789,N,09515.175777,W,1,09,0.7,269.8,M,-32.0,M,,*50
+ $GPRMC,204502.00,A,3857.092789,N,09515.175777,W,4.8,268.3,301123,2.4,E,A,V*53
+OK
+UserDevice> AT+MMSVRCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-11,-71,-39,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204506.00,3857.092283,N,09515.177131,W,1,09,0.7,271.9,M,-32.0,M,,*55
+ $GPRMC,204506.00,A,3857.092283,N,09515.177131,W,0.0,273.7,301123,2.4,E,A,V*5C
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-11,-70,-38,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204510.00,3857.092137,N,09515.176602,W,1,09,0.7,270.6,M,-32.0,M,,*56
+ $GPRMC,204510.00,A,3857.092137,N,09515.176602,W,0.0,273.7,301123,2.4,E,A,V*51
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-13,-74,-45,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204514.00,3857.092259,N,09515.177136,W,1,09,0.7,270.4,M,-32.0,M,,*5A
+ $GPRMC,204514.00,A,3857.092259,N,09515.177136,W,1.5,265.6,301123,2.4,E,A,V*5D
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-10,-75,-43,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204518.00,3857.091508,N,09515.185501,W,1,09,0.7,271.6,M,-32.0,M,,*58
+ $GPRMC,204518.00,A,3857.091508,N,09515.185501,W,9.9,254.8,301123,2.5,E,A,V*55
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-10,-78,-44,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-20,-92,-59,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204522.00,3857.089218,N,09515.203670,W,1,09,0.7,269.8,M,-32.0,M,,*51
+ $GPRMC,204522.00,A,3857.089218,N,09515.203670,W,14.5,261.6,301123,2.5,E,A,V*63
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-10,-87,-56,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-19,-93,-64,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204526.00,3857.086140,N,09515.226752,W,1,09,0.7,272.0,M,-32.0,M,,*50
+ $GPRMC,204526.00,A,3857.086140,N,09515.226752,W,18.9,261.9,301123,2.5,E,A,V*6F
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-14,-91,-56,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-17,-98,-73,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204530.00,3857.084644,N,09515.255659,W,1,09,0.7,272.2,M,-32.0,M,,*5A
+ $GPRMC,204530.00,A,3857.084644,N,09515.255659,W,22.1,271.6,301123,2.5,E,A,V*68
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-14,-88,-53,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-14,-90,-67,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,387,-16,-90,-67,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204534.00,3857.085880,N,09515.285730,W,1,09,0.7,275.5,M,-32.0,M,,*5A
+ $GPRMC,204534.00,A,3857.085880,N,09515.285730,W,18.6,273.6,301123,2.5,E,A,V*64
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-17,-87,-49,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-14,-85,-62,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,387,-17,-86,-62,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204538.00,3857.086472,N,09515.306143,W,1,09,0.7,277.1,M,-32.0,M,,*5A
+ $GPRMC,204538.00,A,3857.086472,N,09515.306143,W,10.0,273.9,301123,2.5,E,A,V*63
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-13,-81,-47,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-13,-85,-60,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,387,-18,-89,-60,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204542.00,3857.088226,N,09515.315514,W,1,09,0.7,276.7,M,-32.0,M,,*5D
+ $GPRMC,204542.00,A,3857.088226,N,09515.315514,W,4.7,288.2,301123,2.5,E,A,V*5E
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-15,-78,-43,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-20,-87,-56,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,387,-20,-89,-55,0,-,-,-,-,-
+OK
+UserDevice> UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-14,-77,-44,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-14,-79,-55,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,332,-20,-92,-55,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204551.00,3857.100720,N,09515.335839,W,1,09,0.7,279.0,M,-32.0,M,,*55
+ $GPRMC,204551.00,A,3857.100720,N,09515.335839,W,9.2,302.7,301123,2.5,E,A,V*50
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,331,-14,-79,-44,0,44,7,6,4,255
+ "neighbourcell inter","LTE",5230,-,-,-,-,-,-,0,6,1
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204555.00,3857.100769,N,09515.348409,W,1,09,0.7,279.7,M,-32.0,M,,*5E
+ $GPRMC,204555.00,A,3857.100769,N,09515.348409,W,9.7,252.9,301123,2.5,E,A,V*53
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,331,-17,-87,-50,0,36,7,6,4,255
+ "neighbourcell intra","LTE",2300,387,-18,-90,-63,0,33,7,6,4,255
+ "neighbourcell intra","LTE",2300,278,-14,-85,-63,0,38,7,6,4,255
+ "neighbourcell intra","LTE",2300,214,-17,-88,-63,0,35,7,6,4,255
+ "neighbourcell inter","LTE",5230,-,-,-,-,-,-,0,6,1
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204559.00,3857.101322,N,09515.362715,W,1,09,0.7,278.1,M,-32.0,M,,*59
+ $GPRMC,204559.00,A,3857.101322,N,09515.362715,W,11.2,287.5,301123,2.5,E,A,V*6B
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-11,-74,-43,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-20,-90,-57,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204603.00,3857.104927,N,09515.376473,W,1,08,0.7,279.1,M,-32.0,M,,*59
+ $GPRMC,204603.00,A,3857.104927,N,09515.376473,W,6.7,285.9,301123,2.5,E,A,V*56
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-10,-75,-42,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-20,-90,-55,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,61,-20,-95,-55,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204607.00,3857.105747,N,09515.380457,W,1,08,0.8,279.6,M,-32.0,M,,*53
+ $GPRMC,204607.00,A,3857.105747,N,09515.380457,W,0.0,282.1,301123,2.5,E,A,V*5A
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-10,-74,-45,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-18,-90,-56,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204611.00,3857.106246,N,09515.380876,W,1,08,0.8,280.3,M,-32.0,M,,*5F
+ $GPRMC,204611.00,A,3857.106246,N,09515.380876,W,0.0,282.2,301123,2.5,E,A,V*56
+OK
+UserDevice> AT+MMSVRCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-9,-75,-44,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-20,-88,-54,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204615.00,3857.106481,N,09515.381556,W,1,08,0.8,281.6,M,-32.0,M,,*5C
+ $GPRMC,204615.00,A,3857.106481,N,09515.381556,W,0.0,282.3,301123,2.5,E,A,V*50
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-9,-74,-43,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-20,-89,-56,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204619.00,3857.107344,N,09515.384910,W,1,08,0.7,284.2,M,-32.0,M,,*5A
+ $GPRMC,204619.00,A,3857.107344,N,09515.384910,W,7.1,294.4,301123,2.5,E,A,V*5E
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-10,-75,-44,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-20,-88,-56,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,260,-20,-86,-56,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204623.00,3857.112077,N,09515.397986,W,1,08,0.7,284.8,M,-32.0,M,,*53
+ $GPRMC,204623.00,A,3857.112077,N,09515.397986,W,14.0,298.0,301123,2.5,E,A,V*66
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-15,-80,-43,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-18,-85,-59,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,136,-20,-91,-59,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204627.00,3857.120720,N,09515.416745,W,1,08,0.7,289.7,M,-32.0,M,,*5E
+ $GPRMC,204627.00,A,3857.120720,N,09515.416745,W,17.3,304.0,301123,2.5,E,A,V*6D
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,278,-18,-83,-45,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-20,-89,-57,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,260,-13,-80,-57,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204631.00,3857.133185,N,09515.439268,W,1,09,0.7,292.7,M,-32.0,M,,*5E
+ $GPRMC,204631.00,A,3857.133185,N,09515.439268,W,20.2,310.8,301123,2.5,E,A,V*6E
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,260,-15,-84,-49,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-18,-87,-61,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,282,-17,-87,-61,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-20,-94,-61,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,214,-18,-92,-61,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204635.00,3857.147400,N,09515.457482,W,1,09,0.7,293.7,M,-32.0,M,,*5A
+ $GPRMC,204635.00,A,3857.147400,N,09515.457482,W,18.2,319.7,301123,2.5,E,A,V*66
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,260,-16,-79,-40,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-17,-81,-54,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,282,-15,-84,-54,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,104,-15,-79,-54,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204639.00,3857.165690,N,09515.471427,W,1,09,0.7,296.0,M,-32.0,M,,*54
+ $GPRMC,204639.00,A,3857.165690,N,09515.471427,W,20.4,339.4,301123,2.5,E,A,V*66
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,260,-14,-79,-45,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-19,-86,-57,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,104,-17,-84,-57,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204643.00,3857.187457,N,09515.477380,W,1,09,0.7,299.6,M,-32.0,M,,*59
+ $GPRMC,204643.00,A,3857.187457,N,09515.477380,W,20.0,354.6,301123,2.5,E,A,V*6F
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,260,-15,-84,-49,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-17,-84,-58,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,104,-18,-85,-58,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,214,-15,-82,-59,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,389,-18,-86,-58,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,282,-14,-81,-59,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204647.00,3857.207610,N,09515.477535,W,1,09,0.7,302.0,M,-32.0,M,,*5A
+ $GPRMC,204647.00,A,3857.207610,N,09515.477535,W,14.8,359.8,301123,2.5,E,A,V*65
+OK
++MGPSNMEA:
+ $GPGGA,204648.00,3857.211551,N,09515.477221,W,1,09,0.7,302.6,M,-32.0,M,,*50
+ $GPRMC,204648.00,A,3857.211551,N,09515.477221,W,13.2,0.5,301123,2.5,E,A,V*66
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,260,-18,-84,-45,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-17,-85,-58,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,282,-20,-87,-58,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,104,-17,-83,-58,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,214,-15,-81,-57,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204652.00,3857.218178,N,09515.477723,W,1,09,0.7,301.4,M,-32.0,M,,*5B
+ $GPRMC,204652.00,A,3857.218178,N,09515.477723,W,1.5,0.6,301123,2.5,E,A,V*5B
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,214,-12,-83,-50,0,39,7,6,4,255
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204656.00,3857.220517,N,09515.478359,W,1,09,0.7,302.7,M,-32.0,M,,*5F
+ $GPRMC,204656.00,A,3857.220517,N,09515.478359,W,3.6,0.3,301123,2.5,E,A,V*5B
+OK
+UserDevice> +MMNEBCELL:
+ "neighbourcell intra","LTE",2300,214,-14,-86,-59,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-16,-84,-48,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,260,-17,-84,-58,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,282,-17,-86,-59,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
+AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204700.00,3857.227302,N,09515.478137,W,1,09,0.7,304.9,M,-32.0,M,,*5A
+ $GPRMC,204700.00,A,3857.227302,N,09515.478137,W,7.5,350.5,301123,2.5,E,A,V*51
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,214,-7,-72,-46,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,260,-19,-84,-57,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,213,-20,-88,-56,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204704.00,3857.235981,N,09515.486267,W,1,09,0.7,306.3,M,-32.0,M,,*53
+ $GPRMC,204704.00,A,3857.235981,N,09515.486267,W,12.8,291.7,301123,2.5,E,A,V*67
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,214,-7,-73,-42,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,260,-20,-87,-54,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,282,-18,-85,-54,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,213,-20,-86,-54,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204708.00,3857.233086,N,09515.505868,W,1,09,0.7,305.3,M,-32.0,M,,*5B
+ $GPRMC,204708.00,A,3857.233086,N,09515.505868,W,15.5,239.4,301123,2.5,E,A,V*67
+OK
+UserDevice> AT+MMSVRCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,214,-6,-63,-36,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,260,-20,-79,-48,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,278,-20,-84,-48,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204713.00,3857.219071,N,09515.525717,W,1,08,0.7,307.2,M,-32.0,M,,*56
+ $GPRMC,204713.00,A,3857.219071,N,09515.525717,W,12.6,225.6,301123,2.5,E,A,V*63
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,214,-7,-71,-42,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204717.00,3857.214300,N,09515.538556,W,1,08,0.7,305.1,M,-32.0,M,,*50
+ $GPRMC,204717.00,A,3857.214300,N,09515.538556,W,9.3,256.0,301123,2.5,E,A,V*59
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,214,-8,-78,-51,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,282,-16,-85,-58,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204721.00,3857.214449,N,09515.549257,W,1,09,0.7,305.1,M,-32.0,M,,*5E
+ $GPRMC,204721.00,A,3857.214449,N,09515.549257,W,6.9,273.7,301123,2.5,E,A,V*53
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,214,-7,-77,-50,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,332,-20,-95,-61,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204725.00,3857.213460,N,09515.553731,W,1,09,0.7,307.4,M,-32.0,M,,*5F
+ $GPRMC,204725.00,A,3857.213460,N,09515.553731,W,0.0,277.9,301123,2.5,E,A,V*50
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,214,-8,-77,-48,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204729.00,3857.213276,N,09515.553898,W,1,09,0.7,306.6,M,-32.0,M,,*5D
+ $GPRMC,204729.00,A,3857.213276,N,09515.553898,W,0.0,277.9,301123,2.5,E,A,V*51
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,214,-7,-77,-48,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,260,-20,-96,-62,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204733.00,3857.213208,N,09515.553721,W,1,09,0.7,306.7,M,-32.0,M,,*53
+ $GPRMC,204733.00,A,3857.213208,N,09515.553721,W,0.0,277.9,301123,2.5,E,A,V*5E
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,214,-7,-76,-49,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204737.00,3857.213219,N,09515.553707,W,1,09,0.7,306.6,M,-32.0,M,,*52
+ $GPRMC,204737.00,A,3857.213219,N,09515.553707,W,0.0,277.9,301123,2.5,E,A,V*5E
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,214,-8,-77,-45,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,282,-20,-97,-61,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-20,-91,-62,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,260,-20,-92,-61,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204741.00,3857.213220,N,09515.553715,W,1,09,0.7,306.6,M,-32.0,M,,*5A
+ $GPRMC,204741.00,A,3857.213220,N,09515.553715,W,0.0,277.9,301123,2.5,E,A,V*56
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,214,-8,-80,-49,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,260,-20,-91,-63,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,213,-20,-93,-63,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204745.00,3857.214427,N,09515.558073,W,1,09,0.7,307.2,M,-32.0,M,,*51
+ $GPRMC,204745.00,A,3857.214427,N,09515.558073,W,5.1,283.3,301123,2.5,E,A,V*5D
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,214,-8,-81,-53,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,260,-20,-95,-66,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,213,-20,-92,-66,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,384,-20,-98,-66,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204749.00,3857.217477,N,09515.568094,W,1,09,0.7,307.8,M,-32.0,M,,*5B
+ $GPRMC,204749.00,A,3857.217477,N,09515.568094,W,11.2,287.9,301123,2.5,E,A,V*65
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,214,-6,-73,-46,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,260,-20,-89,-60,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204753.00,3857.220829,N,09515.586207,W,1,09,0.7,309.3,M,-32.0,M,,*5E
+ $GPRMC,204753.00,A,3857.220829,N,09515.586207,W,16.4,279.3,301123,2.5,E,A,V*6F
+OK
+UserDevice> +MMNEBCELL:
+ "neighbourcell intra","LTE",2300,332,-13,-77,-43,0,46,7,6,4,255
+ "neighbourcell inter","LTE",5230,-,-,-,-,-,-,0,6,1
+OK
+UserDevice> AT+MGPSNMEA
+AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204758.00,3857.222363,N,09515.616454,W,1,08,0.7,311.9,M,-32.0,M,,*5A
+ $GPRMC,204758.00,A,3857.222363,N,09515.616454,W,18.0,270.5,301123,2.5,E,A,V*6C
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,332,-14,-77,-42,0,46,7,6,4,255
+ "neighbourcell intra","LTE",2300,214,-17,-82,-57,0,41,7,6,4,255
+ "neighbourcell intra","LTE",2300,384,-16,-81,-57,0,42,7,6,4,255
+ "neighbourcell intra","LTE",2300,280,-15,-80,-57,0,43,7,6,4,255
+ "neighbourcell inter","LTE",5230,-,-,-,-,-,-,0,6,1
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204802.00,3857.221711,N,09515.640148,W,1,08,0.7,313.5,M,-32.0,M,,*5D
+ $GPRMC,204802.00,A,3857.221711,N,09515.640148,W,17.3,269.4,301123,2.5,E,A,V*60
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,332,-17,-89,-61,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-19,-89,-61,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,280,-13,-83,-50,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,213,-17,-86,-62,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204806.00,3857.222334,N,09515.667779,W,1,09,0.7,312.7,M,-32.0,M,,*5A
+ $GPRMC,204806.00,A,3857.222334,N,09515.667779,W,20.9,270.8,301123,2.5,E,A,V*6F
+OK
+UserDevice> AT+MMSVRCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",5230,364,-16,-76,-41,0,-,-,-,-,-
+ "neighbourcell intra","LTE",5230,280,-15,-79,-50,0,-,-,-,-,-
+ "neighbourcell intra","LTE",5230,214,-12,-74,-50,0,-,-,-,-,-
+ "neighbourcell intra","LTE",5230,331,-20,-81,-50,0,-,-,-,-,-
+ "neighbourcell inter","LTE",2300,332,-15,-81,-58,0,-,-,-,-
+ "neighbourcell inter","LTE",2300,280,-16,-83,-58,0,-,-,-,-
+ "neighbourcell inter","LTE",2300,331,-16,-82,-58,0,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204810.00,3857.222316,N,09515.698284,W,1,09,0.7,310.2,M,-32.0,M,,*5D
++MGPSNMEA:
+ $GPGGA,204811.00,3857.222368,N,09515.705878,W,1,09,0.7,310.4,M,-32.0,M,,*5F
+ $GPRMC,204811.00,A,3857.222368,N,09515.705878,W,20.2,269.3,301123,2.5,E,A,V*63
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",5230,280,-12,-70,-41,0,57,0,0,0,0
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204815.00,3857.221225,N,09515.731682,W,1,09,0.7,308.5,M,-32.0,M,,*54
+ $GPRMC,204815.00,A,3857.221225,N,09515.731682,W,15.3,262.6,301123,2.5,E,A,V*69
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,332,-17,-80,-42,0,0,7,6,4,255
+ "neighbourcell intra","LTE",2300,280,-14,-79,-55,0,0,7,6,4,255
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204819.00,3857.217939,N,09515.747914,W,1,09,0.7,305.9,M,-32.0,M,,*5B
+ $GPRMC,204819.00,A,3857.217939,N,09515.747914,W,6.8,252.6,301123,2.5,E,A,V*5D
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,332,-16,-84,-48,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,280,-13,-82,-60,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,364,-13,-83,-60,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,436,-14,-83,-59,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-14,-82,-59,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204823.00,3857.218015,N,09515.750386,W,1,09,0.7,306.0,M,-32.0,M,,*57
+ $GPRMC,204823.00,A,3857.218015,N,09515.750386,W,0.0,254.3,301123,2.5,E,A,V*56
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,332,-12,-78,-57,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,280,-20,-89,-48,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,364,-11,-81,-57,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,214,-17,-83,-58,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-15,-82,-57,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,436,-17,-84,-58,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204827.00,3857.217605,N,09515.757405,W,1,09,0.7,306.6,M,-32.0,M,,*56
+ $GPRMC,204827.00,A,3857.217605,N,09515.757405,W,8.6,256.0,301123,2.5,E,A,V*5E
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,332,-15,-83,-60,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,364,-12,-83,-46,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,280,-15,-85,-60,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204831.00,3857.213297,N,09515.770129,W,1,09,0.7,304.1,M,-32.0,M,,*51
+ $GPRMC,204831.00,A,3857.213297,N,09515.770129,W,10.6,227.6,301123,2.5,E,A,V*65
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,280,-13,-80,-60,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,364,-8,-77,-48,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,332,-20,-89,-60,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204835.00,3857.200528,N,09515.776606,W,1,09,0.7,302.3,M,-32.0,M,,*5C
+ $GPRMC,204835.00,A,3857.200528,N,09515.776606,W,14.0,179.7,301123,2.5,E,A,V*67
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,280,-16,-90,-65,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,364,-9,-83,-53,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,332,-18,-91,-65,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204839.00,3857.185005,N,09515.776784,W,1,09,0.7,301.5,M,-32.0,M,,*5A
+ $GPRMC,204839.00,A,3857.185005,N,09515.776784,W,12.8,175.7,301123,2.5,E,A,V*66
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,280,-15,-87,-64,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,364,-12,-86,-53,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,332,-14,-89,-64,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-18,-90,-64,0,-,-,-,-,-
+OK
+UserDevice> +MGPSNMEA:
+ $GPGGA,204843.00,3857.177391,N,09515.776513,W,1,09,0.7,304.2,M,-32.0,M,,*5A
+ $GPRMC,204843.00,A,3857.177391,N,09515.776513,W,1.9,173.0,301123,2.5,E,A,V*56
+OK
+UserDevice> AT+MMSVRAT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,280,-14,-90,-66,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,364,-12,-88,-55,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,332,-17,-92,-66,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204848.00,3857.176597,N,09515.775810,W,1,09,0.7,303.7,M,-32.0,M,,*5F
+ $GPRMC,204848.00,A,3857.176597,N,09515.775810,W,0.0,173.2,301123,2.5,E,A,V*5B
+OK
+UserDevice> AT+MMSVRCELL
+AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,280,-13,-88,-64,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,364,-13,-88,-54,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,332,-15,-90,-64,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204853.00,3857.173352,N,09515.774664,W,1,09,0.7,303.7,M,-32.0,M,,*53
+ $GPRMC,204853.00,A,3857.173352,N,09515.774664,W,4.3,177.8,301123,2.5,E,A,V*5E
+OK
+UserDevice> AT+MMSVRCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,280,-14,-90,-67,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,364,-14,-89,-54,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,332,-14,-88,-67,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-19,-94,-67,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204857.00,3857.165338,N,09515.774356,W,1,09,0.7,303.6,M,-32.0,M,,*59
+ $GPRMC,204857.00,A,3857.165338,N,09515.774356,W,9.5,174.2,301123,2.5,E,A,V*57
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,280,-19,-92,-63,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,364,-11,-84,-53,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,332,-15,-87,-64,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-17,-89,-63,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204901.00,3857.153668,N,09515.771601,W,1,09,0.7,300.8,M,-32.0,M,,*51
+ $GPRMC,204901.00,A,3857.153668,N,09515.771601,W,11.0,167.0,301123,2.5,E,A,V*6E
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,332,-15,-87,-62,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,364,-10,-82,-49,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-17,-89,-63,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,384,-18,-91,-62,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204905.00,3857.144716,N,09515.768564,W,1,09,0.7,300.3,M,-32.0,M,,*58
+ $GPRMC,204905.00,A,3857.144716,N,09515.768564,W,3.6,161.0,301123,2.5,E,A,V*5F
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,332,-14,-83,-61,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,364,-9,-81,-51,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-20,-90,-61,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,214,-19,-89,-60,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204909.00,3857.144222,N,09515.767899,W,1,09,0.7,300.2,M,-32.0,M,,*57
+ $GPRMC,204909.00,A,3857.144222,N,09515.767899,W,0.0,160.7,301123,2.5,E,A,V*52
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,332,-14,-83,-56,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,364,-10,-80,-47,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-19,-87,-57,0,-,-,-,-,-
+OK
+UserDevice> +MGPSNMEA:
+ $GPGGA,204913.00,3857.143423,N,09515.769080,W,1,09,0.7,301.0,M,-32.0,M,,*51
+ $GPRMC,204913.00,A,3857.143423,N,09515.769080,W,1.5,160.7,301123,2.5,E,A,V*53
+OK
+UserDevice> AT+MMSVRCELL
+AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,332,-17,-85,-59,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,364,-7,-75,-47,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,280,-18,-88,-59,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204918.00,3857.141627,N,09515.771566,W,1,08,0.7,301.3,M,-32.0,M,,*58
+ $GPRMC,204918.00,A,3857.141627,N,09515.771566,W,2.2,215.5,301123,2.5,E,A,V*5F
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,332,-14,-81,-58,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,364,-11,-79,-45,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,280,-19,-87,-57,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204922.00,3857.139777,N,09515.774859,W,1,08,0.7,302.2,M,-32.0,M,,*5C
+ $GPRMC,204922.00,A,3857.139777,N,09515.774859,W,3.1,246.3,301123,2.5,E,A,V*5B
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,332,-15,-82,-59,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,364,-9,-80,-50,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,280,-20,-93,-59,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204926.00,3857.138532,N,09515.779044,W,1,09,0.7,299.1,M,-32.0,M,,*52
+ $GPRMC,204926.00,A,3857.138532,N,09515.779044,W,2.7,250.4,301123,2.5,E,A,V*53
+OK
+UserDevice> +MMNEBCELL:
+ "neighbourcell intra","LTE",2300,332,-15,-86,-61,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,364,-8,-80,-52,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-17,-87,-62,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
+AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204930.00,3857.138110,N,09515.782225,W,1,09,0.7,297.6,M,-32.0,M,,*59
+ $GPRMC,204930.00,A,3857.138110,N,09515.782225,W,2.8,257.5,301123,2.5,E,A,V*58
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,332,-14,-82,-59,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,364,-9,-79,-46,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204934.00,3857.138255,N,09515.785490,W,1,09,0.7,297.4,M,-32.0,M,,*52
+ $GPRMC,204934.00,A,3857.138255,N,09515.785490,W,2.5,262.9,301123,2.5,E,A,V*56
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,332,-14,-84,-61,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,364,-9,-80,-50,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204939.00,3857.138083,N,09515.788728,W,1,09,0.7,297.3,M,-32.0,M,,*5C
+ $GPRMC,204939.00,A,3857.138083,N,09515.788728,W,2.2,280.0,301123,2.5,E,A,V*5D
+OK
+UserDevice> AT+MMSVRCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,332,-13,-81,-57,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,364,-12,-81,-44,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-19,-86,-57,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204943.00,3857.138017,N,09515.790862,W,1,09,0.7,299.6,M,-32.0,M,,*5F
+ $GPRMC,204943.00,A,3857.138017,N,09515.790862,W,2.2,268.1,301123,2.5,E,A,V*52
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,332,-15,-84,-61,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,364,-8,-78,-50,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204947.00,3857.137512,N,09515.793511,W,1,09,0.7,299.9,M,-32.0,M,,*51
+ $GPRMC,204947.00,A,3857.137512,N,09515.793511,W,1.8,263.6,301123,2.5,E,A,V*56
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,332,-15,-86,-62,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,364,-7,-77,-50,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-20,-92,-62,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204951.00,3857.136691,N,09515.796297,W,1,09,0.7,300.9,M,-32.0,M,,*52
+ $GPRMC,204951.00,A,3857.136691,N,09515.796297,W,1.7,263.2,301123,2.5,E,A,V*5F
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,332,-20,-91,-60,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,364,-7,-77,-50,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204955.00,3857.136335,N,09515.798530,W,1,09,0.7,298.5,M,-32.0,M,,*55
+ $GPRMC,204955.00,A,3857.136335,N,09515.798530,W,1.7,257.2,301123,2.5,E,A,V*53
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,332,-19,-91,-61,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,364,-6,-77,-51,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,204959.00,3857.134747,N,09515.803153,W,1,09,0.7,297.5,M,-32.0,M,,*59
+ $GPRMC,204959.00,A,3857.134747,N,09515.803153,W,3.3,252.0,301123,2.5,E,A,V*51
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,364,-6,-76,-50,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,205003.00,3857.133307,N,09515.806969,W,1,09,0.7,295.0,M,-32.0,M,,*5A
+ $GPRMC,205003.00,A,3857.133307,N,09515.806969,W,2.4,240.7,301123,2.5,E,A,V*57
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,364,-6,-77,-51,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,332,-20,-91,-63,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,331,-20,-100,-63,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,205007.00,3857.131267,N,09515.811365,W,1,09,0.7,294.9,M,-32.0,M,,*53
+ $GPRMC,205007.00,A,3857.131267,N,09515.811365,W,3.1,232.5,301123,2.5,E,A,V*55
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,364,-6,-80,-53,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,332,-20,-92,-60,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,205011.00,3857.128738,N,09515.815588,W,1,09,0.7,298.0,M,-32.0,M,,*57
+ $GPRMC,205011.00,A,3857.128738,N,09515.815588,W,3.5,228.2,301123,2.5,E,A,V*5C
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,364,-6,-79,-51,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,332,-20,-95,-63,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,205015.00,3857.126579,N,09515.819659,W,1,09,0.7,298.1,M,-32.0,M,,*58
+ $GPRMC,205015.00,A,3857.126579,N,09515.819659,W,3.0,233.9,301123,2.5,E,A,V*56
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,364,-6,-80,-55,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,332,-20,-96,-66,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,205019.00,3857.124698,N,09515.823925,W,1,09,0.7,294.4,M,-32.0,M,,*5E
+ $GPRMC,205019.00,A,3857.124698,N,09515.823925,W,2.8,238.9,301123,2.5,E,A,V*5B
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,364,-6,-78,-53,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,332,-20,-98,-63,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,205023.00,3857.123745,N,09515.828359,W,1,09,0.7,292.2,M,-32.0,M,,*5B
+ $GPRMC,205023.00,A,3857.123745,N,09515.828359,W,3.1,255.2,301123,2.5,E,A,V*56
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,364,-6,-78,-51,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,205027.00,3857.122393,N,09515.832689,W,1,09,0.7,294.7,M,-32.0,M,,*51
+ $GPRMC,205027.00,A,3857.122393,N,09515.832689,W,3.0,246.5,301123,2.5,E,A,V*5B
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,364,-7,-80,-52,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,205032.00,3857.122387,N,09515.837377,W,1,09,0.7,296.5,M,-32.0,M,,*51
+ $GPRMC,205032.00,A,3857.122387,N,09515.837377,W,3.1,267.4,301123,2.5,E,A,V*58
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,364,-5,-79,-49,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,332,-20,-99,-65,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,205036.00,3857.123331,N,09515.839679,W,1,09,0.7,299.0,M,-32.0,M,,*56
+ $GPRMC,205036.00,A,3857.123331,N,09515.839679,W,1.6,257.4,301123,2.5,E,A,V*53
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,364,-6,-78,-51,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,205040.00,3857.123981,N,09515.839947,W,1,07,0.9,300.4,M,-32.0,M,,*51
+ $GPRMC,205040.00,A,3857.123981,N,09515.839947,W,0.0,257.6,301123,2.5,E,A,V*54
+OK
+UserDevice> AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,364,-7,-80,-51,0,-,-,-,-,-
+OK
+UserDevice> +MGPSNMEA:
+ $GPGGA,205044.00,3857.122961,N,09515.837912,W,1,07,1.4,302.9,M,-32.0,M,,*57
+ $GPRMC,205044.00,A,3857.122961,N,09515.837912,W,4.3,145.4,301123,2.5,E,A,V*54
+OK
+UserDevice> AT+MMSVRCELL
+AT+MMNEBCELL
++MMNEBCELL:
+ "neighbourcell intra","LTE",2300,364,-6,-81,-54,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,332,-20,-100,-67,0,-,-,-,-,-
+ "neighbourcell intra","LTE",2300,384,-20,-95,-67,0,-,-,-,-,-
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,205048.00,3857.119607,N,09515.834072,W,1,07,1.4,304.2,M,-32.0,M,,*5D
+ $GPRMC,205048.00,A,3857.119607,N,09515.834072,W,1.6,141.7,301123,2.5,E,A,V*54
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,205049.00,3857.119905,N,09515.834267,W,1,06,0.9,306.1,M,-32.0,M,,*5B
+ $GPRMC,205049.00,A,3857.119905,N,09515.834267,W,0.5,257.5,301123,2.5,E,A,V*5A
+OK
++MMSRVCELL:
+ "servingcell","NOCONN","LTE","FDD",311,480,34F0916,364,2300,4,5,5,D806,-85,-6,-52,25,-
+OK
+UserDevice> AT+MMNEBCELL
++MGPSNMEA:
+ $GPGGA,205053.00,3857.121830,N,09515.836796,W,1,07,0.9,306.8,M,-32.0,M,,*5D
+ $GPRMC,205053.00,A,3857.121830,N,09515.836796,W,0.9,299.4,301123,2.5,E,A,V*5B
+OK
+UserDevice> AT+MGPSNMEA
++MMSRVCELL:
+ "servingcell","NOCONN","LTE","FDD",311,480,34F0916,364,2300,4,5,5,D806,-95,-8,-67,14,-
+OK
+UserDevice> AT+MMNEBCELL
++MGPSNMEA:
+ $GPGGA,205059.00,3857.129678,N,09515.846747,W,1,08,0.9,307.6,M,-32.0,M,,*56
+ $GPRMC,205059.00,A,3857.129678,N,09515.846747,W,3.9,316.2,301123,2.5,E,A,V*53
+OK
+UserDevice> AT+MGPSNMEA
++MGPSNMEA:
+ $GPGGA,205101.00,3857.131264,N,09515.849156,W,1,09,0.8,306.9,M,-32.0,M,,*5D
+ $GPRMC,205101.00,A,3857.131264,N,09515.849156,W,1.7,316.1,301123,2.5,E,A,V*59
+OK
+UserDevice> 
