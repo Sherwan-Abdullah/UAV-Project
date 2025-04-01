@@ -1,2 +1,2 @@
 # UAV-Project
-this is the UAV MSc project repository
+This is the UAV LTE project repository
