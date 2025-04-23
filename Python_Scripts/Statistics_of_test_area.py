@@ -1,7 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
-from matplotlib.backends.backend_pdf import PdfPages
 
 # Step 1: Read the file and extract values
 cellid_values = []
@@ -12,18 +11,25 @@ rssi_values = []
 sinr_values = []
 data = []
 
+altitude_values = []
+alt_rsrp_values = []
+alt_rsrq_values = []
+alt_rssi_values = []
+alt_sinr_values = []
+
 try:
     with open('lte_data.txt', 'r') as file:
         for line in file:
             values = line.strip().split(',')
             if len(values) >= 16:
                 try:
-                    cellid = float(values[7])
-                    lac = float(values[8])
-                    rsrp = float(values[9])
-                    rsrq = float(values[10])
-                    rssi = float(values[11])
-                    sinr = float(values[12])
+                    altitude = float(values[0])
+                    cellid = float(values[8])
+                    lac = float(values[9])
+                    rsrp = float(values[10])
+                    rsrq = float(values[11])
+                    rssi = float(values[12])
+                    sinr = float(values[13])
                     cellid_values.append(cellid)
                     lac_values.append(lac)
                     rsrp_values.append(rsrp)
@@ -31,10 +37,15 @@ try:
                     rssi_values.append(rssi)
                     sinr_values.append(sinr)
                     data.append((cellid, rsrp, rsrq, rssi, sinr))
+                    altitude_values.append(altitude)
+                    alt_rsrp_values.append((altitude, rsrp))
+                    alt_rsrq_values.append((altitude, rsrq))
+                    alt_rssi_values.append((altitude, rssi))
+                    alt_sinr_values.append((altitude, sinr))
                 except ValueError:
                     continue
 except FileNotFoundError:
-    print("Error: The file 'gps_date_time.txt' was not found.")
+    print("Error: The file 'lte_data.txt' was not found.")
 
 # Step 2: Function to calculate the CDF
 def calculate_cdf(values):
@@ -59,7 +70,7 @@ plot_cdf(*calculate_cdf(rsrq_values), 'RSRQ (dB)', 'CDF of RSRQ', 'CDF_RSRQ.png'
 plot_cdf(*calculate_cdf(rssi_values), 'RSSI (dB)', 'CDF of RSSI', 'CDF_RSSI.png', 'black')
 plot_cdf(*calculate_cdf(sinr_values), 'SINR (dB)', 'CDF of SINR', 'CDF_SINR.png', 'red')
 
-# Step 4: Function to plot and save the normalized histogram (PDF) for each metric
+# Step 4: Function to plot normalized histogram (PDF)
 def plot_pdf(values, xlabel, title, filename, color):
     unique_values, counts = np.unique(values, return_counts=True)
     normalized_counts = counts / np.sum(counts)
@@ -71,11 +82,11 @@ def plot_pdf(values, xlabel, title, filename, color):
     plt.ylabel('PDF')
     plt.title(title)
     plt.grid(True, linestyle='--', alpha=0.7)
-    
+
     plt.xticks(range(len(unique_values)), 
-               [f'{x:.2f}' if xlabel not in ['CellID', 'LAC'] else int(x) for x in unique_values], 
+               [f'{x:.2f}' if xlabel not in ['Cell ID', 'LAC'] else int(x) for x in unique_values], 
                rotation=90)
-    
+
     plt.tight_layout()
     plt.savefig(filename, dpi=300)
     plt.close()
@@ -84,12 +95,11 @@ def plot_pdf(values, xlabel, title, filename, color):
 plot_pdf(cellid_values, 'Cell ID', 'PDF of Cell IDs', 'PDF_CellID.png', 'orange')
 plot_pdf(lac_values, 'LAC', 'PDF of LACs', 'PDF_LAC.png', 'brown')
 
-# Step 5: Function to plot min, mean, and max values separately for each metric
+# Step 5: Min/Mean/Max for each metric
 def plot_min_mean_max(data, metric, xlabel, ylabel, title, filename):
     df = pd.DataFrame(data, columns=['CellID', 'RSRP', 'RSRQ', 'RSSI', 'SINR'])
     stats_df = df.groupby('CellID')[metric].agg(['mean', 'min', 'max']).reset_index()
-    
-    #unique_cell_count = len(stats_df)
+
     image_width = 10
     bar_width = 0.3
 
@@ -98,7 +108,6 @@ def plot_min_mean_max(data, metric, xlabel, ylabel, title, filename):
     r3 = [x + bar_width for x in r2]
 
     plt.figure(figsize=(image_width, 6))
-
     plt.bar(r1, stats_df['min'], color='blue', width=bar_width, edgecolor='grey', label='Min')
     plt.bar(r2, stats_df['mean'], color='green', width=bar_width, edgecolor='grey', label='Mean')
     plt.bar(r3, stats_df['max'], color='red', width=bar_width, edgecolor='grey', label='Max')
@@ -111,11 +120,9 @@ def plot_min_mean_max(data, metric, xlabel, ylabel, title, filename):
                [f'{x:.2f}' for x in stats_df['CellID']], rotation=90)
 
     plt.grid(True, linestyle='--', alpha=0.7)
-
     plt.legend(loc='upper center', bbox_to_anchor=(0.5, -0.25), fancybox=True, shadow=False, ncol=3)
 
     plt.subplots_adjust(bottom=0.3)
-
     plt.tight_layout()
     plt.savefig(filename, dpi=300, bbox_inches='tight')
     plt.close()
@@ -126,23 +133,47 @@ plot_min_mean_max(data, 'RSRQ', 'Cell ID', 'RSRQ (dB)', 'Statistics of RSRQ', 's
 plot_min_mean_max(data, 'RSSI', 'Cell ID', 'RSSI (dB)', 'Statistics of RSSI', 'stats_RSSI.png')
 plot_min_mean_max(data, 'SINR', 'Cell ID', 'SINR (dB)', 'Statistics of SINR', 'stats_SINR.png')
 
-# Save all plots to a single PDF
-with PdfPages("network_analysis_plots.pdf") as pdf:
-    for filename in ['CDF_RSRP.png', 'CDF_RSRQ.png', 'CDF_RSSI.png', 'CDF_SINR.png','PDF_LAC.png',
-                     'PDF_CellID.png',  
-                     'stats_RSRP.png', 'stats_RSRQ.png', 'stats_RSSI.png', 'stats_SINR.png']:
-        img = plt.imread(filename)
-        plt.figure(figsize=(10, 6))
-        plt.imshow(img)
-        plt.axis('off')
-        pdf.savefig()
-        plt.close()
+# Step 6: Function to plot metrics per altitude
+def plot_metric_per_altitude(alt_metric_values, metric_name, ylabel, filename, bar_color):
+    df = pd.DataFrame(alt_metric_values, columns=['Altitude', metric_name])
+    grouped = df.groupby('Altitude')[metric_name].agg(['mean', 'std']).reset_index()
 
-    # Add metadata
-    d = pdf.infodict()
-    d["Title"] = "Network Analysis Plots"
-    d["Author"] = "Your Name"
-    d["Subject"] = "CDF, PDF, and Statistical Analysis of Network Data"
-    d["Keywords"] = "CDF, PDF, RSRP, RSRQ, RSSI, SINR, CellID, LAC"
-    d["CreationDate"] = pd.Timestamp.now()
-    d["ModDate"] = pd.Timestamp.now()
+    plt.figure(figsize=(12, 6))
+    plt.bar(grouped['Altitude'], grouped['mean'], color=bar_color, width=8, edgecolor='black', label=f'Mean {metric_name}')
+    plt.errorbar(x=grouped['Altitude'], y=grouped['mean'], 
+                 yerr=grouped['std'], fmt='none', 
+                 ecolor='black', capsize=5, label='± Std Dev')
+
+    plt.xlabel('Altitude over sea level (m)')
+    plt.ylabel(ylabel)
+    plt.title(f'Mean {metric_name} with Standard Deviation per Altitude')
+    plt.grid(True, linestyle='--', alpha=0.7)
+    plt.legend()
+    plt.tight_layout()
+    plt.savefig(filename, dpi=300)
+    plt.close()
+
+# Step 7: Plot RSRP/RSRQ/RSSI/SINR per Altitude
+plot_metric_per_altitude(alt_rsrp_values, 'RSRP', 'RSRP (dBm)', 'RSRP_vs_Altitude.png', 'skyblue')
+plot_metric_per_altitude(alt_rsrq_values, 'RSRQ', 'RSRQ (dB)', 'RSRQ_vs_Altitude.png', 'lightgreen')
+plot_metric_per_altitude(alt_rssi_values, 'RSSI', 'RSSI (dB)', 'RSSI_vs_Altitude.png', 'lightcoral')
+plot_metric_per_altitude(alt_sinr_values, 'SINR', 'SINR (dB)', 'SINR_vs_Altitude.png', 'gold')
+
+# Step 8: Count samples per altitude and plot bar chart
+def plot_altitude_count(altitude_values, xlabel, ylabel, title, filename):
+    # Calculate count of samples for each unique altitude
+    unique_altitudes, counts = np.unique(altitude_values, return_counts=True)
+    
+    # Create bar chart
+    plt.figure(figsize=(12, 6))
+    plt.bar(unique_altitudes, counts, color='purple', width=8, alpha=0.7, edgecolor='black')
+    plt.xlabel(xlabel)
+    plt.ylabel(ylabel)
+    plt.title(title)
+    plt.grid(True, linestyle='--', alpha=0.7)
+    plt.tight_layout()
+    plt.savefig(filename, dpi=300)
+    plt.close()
+
+# Generate the altitude count bar chart
+plot_altitude_count(altitude_values, 'Altitude over sea level(m)', 'Sample Count', 'Sample Count per Altitude', 'Altitude_Count.png')
