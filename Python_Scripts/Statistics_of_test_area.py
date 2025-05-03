@@ -17,11 +17,13 @@ alt_rsrq_values = []
 alt_rssi_values = []
 alt_sinr_values = []
 
+nb_data = []
+
 try:
     with open('lte_data.txt', 'r') as file:
         for line in file:
             values = line.strip().split(',')
-            if len(values) >= 16:
+            if len(values) >= 29:
                 try:
                     altitude = float(values[0])
                     cellid = float(values[8])
@@ -30,18 +32,42 @@ try:
                     rsrq = float(values[11])
                     rssi = float(values[12])
                     sinr = float(values[13])
+                    
+                    # Extracting NB RSRP, RSRQ, and RSSI from their respective columns
+                    nb1_rsrp = float(values[17])
+                    nb2_rsrp = float(values[22])
+                    nb3_rsrp = float(values[27])
+
+                    nb1_rsrq = float(values[16])
+                    nb2_rsrq = float(values[21])
+                    nb3_rsrq = float(values[26])
+
+                    nb1_rssi = float(values[18])
+                    nb2_rssi = float(values[23])
+                    nb3_rssi = float(values[28])
+                    
+                    # Append values to the lists
                     cellid_values.append(cellid)
                     lac_values.append(lac)
                     rsrp_values.append(rsrp)
                     rsrq_values.append(rsrq)
                     rssi_values.append(rssi)
                     sinr_values.append(sinr)
+                    
                     data.append((cellid, rsrp, rsrq, rssi, sinr))
                     altitude_values.append(altitude)
                     alt_rsrp_values.append((altitude, rsrp))
                     alt_rsrq_values.append((altitude, rsrq))
                     alt_rssi_values.append((altitude, rssi))
                     alt_sinr_values.append((altitude, sinr))
+                    
+                    # Append NB RSRP, RSRQ, and RSSI values to nb_data
+                    nb_data.append({
+                        'CellID': cellid,
+                        'NB1_RSRP': nb1_rsrp, 'NB2_RSRP': nb2_rsrp, 'NB3_RSRP': nb3_rsrp,
+                        'NB1_RSRQ': nb1_rsrq, 'NB2_RSRQ': nb2_rsrq, 'NB3_RSRQ': nb3_rsrq,
+                        'NB1_RSSI': nb1_rssi, 'NB2_RSSI': nb2_rssi, 'NB3_RSSI': nb3_rssi,
+                    })
                 except ValueError:
                     continue
 except FileNotFoundError:
@@ -177,3 +203,40 @@ def plot_altitude_count(altitude_values, xlabel, ylabel, title, filename):
 
 # Generate the altitude count bar chart
 plot_altitude_count(altitude_values, 'Altitude over sea level(m)', 'Sample Count', 'Sample Count per Altitude', 'Altitude_Count.png')
+
+# Step 9: Plot NB1/2/3 RSRP, RSRQ, and RSSI Mean with Standard Deviation per CellID
+def plot_nb_metric_per_cellid(nb_data, metric_base, ylabel, title, filename):
+    df_nb = pd.DataFrame(nb_data)
+    grouped = df_nb.groupby('CellID').agg(['mean', 'std'])
+
+    cellids = grouped.index.astype(str)
+    x = np.arange(len(cellids))
+    bar_width = 0.25
+
+    plt.figure(figsize=(14, 6))
+    colors = ['skyblue', 'lightgreen', 'lightcoral']
+    nb_labels = ['NB1', 'NB2', 'NB3']
+
+    for i, nb in enumerate(nb_labels):
+        mean_col = (f'{nb}_{metric_base}', 'mean')
+        std_col = (f'{nb}_{metric_base}', 'std')
+        plt.bar(x + i * bar_width, grouped[mean_col], yerr=grouped[std_col], capsize=5,
+                width=bar_width, label=nb, color=colors[i], edgecolor='black')
+
+    plt.xlabel('Cell ID')
+    plt.ylabel(ylabel)
+    plt.title(title)
+    plt.xticks(x + bar_width, cellids, rotation=90)
+    plt.grid(True, linestyle='--', alpha=0.7)
+    plt.legend(loc='upper center', bbox_to_anchor=(0.5, -0.25), ncol=3)
+    plt.subplots_adjust(bottom=0.3)
+    plt.tight_layout()
+    plt.savefig(filename, dpi=300, bbox_inches='tight')
+    plt.close()
+
+# Generate NB RSRP, RSRQ, and RSSI per CellID plots
+plot_nb_metric_per_cellid(nb_data, 'RSRP', 'RSRP (dBm)', 'NB RSRP per Cell ID', 'NB_RSRP_per_CellID.png')
+plot_nb_metric_per_cellid(nb_data, 'RSRQ', 'RSRQ (dB)', 'NB RSRQ per Cell ID', 'NB_RSRQ_per_CellID.png')
+plot_nb_metric_per_cellid(nb_data, 'RSSI', 'RSSI (dB)', 'NB RSSI per Cell ID', 'NB_RSSI_per_CellID.png')
+
+print("All visualizations have been successfully created and saved.")
