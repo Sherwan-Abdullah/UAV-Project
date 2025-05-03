@@ -26,7 +26,7 @@ for metric, title, position in metrics:
 
     m = folium.Map(location=[gdf['latitude'].mean(), gdf['longitude'].mean()], zoom_start=17)
 
-    # Add markers
+    # Add markers with tooltips
     for _, row in gdf.iterrows():
         folium.CircleMarker(
             location=[row['latitude'], row['longitude']],
@@ -34,7 +34,8 @@ for metric, title, position in metrics:
             color=colormap(row[metric]),
             fill=True,
             fill_color=colormap(row[metric]),
-            fill_opacity=1.0
+            fill_opacity=1.0,
+            tooltip=f'{metric}: {row[metric]:.2f}'  # Tooltip with the metric value
         ).add_to(m)
 
     colormap.caption = title
@@ -47,7 +48,7 @@ for metric, title, position in metrics:
 
 # Combine all maps into one HTML file
 with open('lte_radio_maps_2x2.html', 'w') as f:
-    f.write("""
+    f.write(""" 
     <html>
     <head>
         <style>
@@ -106,7 +107,7 @@ with open('lte_radio_maps_2x2.html', 'w') as f:
             </div>
         """)
 
-    f.write("""
+    f.write(""" 
         </div>
     </body>
     </html>
