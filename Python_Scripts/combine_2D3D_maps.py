@@ -5,8 +5,22 @@ import plotly.graph_objects as go
 import folium
 import branca
 
+# Define the main output folder
+main_output_folder = "spatiotemporal maps results"
+os.makedirs(main_output_folder, exist_ok=True)
+
+# Define the subfolder for individual metric HTML files
+output_subfolder = os.path.join(main_output_folder, "output")
+os.makedirs(output_subfolder, exist_ok=True)
+
 # Load LTE data
 df = pd.read_csv('lte_data.txt')
+
+# Drop rows missing any of the required fields
+required_columns = ['Altitude', 'longitude', 'latitude', 'CellID', 'RSRP', 'RSRQ', 'SINR', 'RSSI']
+df.dropna(subset=required_columns, inplace=True)
+
+# Ensure 'longitude' and 'latitude' columns exist for GeoDataFrame
 gdf = gpd.GeoDataFrame(df, geometry=gpd.points_from_xy(df.longitude, df.latitude))
 
 metrics = [
@@ -15,9 +29,6 @@ metrics = [
     ('RSSI', 'RSSI (dBm)'),
     ('SINR', 'SINR (dB)')
 ]
-
-# Create output folder for metric maps
-os.makedirs("output", exist_ok=True)
 
 plot_files = []
 map_files = []
@@ -52,7 +63,7 @@ for metric, label in metrics:
         title=f"{label} - 3D Scatter",
         margin=dict(l=0, r=0, b=0, t=40)
     )
-    plot_file = f"output/{metric.lower()}_3d.html"
+    plot_file = os.path.join(output_subfolder, f"{metric.lower()}_3d.html")
     fig.write_html(plot_file)
     plot_files.append(plot_file)
 
@@ -75,12 +86,12 @@ for metric, label in metrics:
         ).add_to(m)
     colormap.caption = label
     m.add_child(colormap)
-    map_file = f"output/{metric.lower()}_map.html"
+    map_file = os.path.join(output_subfolder, f"{metric.lower()}_map.html")
     m.save(map_file)
     map_files.append(map_file)
 
-# --- Save the Combined HTML in the Script Directory ---
-html_output = "lte_combined_visuals.html"
+# --- Save the Combined HTML in the Main Output Directory ---
+html_output = os.path.join(main_output_folder, "lte_combined_visuals.html")
 with open(html_output, 'w') as f:
     f.write("""
     <html>
@@ -123,14 +134,16 @@ with open(html_output, 'w') as f:
     """)
 
     for plot, map_, (metric, label) in zip(plot_files, map_files, metrics):
+        relative_plot_path = os.path.relpath(plot, start=main_output_folder)
+        relative_map_path = os.path.relpath(map_, start=main_output_folder)
         f.write(f"""
             <div class="grid-item">
                 <div class="title">{label} - 3D Plot</div>
-                <iframe src="{plot}"></iframe>
+                <iframe src="{relative_plot_path}"></iframe>
             </div>
             <div class="grid-item">
                 <div class="title">{label} - 2D Map</div>
-                <iframe src="{map_}"></iframe>
+                <iframe src="{relative_map_path}"></iframe>
             </div>
         """)
 
@@ -140,4 +153,4 @@ with open(html_output, 'w') as f:
     </html>
     """)
 
-print(f"✅ Combined HTML saved as '{html_output}' in the script folder.")
+print(f"All visualizations have been successfully created and saved in the '{main_output_folder}' folder.")
