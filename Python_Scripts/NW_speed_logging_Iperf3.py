@@ -8,7 +8,7 @@ with open("iperf3_log.txt", "w") as outfile:
 
 def run_iperf3(server_ip, port):
     # Iperf3 command to run on pMLTE side with mbps format
-    cmd = ["iperf3", "-c", server_ip, "-f", "m", "-t", "1", "-R"]
+    cmd = ["iperf3", "-c", server_ip, "-f", "m", "-t", "1", "--bidir"]
 
     while True:
         # Get the current date and time
