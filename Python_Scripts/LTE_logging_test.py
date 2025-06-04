@@ -30,8 +30,6 @@ async def shell(reader, writer):
             writer.write('\r\n') 
 
         elif 'UserDevice' in outp: 
-            writer.write('AT+MSGMR') # extract the System date and time
-            writer.write('\r\n')
             writer.write('AT+MGPSNMEA') # extract the GPS locaion and date_time information
             writer.write('\r\n') 
             writer.write('AT+MMSVRCELL') # extract the serving cell parameters
