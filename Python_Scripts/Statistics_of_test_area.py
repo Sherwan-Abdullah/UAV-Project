@@ -83,9 +83,11 @@ def calculate_cdf(values):
 def plot_cdf(sorted_values, cdf, xlabel, title, filename, color):
     plt.figure(figsize=(10, 6))
     plt.step(sorted_values, cdf, where='mid', color=color, alpha=0.7)
-    plt.xlabel(xlabel)
-    plt.ylabel('CDF')
-    plt.title(title)
+    plt.xlabel(xlabel, fontsize=18)
+    plt.ylabel('CDF', fontsize = 18)
+    plt.title(title, fontsize=20)
+    plt.xticks(fontsize=16)
+    plt.yticks(fontsize=16)
     plt.grid(True, linestyle='--', alpha=0.7)
     plt.savefig(filename, dpi=300)
     plt.close()
@@ -104,9 +106,11 @@ def plot_pdf(values, xlabel, title, filename, color):
 
     plt.figure(figsize=(10, 6))
     plt.bar(range(len(unique_values)), normalized_counts, color=color, alpha=0.7, edgecolor='black', width=rec_wide)
-    plt.xlabel(xlabel)
-    plt.ylabel('PDF')
-    plt.title(title)
+    plt.xlabel(xlabel, fontsize = 18)
+    plt.ylabel('PDF', fontsize=18)
+    plt.title(title, fontsize=20)
+    plt.xticks(fontsize=18)
+    plt.yticks(fontsize=18)
     plt.grid(True, linestyle='--', alpha=0.7)
 
     plt.xticks(range(len(unique_values)), 
@@ -138,15 +142,17 @@ def plot_min_mean_max(data, metric, xlabel, ylabel, title, filename):
     plt.bar(r2, stats_df['mean'], color='green', width=bar_width, edgecolor='grey', label='Mean')
     plt.bar(r3, stats_df['max'], color='red', width=bar_width, edgecolor='grey', label='Max')
 
-    plt.xlabel(xlabel)
-    plt.ylabel(ylabel)
-    plt.title(title)
+    plt.xlabel(xlabel, fontsize = 18)
+    plt.ylabel(ylabel, fontsize = 18)
+    plt.title(title, fontsize = 20)
+    plt.xticks(fontsize=18)
+    plt.yticks(fontsize=18)
 
     plt.xticks([r + bar_width for r in range(len(stats_df))], 
                [f'{x:.2f}' for x in stats_df['CellID']], rotation=90)
 
     plt.grid(True, linestyle='--', alpha=0.7)
-    plt.legend(loc='upper center', bbox_to_anchor=(0.5, -0.25), fancybox=True, shadow=False, ncol=3)
+    plt.legend(loc='upper center', bbox_to_anchor=(0.5, -0.5), fancybox=True, shadow=False, ncol=3)
 
     plt.subplots_adjust(bottom=0.3)
     plt.tight_layout()
@@ -164,15 +170,17 @@ def plot_metric_per_altitude(alt_metric_values, metric_name, ylabel, filename, b
     df = pd.DataFrame(alt_metric_values, columns=['Altitude', metric_name])
     grouped = df.groupby('Altitude')[metric_name].agg(['mean', 'std']).reset_index()
 
-    plt.figure(figsize=(12, 6))
+    plt.figure(figsize=(10, 6))
     plt.bar(grouped['Altitude'], grouped['mean'], color=bar_color, width=8, edgecolor='black', label=f'Mean {metric_name}')
     plt.errorbar(x=grouped['Altitude'], y=grouped['mean'], 
                  yerr=grouped['std'], fmt='none', 
                  ecolor='black', capsize=5, label='± Std Dev')
 
-    plt.xlabel('Altitude over sea level (m)')
-    plt.ylabel(ylabel)
-    plt.title(f'Mean {metric_name} with Standard Deviation per Altitude')
+    plt.xlabel('Altitude over sea level (m)', fontsize = 18)
+    plt.ylabel(ylabel, fontsize = 18)
+    plt.title(f'Mean {metric_name} with Standard Deviation per Altitude', fontsize = 20)
+    plt.xticks(fontsize=18)
+    plt.yticks(fontsize=18)
     plt.grid(True, linestyle='--', alpha=0.7)
     plt.legend()
     plt.tight_layout()
@@ -191,11 +199,13 @@ def plot_altitude_count(altitude_values, xlabel, ylabel, title, filename):
     unique_altitudes, counts = np.unique(altitude_values, return_counts=True)
     
     # Create bar chart
-    plt.figure(figsize=(12, 6))
+    plt.figure(figsize=(10, 6))
     plt.bar(unique_altitudes, counts, color='purple', width=8, alpha=0.7, edgecolor='black')
-    plt.xlabel(xlabel)
-    plt.ylabel(ylabel)
-    plt.title(title)
+    plt.xlabel(xlabel, fontsize = 18)
+    plt.ylabel(ylabel, fontsize = 18)
+    plt.title(title, fontsize = 20)
+    plt.xticks(fontsize=18)
+    plt.yticks(fontsize=18)
     plt.grid(True, linestyle='--', alpha=0.7)
     plt.tight_layout()
     plt.savefig(filename, dpi=300)
@@ -213,7 +223,7 @@ def plot_nb_metric_per_cellid(nb_data, metric_base, ylabel, title, filename):
     x = np.arange(len(cellids))
     bar_width = 0.25
 
-    plt.figure(figsize=(14, 6))
+    plt.figure(figsize=(10, 6))
     colors = ['skyblue', 'lightgreen', 'lightcoral']
     nb_labels = ['NB1', 'NB2', 'NB3']
 
@@ -223,12 +233,14 @@ def plot_nb_metric_per_cellid(nb_data, metric_base, ylabel, title, filename):
         plt.bar(x + i * bar_width, grouped[mean_col], yerr=grouped[std_col], capsize=5,
                 width=bar_width, label=nb, color=colors[i], edgecolor='black')
 
-    plt.xlabel('Cell ID')
-    plt.ylabel(ylabel)
-    plt.title(title)
+    plt.xlabel('Cell ID', fontsize = 18)
+    plt.ylabel(ylabel, fontsize = 18)
+    plt.title(title, fontsize = 20)
+    plt.xticks(fontsize=18)
+    plt.yticks(fontsize=18)
     plt.xticks(x + bar_width, cellids, rotation=90)
     plt.grid(True, linestyle='--', alpha=0.7)
-    plt.legend(loc='upper center', bbox_to_anchor=(0.5, -0.25), ncol=3)
+    plt.legend(loc='upper center', bbox_to_anchor=(0.5, -0.5), ncol=3)
     plt.subplots_adjust(bottom=0.3)
     plt.tight_layout()
     plt.savefig(filename, dpi=300, bbox_inches='tight')
