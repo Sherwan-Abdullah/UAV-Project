@@ -17,7 +17,7 @@ def extract_and_combine_data(lte_log, lte_data):
         outfile.write(",NB7_EARFCN,NB7_PCI,NB7_RSRQ,NB7_RSRP,NB7_RSSI")
         outfile.write(",NB8_EARFCN,NB8_PCI,NB8_RSRQ,NB8_RSRP,NB8_RSSI")
         outfile.write(",NB9_EARFCN,NB9_PCI,NB9_RSRQ,NB9_RSRP,NB9_RSSI")
-        outfile.write(",NB10_EARFCN,NB10_PCI,NB10_RSRQ,NB10_RSRP,NB10_RSSI\n")
+        outfile.write(",NB10_EARFCN,NB10_PCI,NB10_RSRQ,NB10_RSRP,NB10_RSSI")
 
         for line in infile:
             if line.startswith(' $GPGGA'):
@@ -99,3 +99,4 @@ def extract_and_combine_data(lte_log, lte_data):
 
 # Usage
 extract_and_combine_data('lte_log.txt', 'lte_data.txt')
+
