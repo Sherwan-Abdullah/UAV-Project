@@ -4,7 +4,7 @@ The script files are to plot the metrics of:
 - RAN_statistics.py: plots the serving cell RAN metrics (RSRP, RSRQ, RSSI, and SINR) into PNG images
 
 
-- Delay_data_extract.py extracts and arranges the RTT data into a Comma-Separated Value text file.
+- Delay_statistics.py: plots the PDF of RTT (between the Radio modem and a dedicated server) into PNG images.
 
 
-- throughput_data_extract.py extracts and arranges the Throughput data into a Comma-Separated Value text file.
+- throughput_statistics.py: plots the CDF of bidirectional throughput (uplink and downlink) into PNG images.
