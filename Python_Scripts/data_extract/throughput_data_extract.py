@@ -2,7 +2,7 @@ import re
 import csv
 
 input_file = "iperf3_log.txt"
-output_file = "iperf_data.txt"
+output_file = "iperf3_data.txt"
 
 # Read the file
 with open(input_file, "r") as f:
@@ -42,3 +42,4 @@ with open(output_file, "w", newline="") as f_out:
     writer.writerows(results)
 
 print(f"✅ Done! Output saved to '{output_file}'")
+
