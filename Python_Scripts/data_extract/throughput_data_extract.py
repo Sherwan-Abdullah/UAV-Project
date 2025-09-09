@@ -1,45 +1,115 @@
+#!/usr/bin/env python3
+"""
+iperf3 Log Parser
+Extracts date/time, upload speed (UL), and download speed (DL) from iperf3_log.txt 
+and saves to iperf3_data.txt as CSV
+"""
+
 import re
 import csv
 
-input_file = "iperf3_log.txt"
-output_file = "iperf3_data.txt"
+def parse_iperf_log(filename):
+    """Parse iperf3_log.txt and extract test data"""
+    
+    results = []
+    
+    try:
+        with open(filename, 'r') as file:
+            content = file.read()
+            
+        lines = content.strip().split('\n')
+        
+        current_datetime = None
+        upload_speed = None
+        download_speed = None
+        
+        for line in lines:
+            line = line.strip()
+            
+            # Match datetime pattern (2025/Sep/04 22:47:45)
+            datetime_match = re.match(r'(\d{4}/\w{3}/\d{2}\s+\d{2}:\d{2}:\d{2})', line)
+            if datetime_match:
+                # If we have a complete test, save it before starting new one
+                if current_datetime and upload_speed and download_speed:
+                    results.append({
+                        'datetime': current_datetime,
+                        'upload_mbps': upload_speed,
+                        'download_mbps': download_speed
+                    })
+                
+                # Start new test
+                current_datetime = datetime_match.group(1)
+                upload_speed = None
+                download_speed = None
+                continue
+            
+            # Extract TX-C (upload) sender speed
+            tx_match = re.search(r'\[\s*\d+\]\[TX-C\].*?([\d.]+)\s+Mbits/sec.*?sender', line)
+            if tx_match and current_datetime:
+                upload_speed = float(tx_match.group(1))
+            
+            # Extract RX-C (download) sender speed  
+            rx_match = re.search(r'\[\s*\d+\]\[RX-C\].*?([\d.]+)\s+Mbits/sec.*?sender', line)
+            if rx_match and current_datetime:
+                download_speed = float(rx_match.group(1))
+        
+        # Don't forget the last test if file doesn't end with timestamp
+        if current_datetime and upload_speed and download_speed:
+            results.append({
+                'datetime': current_datetime,
+                'upload_mbps': upload_speed,
+                'download_mbps': download_speed
+            })
+                
+    except FileNotFoundError:
+        print(f"Error: {filename} not found!")
+        return []
+    except Exception as e:
+        print(f"Error reading file: {e}")
+        return []
+    
+    return results
 
-# Read the file
-with open(input_file, "r") as f:
-    content = f.read()
+def save_to_csv(data, output_filename):
+    """Save data to CSV file"""
+    
+    if not data:
+        print("No data to save!")
+        return
+    
+    try:
+        with open(output_filename, 'w', newline='') as file:
+            writer = csv.writer(file)
+            
+            # Write header
+            writer.writerow(['datetime', 'UL', 'DL'])
+            
+            # Write data
+            for row in data:
+                writer.writerow([row['datetime'], row['upload_mbps'], row['download_mbps']])
+        
+        #print(f"Successfully saved {len(data)} records to {output_filename}")
+        
+        #for row in data:
+           # print(f"{row['datetime']}, {row['upload_mbps']}, {row['download_mbps']}")
+            
+    except Exception as e:
+        print(f"Error saving file: {e}")
 
-# Split the log into blocks for each test based on "Date and Time:"
-entries = re.split(r"(Date and Time: \d{4}/\w{3}/\d{2} \d{2}:\d{2}:\d{2})", content)
-entries = [e.strip() for e in entries if e.strip()]
+def main():
+    """Main function"""
+    
+    input_file = 'iperf3_log.txt'
+    output_file = 'iperf3_data.txt'
+    
+    #print(f"Reading from: {input_file}")
+    #print(f"Writing to: {output_file}")
+    
+    # Parse the log file
+    data = parse_iperf_log(input_file)
+    
+    # Save to CSV
+    save_to_csv(data, output_file)
 
-# Group into (timestamp, block)
-grouped = [(entries[i], entries[i+1]) for i in range(0, len(entries) - 1, 2)]
-
-results = []
-for timestamp, block in grouped:
-    tx_speed = "0"
-    rx_speed = "0"
-
-    # If "Errors:" appears at the top without throughput: keep 0s
-    if "Errors:" in block and not re.search(r"\[TX-C\].*Mbits/sec.*\[RX-C\].*Mbits/sec", block, re.DOTALL):
-        pass  # leave as 0
-    else:
-        # Extract only the first TX-C and RX-C throughput lines
-        tx_match = re.search(r"\[\s*\d+\]\[TX-C\].*?([\d.]+)\sMbits/sec", block)
-        rx_match = re.search(r"\[\s*\d+\]\[RX-C\].*?([\d.]+)\sMbits/sec", block)
-
-        if tx_match:
-            tx_speed = tx_match.group(1)
-        if rx_match:
-            rx_speed = rx_match.group(1)
-
-    results.append((timestamp, tx_speed, rx_speed))
-
-# Write to output file
-with open(output_file, "w", newline="") as f_out:
-    writer = csv.writer(f_out)
-    writer.writerow(["Date Time", "UL_speed", "DL_speed"])
-    writer.writerows(results)
-
-print(f"✅ Done! Output saved to '{output_file}'")
-
+if __name__ == "__main__":
+    main()
