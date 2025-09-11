@@ -1,5 +1,12 @@
 The script files are to plot the metrics of:
 
+- all_stat_result.py plot all the RAN, Delay, and Throughput statistics charts and save them to a folder named (Statistics Results)
+
+================================================================================================================================================
+================================================================================================================================================
+
+but if you want to plot single extracted data from a log file see below:
+
 - RAN_map_2D3D.py maps the serving cell RAN metrics (RSRP, RSRQ, RSSI, and SINR) into a 4X2 HTML file each metric is plotted in 2D and 3D views.
 - RAN_statistics.py: plots the below:
     - The CDF charts of RAN metrics for the whole tested area
