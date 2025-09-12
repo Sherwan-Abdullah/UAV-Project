@@ -95,7 +95,7 @@ def extract_ran_data(lte_log, lte_data):
                             altitude = int(float(alt_text) / 10) * 10
                             outfile.write(f"\n {altitude},")
                         else:
-                            outfile.write("altitude,")
+                            outfile.write("\n altitude,")
 
                 if line.startswith(' $GPRMC'):
                     fields = line.split(',')
@@ -137,7 +137,7 @@ def extract_ran_data(lte_log, lte_data):
                                 print("Error parsing GPRMC:", e)
                                 outfile.write("invalid_lat,invalid_lon,invalid_time,")
                         else:
-                            outfile.write(",,,")
+                            outfile.write("lat,lon,dat tim,")
                 
                 if line.startswith(' "servingcell"'):
                     fields = line.split(',')
@@ -286,3 +286,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
