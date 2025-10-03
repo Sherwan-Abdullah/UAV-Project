@@ -109,23 +109,23 @@ def analyze_ran_statistics():
                 if len(values) >= 29:
                     try:
                         altitude = float(values[0])
-                        cellid = float(values[8])
-                        lac = float(values[9])
-                        rsrp = float(values[10])
-                        rsrq = float(values[11])
-                        rssi = float(values[12])
-                        sinr = float(values[13])
+                        cellid = float(values[9])
+                        lac = float(values[10])
+                        rsrp = float(values[11])
+                        rsrq = float(values[12])
+                        rssi = float(values[13])
+                        sinr = float(values[14])
                         
                         # Extracting NB RSRP, RSRQ, and RSSI from their respective columns
-                        nb1_rsrp = float(values[17])
-                        nb2_rsrp = float(values[22])
-                        nb3_rsrp = float(values[27])
-                        nb1_rsrq = float(values[16])
-                        nb2_rsrq = float(values[21])
-                        nb3_rsrq = float(values[26])
-                        nb1_rssi = float(values[18])
-                        nb2_rssi = float(values[23])
-                        nb3_rssi = float(values[28])
+                        nb1_rsrp = float(values[18])
+                        nb2_rsrp = float(values[23])
+                        nb3_rsrp = float(values[28])
+                        nb1_rsrq = float(values[17])
+                        nb2_rsrq = float(values[22])
+                        nb3_rsrq = float(values[27])
+                        nb1_rssi = float(values[19])
+                        nb2_rssi = float(values[24])
+                        nb3_rssi = float(values[29])
                         
                         # Append values to the lists
                         cellid_values.append(cellid)
