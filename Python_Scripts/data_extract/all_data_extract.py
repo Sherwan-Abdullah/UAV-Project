@@ -27,8 +27,11 @@ def parse_iperf_log(filename):
             if datetime_match:
                 # If we have a complete test, save it before starting new one
                 if current_datetime and upload_speed and download_speed:
+                    # Split datetime into separate Date and Time
+                    date_part, time_part = current_datetime.split(' ', 1)
                     results.append({
-                        'datetime': current_datetime,
+                        'date': date_part, # Stored separately
+                        'time': time_part, # Stored separately
                         'upload_mbps': upload_speed,
                         'download_mbps': download_speed
                     })
@@ -51,8 +54,11 @@ def parse_iperf_log(filename):
         
         # Don't forget the last test if file doesn't end with timestamp
         if current_datetime and upload_speed and download_speed:
+            # Split datetime into separate Date and Time
+            date_part, time_part = current_datetime.split(' ', 1)
             results.append({
-                'datetime': current_datetime,
+                'date': date_part, # Stored separately
+                'time': time_part, # Stored separately
                 'upload_mbps': upload_speed,
                 'download_mbps': download_speed
             })
@@ -72,8 +78,9 @@ def extract_ran_data(lte_log, lte_data):
     try:
         tf = TimezoneFinder()
 
+        # Header: "Date,Time" is now split into "Date" and "Time" columns
         with open(lte_log, 'r') as infile, open(lte_data, 'w') as outfile:
-            outfile.write("Altitude,latitude,longitude,Date Time")
+            outfile.write("Altitude,latitude,longitude,Date,Time") 
             outfile.write(",MCC,MNC,PCI,EARFCN,CellID,LAC,RSRP,RSRQ,RSSI,SINR")
             outfile.write(",NB1_EARFCN,NB1_PCI,NB1_RSRQ,NB1_RSRP,NB1_RSSI")
             outfile.write(",NB2_EARFCN,NB2_PCI,NB2_RSRQ,NB2_RSRP,NB2_RSSI")
@@ -93,9 +100,9 @@ def extract_ran_data(lte_log, lte_data):
                         alt_text = fields[9]
                         if alt_text:
                             altitude = int(float(alt_text) / 10) * 10
-                            outfile.write(f"\n {altitude},")
+                            outfile.write(f"\n{altitude},")
                         else:
-                            outfile.write("\n altitude,")
+                            outfile.write("\naltitude,")
 
                 if line.startswith(' $GPRMC'):
                     fields = line.split(',')
@@ -128,16 +135,22 @@ def extract_ran_data(lte_log, lte_data):
                                 if tz_name:
                                     tz = pytz.timezone(tz_name)
                                     dt_local = dt_utc.astimezone(tz)
-                                    local_time_str = dt_local.strftime("%Y/%b/%d %H:%M:%S")
+                                    # Data is now split into Date and Time fields
+                                    date_str = dt_local.strftime("%Y/%b/%d")
+                                    time_str = dt_local.strftime("%H:%M:%S")
                                 else:
-                                    local_time_str = dt_utc.strftime("%Y/%b/%d %H:%M:%S")
+                                    date_str = dt_utc.strftime("%Y/%b/%d")
+                                    time_str = dt_utc.strftime("%H:%M:%S")
 
-                                outfile.write(f"{lat_deg},{lon_deg},{local_time_str},")
+                                # Write two separate fields: lat, lon, Date, Time
+                                outfile.write(f"{lat_deg},{lon_deg},{date_str},{time_str},")
                             except Exception as e:
                                 print("Error parsing GPRMC:", e)
-                                outfile.write("invalid_lat,invalid_lon,invalid_time,")
+                                # Write 4 placeholder fields
+                                outfile.write("invalid_lat,invalid_lon,invalid_date,invalid_time,")
                         else:
-                            outfile.write("lat,lon,dat tim,")
+                            # Write 4 placeholder fields
+                            outfile.write("LAT,LON,Dat,Time,") 
                 
                 if line.startswith(' "servingcell"'):
                     fields = line.split(',')
@@ -187,7 +200,10 @@ def parse_nping_log(input_file):
         # Extract and store info
         summary = []
         for timestamp, block in grouped:
-            dt = timestamp.replace("Date and Time: ", "")
+            dt_with_space = timestamp.replace("Date and Time: ", "")
+            
+            # Split datetime into separate Date and Time
+            date_part, time_part = dt_with_space.split(' ', 1)
 
             # Extract Max RTT (or N/A)
             rtt_match = re.search(r"Max rtt: ([\d.]+|N/A)", block)
@@ -201,7 +217,8 @@ def parse_nping_log(input_file):
             rcvd_match = re.search(r"Rcvd: (\d+)", block)
             rcvd = rcvd_match.group(1) if rcvd_match else "0"
 
-            summary.append((dt, max_rtt, sent, rcvd))
+            # Save as separate Date and Time fields
+            summary.append((date_part, time_part, max_rtt, sent, rcvd)) 
         
         return summary
         
@@ -221,15 +238,16 @@ def save_to_csv(data, output_filename, headers):
     
     try:
         with open(output_filename, 'w', newline='') as file:
+            # Writing headers now works without quoting because fields contain no comma
             writer = csv.writer(file)
-            writer.writerow(headers)
+            writer.writerow(headers) 
             
             if isinstance(data[0], dict):
-                # For throughput data
+                # For throughput data (iperf) - uses 'date' and 'time' keys
                 for row in data:
-                    writer.writerow([row['datetime'], row['upload_mbps'], row['download_mbps']])
+                    writer.writerow([row['date'], row['time'], row['upload_mbps'], row['download_mbps']])
             else:
-                # For delay data (tuples)
+                # For delay data (nping) (tuples) - starts with (date, time, ...)
                 writer.writerows(data)
         
         print(f"✅ Successfully saved {len(data)} records to {output_filename}")
@@ -248,7 +266,8 @@ def main():
         'throughput': {
             'input': 'iperf3_log.txt',
             'output': 'iperf3_data.txt',
-            'headers': ['datetime', 'UL', 'DL']
+            # Split 'Date,Time' into 'Date', 'Time'
+            'headers': ['Date', 'Time', 'UL', 'DL'] 
         },
         'ran': {
             'input': 'lte_log.txt',
@@ -257,7 +276,8 @@ def main():
         'delay': {
             'input': 'nping_log.txt',
             'output': 'nping_data.txt',
-            'headers': ['Date Time', 'Max_RTT_ms', 'Sent_Packets', 'Received_Packets']
+            # Split 'Date,Time' into 'Date', 'Time'
+            'headers': ['Date', 'Time', 'Max_RTT_ms', 'Sent_Packets', 'Received_Packets']
         }
     }
     
@@ -286,4 +306,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
