@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17508165.svg)](https://doi.org/10.5281/zenodo.17508165)
+
 # UAV-Project
 This is the data logger of a UAV-based system to record the RAN (Radio Access Network of a mobile service provider) and End-to-End network performance (Delay and Throughput). The folders are arranged as below:
 
@@ -15,3 +17,4 @@ For the Python scripts inside the data_extract and visualize_data folders, if yo
 
 
 Inside each folder, you will find a README file that contains more information
+
