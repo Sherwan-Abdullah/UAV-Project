@@ -1,0 +1,430 @@
+Date and Time: 2025/Sep/04 22:22:05
+://nmap.org/nping ) at 2025-09-04 22:22 UTC
+SENT (0.0316s) TCP 192.168.168.105:57037 > 129.237.161.212:62 S ttl=64 id=40642 iplen=40  seq=187629465 win=1480 
+RCVD (0.0322s) ICMP [192.168.168.1 > 192.168.168.105 Network 129.237.161.212 unreachable (type=3/code=0) ] IP [ttl=64 id=61521 iplen=68 ]
+comms
+RCVD (0.8403s) ICMP [192.168.168.1 > 192.168.168.105 Network 129.237.161.212 unreachable (type=3/code=0) ] IP [ttl=64 id=61526 iplen=88 ]
+ 
+Max rtt: 100.676ms | Min rtt: 0.521ms | Avg rtt: 404.598ms
+Raw packets sent: 1 (40B) | Rcvd: 2 (156B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Sep/04 22:22:06
+://nmap.org/nping ) at 2025-09-04 22:22 UTC
+SENT (0.0189s) TCP 192.168.168.105:12086 > 129.237.161.212:62 S ttl=64 id=43097 iplen=40  seq=1539357600 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.06 seconds
+
+
+Date and Time: 2025/Sep/04 22:22:08
+://nmap.org/nping ) at 2025-09-04 22:22 UTC
+SENT (0.0374s) TCP 192.168.168.105:41462 > 129.237.161.212:62 S ttl=64 id=4850 iplen=40  seq=1409141652 win=1480 
+comms
+nping_event_handler(): READ-PCAP killed: Resource temporarily unavailable
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.11 seconds
+
+
+Date and Time: 2025/Sep/04 22:22:09
+://nmap.org/nping ) at 2025-09-04 22:22 UTC
+SENT (0.0241s) TCP 192.168.168.105:45726 > 129.237.161.212:62 S ttl=64 id=22790 iplen=40  seq=3089715620 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Sep/04 22:22:10
+://nmap.org/nping ) at 2025-09-04 22:22 UTC
+SENT (0.0312s) TCP 192.168.168.105:59712 > 129.237.161.212:62 S ttl=64 id=59548 iplen=40  seq=2452936677 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Sep/04 22:22:11
+://nmap.org/nping ) at 2025-09-04 22:22 UTC
+SENT (0.0421s) TCP 192.168.168.105:27083 > 129.237.161.212:62 S ttl=64 id=46275 iplen=40  seq=1084560803 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.10 seconds
+
+
+Date and Time: 2025/Sep/04 22:22:12
+://nmap.org/nping ) at 2025-09-04 22:22 UTC
+SENT (0.0376s) TCP 192.168.168.105:31716 > 129.237.161.212:62 S ttl=64 id=58044 iplen=40  seq=1630195166 win=1480 
+comms
+nping_event_handler(): READ-PCAP killed: Resource temporarily unavailable
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Sep/04 22:22:13
+://nmap.org/nping ) at 2025-09-04 22:22 UTC
+SENT (0.0392s) TCP 192.168.168.105:36409 > 129.237.161.212:62 S ttl=64 id=30660 iplen=40  seq=3660499316 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.12 seconds
+
+
+Date and Time: 2025/Sep/04 22:22:14
+://nmap.org/nping ) at 2025-09-04 22:22 UTC
+SENT (0.0388s) TCP 192.168.168.105:63127 > 129.237.161.212:62 S ttl=64 id=14014 iplen=40  seq=884373929 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.10 seconds
+
+
+Date and Time: 2025/Sep/04 22:22:15
+://nmap.org/nping ) at 2025-09-04 22:22 UTC
+SENT (0.0294s) TCP 192.168.168.105:9346 > 129.237.161.212:62 S ttl=64 id=984 iplen=40  seq=1499380723 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Sep/04 22:22:16
+://nmap.org/nping ) at 2025-09-04 22:22 UTC
+SENT (0.0338s) TCP 192.168.168.105:62313 > 129.237.161.212:62 S ttl=64 id=52076 iplen=40  seq=2494792388 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Sep/04 22:22:17
+://nmap.org/nping ) at 2025-09-04 22:22 UTC
+SENT (0.0153s) TCP 192.168.168.105:26115 > 129.237.161.212:62 S ttl=64 id=54166 iplen=40  seq=2244345579 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.05 seconds
+
+
+Date and Time: 2025/Sep/04 22:22:19
+://nmap.org/nping ) at 2025-09-04 22:22 UTC
+SENT (0.0352s) TCP 192.168.168.105:55490 > 129.237.161.212:62 S ttl=64 id=9261 iplen=40  seq=279539749 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.11 seconds
+
+
+Date and Time: 2025/Sep/04 22:22:20
+://nmap.org/nping ) at 2025-09-04 22:22 UTC
+SENT (0.0309s) TCP 192.168.168.105:40910 > 129.237.161.212:62 S ttl=64 id=53251 iplen=40  seq=3701094676 win=1480 
+comms
+nping_event_handler(): READ-PCAP killed: Resource temporarily unavailable
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Sep/04 22:22:21
+://nmap.org/nping ) at 2025-09-04 22:22 UTC
+SENT (0.0352s) TCP 192.168.168.105:65090 > 129.237.161.212:62 S ttl=64 id=37621 iplen=40  seq=654910568 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Sep/04 22:22:22
+://nmap.org/nping ) at 2025-09-04 22:22 UTC
+SENT (0.0301s) TCP 192.168.168.105:19585 > 129.237.161.212:62 S ttl=64 id=4896 iplen=40  seq=1077112033 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Sep/04 22:22:23
+://nmap.org/nping ) at 2025-09-04 22:22 UTC
+SENT (0.0278s) TCP 192.168.168.105:58915 > 129.237.161.212:62 S ttl=64 id=52072 iplen=40  seq=1650525958 win=1480 
+comms
+nping_event_handler(): READ-PCAP killed: Resource temporarily unavailable
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.10 seconds
+
+
+Date and Time: 2025/Sep/04 22:22:24
+://nmap.org/nping ) at 2025-09-04 22:22 UTC
+SENT (0.0372s) TCP 192.168.168.105:4490 > 129.237.161.212:62 S ttl=64 id=16046 iplen=40  seq=2991679668 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.12 seconds
+
+
+Date and Time: 2025/Sep/04 22:22:25
+://nmap.org/nping ) at 2025-09-04 22:22 UTC
+SENT (0.0287s) TCP 192.168.168.105:47005 > 129.237.161.212:62 S ttl=64 id=47911 iplen=40  seq=172488264 win=1480 
+comms
+nping_event_handler(): READ-PCAP killed: Resource temporarily unavailable
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Sep/04 22:22:26
+://nmap.org/nping ) at 2025-09-04 22:22 UTC
+SENT (0.0202s) TCP 192.168.168.105:14452 > 129.237.161.212:62 S ttl=64 id=48311 iplen=40  seq=1221610208 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Sep/04 22:22:27
+://nmap.org/nping ) at 2025-09-04 22:22 UTC
+SENT (0.0262s) TCP 192.168.168.105:1895 > 129.237.161.212:62 S ttl=64 id=2419 iplen=40  seq=3116682980 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Sep/04 22:22:28
+://nmap.org/nping ) at 2025-09-04 22:22 UTC
+SENT (0.0274s) TCP 192.168.168.105:56878 > 129.237.161.212:62 S ttl=64 id=32388 iplen=40  seq=212522045 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Sep/04 22:22:29
+://nmap.org/nping ) at 2025-09-04 22:22 UTC
+SENT (0.0316s) TCP 192.168.168.105:62320 > 129.237.161.212:62 S ttl=64 id=36138 iplen=40  seq=1664036980 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Sep/04 22:22:31
+://nmap.org/nping ) at 2025-09-04 22:22 UTC
+SENT (0.0305s) TCP 192.168.168.105:27594 > 129.237.161.212:62 S ttl=64 id=24908 iplen=40  seq=2149297553 win=1480 
+comms
+nping_event_handler(): READ-PCAP killed: Resource temporarily unavailable
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Sep/04 22:22:32
+://nmap.org/nping ) at 2025-09-04 22:22 UTC
+SENT (0.0306s) TCP 192.168.168.105:24392 > 129.237.161.212:62 S ttl=64 id=56683 iplen=40  seq=1150090877 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.10 seconds
+
+
+Date and Time: 2025/Sep/04 22:22:33
+://nmap.org/nping ) at 2025-09-04 22:22 UTC
+SENT (0.0364s) TCP 192.168.168.105:26439 > 129.237.161.212:62 S ttl=64 id=6421 iplen=40  seq=827443053 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.10 seconds
+
+
+Date and Time: 2025/Sep/04 22:22:34
+://nmap.org/nping ) at 2025-09-04 22:22 UTC
+SENT (0.0294s) TCP 192.168.168.105:7516 > 129.237.161.212:62 S ttl=64 id=47270 iplen=40  seq=4206273743 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Sep/04 22:22:35
+://nmap.org/nping ) at 2025-09-04 22:22 UTC
+SENT (0.0401s) TCP 192.168.168.105:51793 > 129.237.161.212:62 S ttl=64 id=48254 iplen=40  seq=1066870933 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Sep/04 22:22:36
+://nmap.org/nping ) at 2025-09-04 22:22 UTC
+SENT (0.0335s) TCP 192.168.168.105:28407 > 129.237.161.212:62 S ttl=64 id=40247 iplen=40  seq=688354776 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.10 seconds
+
+
+Date and Time: 2025/Sep/04 22:22:37
+://nmap.org/nping ) at 2025-09-04 22:22 UTC
+SENT (0.0336s) TCP 192.168.168.105:57275 > 129.237.161.212:62 S ttl=64 id=59689 iplen=40  seq=143458892 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Sep/04 22:22:38
+://nmap.org/nping ) at 2025-09-04 22:22 UTC
+SENT (0.0428s) TCP 192.168.168.105:48388 > 129.237.161.212:62 S ttl=64 id=58684 iplen=40  seq=2372049126 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Sep/04 22:22:39
+://nmap.org/nping ) at 2025-09-04 22:22 UTC
+SENT (0.0373s) TCP 192.168.168.105:10036 > 129.237.161.212:62 S ttl=64 id=56864 iplen=40  seq=639814569 win=1480 
+comms
+nping_event_handler(): READ-PCAP killed: Resource temporarily unavailable
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Sep/04 22:22:40
+://nmap.org/nping ) at 2025-09-04 22:22 UTC
+SENT (0.0218s) TCP 192.168.168.105:56184 > 129.237.161.212:62 S ttl=64 id=3519 iplen=40  seq=3379638118 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Sep/04 22:22:41
+://nmap.org/nping ) at 2025-09-04 22:22 UTC
+SENT (0.0303s) TCP 192.168.168.105:26710 > 129.237.161.212:62 S ttl=64 id=36931 iplen=40  seq=2526962253 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Sep/04 22:22:43
+://nmap.org/nping ) at 2025-09-04 22:22 UTC
+SENT (0.0454s) TCP 192.168.168.105:11155 > 129.237.161.212:62 S ttl=64 id=6193 iplen=40  seq=2412374024 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.10 seconds
+
+
+Date and Time: 2025/Sep/04 22:22:44
+://nmap.org/nping ) at 2025-09-04 22:22 UTC
+SENT (0.0357s) TCP 192.168.168.105:12649 > 129.237.161.212:62 S ttl=64 id=29953 iplen=40  seq=279228083 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Sep/04 22:22:45
+://nmap.org/nping ) at 2025-09-04 22:22 UTC
+SENT (0.0304s) TCP 192.168.168.105:50044 > 129.237.161.212:62 S ttl=64 id=5524 iplen=40  seq=1779040067 win=1480 
+comms
+nping_event_handler(): READ-PCAP killed: Resource temporarily unavailable
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.11 seconds
+
+
+Date and Time: 2025/Sep/04 22:22:46
+://nmap.org/nping ) at 2025-09-04 22:22 UTC
+SENT (0.0359s) TCP 192.168.168.105:19114 > 129.237.161.212:62 S ttl=64 id=43258 iplen=40  seq=1203892818 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.10 seconds
+
+
+Date and Time: 2025/Sep/04 22:22:47
+://nmap.org/nping ) at 2025-09-04 22:22 UTC
+SENT (0.0264s) TCP 192.168.168.105:30896 > 129.237.161.212:62 S ttl=64 id=62212 iplen=40  seq=309190977 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Sep/04 22:22:48
+://nmap.org/nping ) at 2025-09-04 22:22 UTC
+SENT (0.0268s) TCP 192.168.168.105:34018 > 129.237.161.212:62 S ttl=64 id=2857 iplen=40  seq=2056903150 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.11 seconds
+
+
+Date and Time: 2025/Sep/04 22:22:49
+://nmap.org/nping ) at 2025-09-04 22:22 UTC
+SENT (0.0338s) TCP 192.168.168.105:58525 > 129.237.161.212:62 S ttl=64 id=5374 iplen=40  seq=3682494259 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.10 seconds
+
+
+Date and Time: 2025/Sep/04 22:22:50
+://nmap.org/nping ) at 2025-09-04 22:22 UTC
+SENT (0.0266s) TCP 192.168.168.105:46716 > 129.237.161.212:62 S ttl=64 id=49043 iplen=40  seq=1931688883 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
