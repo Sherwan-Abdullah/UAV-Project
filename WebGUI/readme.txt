@@ -11,7 +11,7 @@ Download all the files in one folder, these files functions are:
 
 Running the WebGUI tool
 
-Run WebGUI.sh, a web page will be open and you find buttons for:
+Run WebGUI.sh (right click --> run as program), a web page will be open and you find buttons for:
 - browse for the logfiles in the PC
 - extracting the data from all logfiles
 - plotting the statistical charts
