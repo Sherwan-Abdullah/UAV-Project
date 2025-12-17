@@ -1,0 +1,3329 @@
+Date and Time: 2025/Dec/17 17:43:35
+://nmap.org/nping ) at 2025-12-17 17:43 UTC
+SENT (0.0254s) TCP 192.168.1.70:28386 > 129.237.161.212:62 S ttl=64 id=24818 iplen=40  seq=3680973012 win=1480 
+RCVD (0.0529s) TCP 129.237.161.212:62 > 192.168.1.70:28386 SA ttl=52 id=0 iplen=44  seq=1583863352 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 27.439ms | Min rtt: 27.439ms | Avg rtt: 27.439ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:43:36
+://nmap.org/nping ) at 2025-12-17 17:43 UTC
+SENT (0.0382s) TCP 192.168.1.70:29181 > 129.237.161.212:62 S ttl=64 id=4139 iplen=40  seq=1420852834 win=1480 
+comms
+RCVD (0.0695s) TCP 129.237.161.212:62 > 192.168.1.70:29181 SA ttl=52 id=0 iplen=44  seq=30926112 win=64240 <mss 1460>
+ 
+Max rtt: 31.248ms | Min rtt: 31.248ms | Avg rtt: 31.248ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.10 seconds
+
+
+Date and Time: 2025/Dec/17 17:43:36
+://nmap.org/nping ) at 2025-12-17 17:43 UTC
+SENT (0.0247s) TCP 192.168.1.70:34562 > 129.237.161.212:62 S ttl=64 id=24301 iplen=40  seq=3846293379 win=1480 
+RCVD (0.0451s) TCP 129.237.161.212:62 > 192.168.1.70:34562 SA ttl=52 id=0 iplen=44  seq=3036850605 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 20.420ms | Min rtt: 20.420ms | Avg rtt: 20.420ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:43:37
+://nmap.org/nping ) at 2025-12-17 17:43 UTC
+SENT (0.0397s) TCP 192.168.1.70:56756 > 129.237.161.212:62 S ttl=64 id=61248 iplen=40  seq=1145028811 win=1480 
+RCVD (0.0636s) TCP 129.237.161.212:62 > 192.168.1.70:56756 SA ttl=52 id=0 iplen=44  seq=4293329043 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 23.933ms | Min rtt: 23.933ms | Avg rtt: 23.933ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.10 seconds
+
+
+Date and Time: 2025/Dec/17 17:43:37
+://nmap.org/nping ) at 2025-12-17 17:43 UTC
+SENT (0.0268s) TCP 192.168.1.70:11531 > 129.237.161.212:62 S ttl=64 id=37495 iplen=40  seq=1281370832 win=1480 
+RCVD (0.0463s) TCP 129.237.161.212:62 > 192.168.1.70:11531 SA ttl=52 id=0 iplen=44  seq=4128381041 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 19.388ms | Min rtt: 19.388ms | Avg rtt: 19.388ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:43:38
+://nmap.org/nping ) at 2025-12-17 17:43 UTC
+SENT (0.0362s) TCP 192.168.1.70:8308 > 129.237.161.212:62 S ttl=64 id=62887 iplen=40  seq=3033368564 win=1480 
+RCVD (0.0545s) TCP 129.237.161.212:62 > 192.168.1.70:8308 SA ttl=52 id=0 iplen=44  seq=4140651814 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 18.252ms | Min rtt: 18.252ms | Avg rtt: 18.252ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.10 seconds
+
+
+Date and Time: 2025/Dec/17 17:43:38
+://nmap.org/nping ) at 2025-12-17 17:43 UTC
+SENT (0.0405s) TCP 192.168.1.70:12569 > 129.237.161.212:62 S ttl=64 id=24695 iplen=40  seq=2331198204 win=1480 
+RCVD (0.0603s) TCP 129.237.161.212:62 > 192.168.1.70:12569 SA ttl=52 id=0 iplen=44  seq=2199253308 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 19.714ms | Min rtt: 19.714ms | Avg rtt: 19.714ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:43:39
+://nmap.org/nping ) at 2025-12-17 17:43 UTC
+SENT (0.0466s) TCP 192.168.1.70:8443 > 129.237.161.212:62 S ttl=64 id=1166 iplen=40  seq=3330668383 win=1480 
+RCVD (0.0685s) TCP 129.237.161.212:62 > 192.168.1.70:8443 SA ttl=52 id=0 iplen=44  seq=2156195648 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 21.787ms | Min rtt: 21.787ms | Avg rtt: 21.787ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.10 seconds
+
+
+Date and Time: 2025/Dec/17 17:43:39
+://nmap.org/nping ) at 2025-12-17 17:43 UTC
+SENT (0.0335s) TCP 192.168.1.70:51156 > 129.237.161.212:62 S ttl=64 id=25390 iplen=40  seq=3796592846 win=1480 
+RCVD (0.0524s) TCP 129.237.161.212:62 > 192.168.1.70:51156 SA ttl=52 id=0 iplen=44  seq=3999787919 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 18.917ms | Min rtt: 18.917ms | Avg rtt: 18.917ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:43:40
+://nmap.org/nping ) at 2025-12-17 17:43 UTC
+SENT (0.0278s) TCP 192.168.1.70:45526 > 129.237.161.212:62 S ttl=64 id=10653 iplen=40  seq=493177144 win=1480 
+RCVD (0.0486s) TCP 129.237.161.212:62 > 192.168.1.70:45526 SA ttl=52 id=0 iplen=44  seq=1480199393 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 20.720ms | Min rtt: 20.720ms | Avg rtt: 20.720ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.10 seconds
+
+
+Date and Time: 2025/Dec/17 17:43:40
+://nmap.org/nping ) at 2025-12-17 17:43 UTC
+SENT (0.0326s) TCP 192.168.1.70:27529 > 129.237.161.212:62 S ttl=64 id=13070 iplen=40  seq=3445776312 win=1480 
+RCVD (0.0526s) TCP 129.237.161.212:62 > 192.168.1.70:27529 SA ttl=52 id=0 iplen=44  seq=2682793481 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 19.951ms | Min rtt: 19.951ms | Avg rtt: 19.951ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:43:41
+://nmap.org/nping ) at 2025-12-17 17:43 UTC
+SENT (0.0435s) TCP 192.168.1.70:63423 > 129.237.161.212:62 S ttl=64 id=23323 iplen=40  seq=3267777809 win=1480 
+RCVD (0.0599s) TCP 129.237.161.212:62 > 192.168.1.70:63423 SA ttl=52 id=0 iplen=44  seq=722561591 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 16.337ms | Min rtt: 16.337ms | Avg rtt: 16.337ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:43:42
+://nmap.org/nping ) at 2025-12-17 17:43 UTC
+SENT (0.0342s) TCP 192.168.1.70:59361 > 129.237.161.212:62 S ttl=64 id=8667 iplen=40  seq=876339864 win=1480 
+RCVD (0.0562s) TCP 129.237.161.212:62 > 192.168.1.70:59361 SA ttl=52 id=0 iplen=44  seq=1071687234 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 22.004ms | Min rtt: 22.004ms | Avg rtt: 22.004ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:43:42
+://nmap.org/nping ) at 2025-12-17 17:43 UTC
+SENT (0.0270s) TCP 192.168.1.70:4398 > 129.237.161.212:62 S ttl=64 id=12578 iplen=40  seq=4142812389 win=1480 
+RCVD (0.0481s) TCP 129.237.161.212:62 > 192.168.1.70:4398 SA ttl=52 id=0 iplen=44  seq=2782668560 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 21.009ms | Min rtt: 21.009ms | Avg rtt: 21.009ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.06 seconds
+
+
+Date and Time: 2025/Dec/17 17:43:43
+://nmap.org/nping ) at 2025-12-17 17:43 UTC
+SENT (0.0288s) TCP 192.168.1.70:24072 > 129.237.161.212:62 S ttl=64 id=13252 iplen=40  seq=1282507828 win=1480 
+RCVD (0.0494s) TCP 129.237.161.212:62 > 192.168.1.70:24072 SA ttl=52 id=0 iplen=44  seq=3131740120 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 20.556ms | Min rtt: 20.556ms | Avg rtt: 20.556ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:43:43
+://nmap.org/nping ) at 2025-12-17 17:43 UTC
+SENT (0.0265s) TCP 192.168.1.70:29208 > 129.237.161.212:62 S ttl=64 id=9425 iplen=40  seq=1633047528 win=1480 
+RCVD (0.0481s) TCP 129.237.161.212:62 > 192.168.1.70:29208 SA ttl=52 id=0 iplen=44  seq=608453862 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 21.455ms | Min rtt: 21.455ms | Avg rtt: 21.455ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:43:44
+://nmap.org/nping ) at 2025-12-17 17:43 UTC
+SENT (0.0357s) TCP 192.168.1.70:57113 > 129.237.161.212:62 S ttl=64 id=34379 iplen=40  seq=4021418987 win=1480 
+RCVD (0.0549s) TCP 129.237.161.212:62 > 192.168.1.70:57113 SA ttl=52 id=0 iplen=44  seq=2684006634 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 19.209ms | Min rtt: 19.209ms | Avg rtt: 19.209ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:43:44
+://nmap.org/nping ) at 2025-12-17 17:43 UTC
+SENT (0.0218s) TCP 192.168.1.70:58679 > 129.237.161.212:62 S ttl=64 id=51268 iplen=40  seq=2259720958 win=1480 
+RCVD (0.0452s) TCP 129.237.161.212:62 > 192.168.1.70:58679 SA ttl=52 id=0 iplen=44  seq=2771682082 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 23.356ms | Min rtt: 23.356ms | Avg rtt: 23.356ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:43:45
+://nmap.org/nping ) at 2025-12-17 17:43 UTC
+SENT (0.0247s) TCP 192.168.1.70:23367 > 129.237.161.212:62 S ttl=64 id=52678 iplen=40  seq=1477486140 win=1480 
+RCVD (0.0442s) TCP 129.237.161.212:62 > 192.168.1.70:23367 SA ttl=52 id=0 iplen=44  seq=2164527274 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 19.379ms | Min rtt: 19.379ms | Avg rtt: 19.379ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:43:45
+://nmap.org/nping ) at 2025-12-17 17:43 UTC
+SENT (0.0301s) TCP 192.168.1.70:13293 > 129.237.161.212:62 S ttl=64 id=3409 iplen=40  seq=2879441778 win=1480 
+RCVD (0.0470s) TCP 129.237.161.212:62 > 192.168.1.70:13293 SA ttl=52 id=0 iplen=44  seq=3863084102 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 16.892ms | Min rtt: 16.892ms | Avg rtt: 16.892ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:43:46
+://nmap.org/nping ) at 2025-12-17 17:43 UTC
+SENT (0.0337s) TCP 192.168.1.70:37922 > 129.237.161.212:62 S ttl=64 id=52348 iplen=40  seq=3626155927 win=1480 
+RCVD (0.0505s) TCP 129.237.161.212:62 > 192.168.1.70:37922 SA ttl=52 id=0 iplen=44  seq=2191893469 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 16.729ms | Min rtt: 16.729ms | Avg rtt: 16.729ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:43:47
+://nmap.org/nping ) at 2025-12-17 17:43 UTC
+SENT (0.0375s) TCP 192.168.1.70:3420 > 129.237.161.212:62 S ttl=64 id=43475 iplen=40  seq=2689712292 win=1480 
+RCVD (0.0590s) TCP 129.237.161.212:62 > 192.168.1.70:3420 SA ttl=52 id=0 iplen=44  seq=1373064659 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 21.466ms | Min rtt: 21.466ms | Avg rtt: 21.466ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:43:47
+://nmap.org/nping ) at 2025-12-17 17:43 UTC
+SENT (0.0379s) TCP 192.168.1.70:60590 > 129.237.161.212:62 S ttl=64 id=12206 iplen=40  seq=3137504953 win=1480 
+RCVD (0.0604s) TCP 129.237.161.212:62 > 192.168.1.70:60590 SA ttl=52 id=0 iplen=44  seq=792504130 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 22.496ms | Min rtt: 22.496ms | Avg rtt: 22.496ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:43:48
+://nmap.org/nping ) at 2025-12-17 17:43 UTC
+SENT (0.0303s) TCP 192.168.1.70:41392 > 129.237.161.212:62 S ttl=64 id=56701 iplen=40  seq=692743943 win=1480 
+RCVD (0.0537s) TCP 129.237.161.212:62 > 192.168.1.70:41392 SA ttl=52 id=0 iplen=44  seq=3519898193 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 23.376ms | Min rtt: 23.376ms | Avg rtt: 23.376ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:43:48
+://nmap.org/nping ) at 2025-12-17 17:43 UTC
+SENT (0.0286s) TCP 192.168.1.70:63488 > 129.237.161.212:62 S ttl=64 id=21651 iplen=40  seq=3779752119 win=1480 
+RCVD (0.0538s) TCP 129.237.161.212:62 > 192.168.1.70:63488 SA ttl=52 id=0 iplen=44  seq=3094368443 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 25.165ms | Min rtt: 25.165ms | Avg rtt: 25.165ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:43:49
+://nmap.org/nping ) at 2025-12-17 17:43 UTC
+SENT (0.0244s) TCP 192.168.1.70:49731 > 129.237.161.212:62 S ttl=64 id=36215 iplen=40  seq=2033676816 win=1480 
+RCVD (0.0461s) TCP 129.237.161.212:62 > 192.168.1.70:49731 SA ttl=52 id=0 iplen=44  seq=293196807 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 21.654ms | Min rtt: 21.654ms | Avg rtt: 21.654ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:43:49
+://nmap.org/nping ) at 2025-12-17 17:43 UTC
+SENT (0.0189s) TCP 192.168.1.70:59520 > 129.237.161.212:62 S ttl=64 id=60909 iplen=40  seq=181220213 win=1480 
+RCVD (0.0412s) TCP 129.237.161.212:62 > 192.168.1.70:59520 SA ttl=52 id=0 iplen=44  seq=3263211753 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 22.267ms | Min rtt: 22.267ms | Avg rtt: 22.267ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.06 seconds
+
+
+Date and Time: 2025/Dec/17 17:43:50
+://nmap.org/nping ) at 2025-12-17 17:43 UTC
+SENT (0.0288s) TCP 192.168.1.70:55033 > 129.237.161.212:62 S ttl=64 id=52878 iplen=40  seq=3371440331 win=1480 
+RCVD (0.0554s) TCP 129.237.161.212:62 > 192.168.1.70:55033 SA ttl=52 id=0 iplen=44  seq=4158065410 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 26.512ms | Min rtt: 26.512ms | Avg rtt: 26.512ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:43:50
+://nmap.org/nping ) at 2025-12-17 17:43 UTC
+SENT (0.0233s) TCP 192.168.1.70:5836 > 129.237.161.212:62 S ttl=64 id=47778 iplen=40  seq=1714476304 win=1480 
+RCVD (0.0437s) TCP 129.237.161.212:62 > 192.168.1.70:5836 SA ttl=52 id=0 iplen=44  seq=2347557467 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 20.310ms | Min rtt: 20.310ms | Avg rtt: 20.310ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.10 seconds
+
+
+Date and Time: 2025/Dec/17 17:43:51
+://nmap.org/nping ) at 2025-12-17 17:43 UTC
+SENT (0.0311s) TCP 192.168.1.70:11475 > 129.237.161.212:62 S ttl=64 id=39111 iplen=40  seq=2513168690 win=1480 
+RCVD (0.0533s) TCP 129.237.161.212:62 > 192.168.1.70:11475 SA ttl=52 id=0 iplen=44  seq=2250824439 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 22.111ms | Min rtt: 22.111ms | Avg rtt: 22.111ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:43:51
+://nmap.org/nping ) at 2025-12-17 17:43 UTC
+SENT (0.0303s) TCP 192.168.1.70:45873 > 129.237.161.212:62 S ttl=64 id=65298 iplen=40  seq=4127753294 win=1480 
+RCVD (0.0555s) TCP 129.237.161.212:62 > 192.168.1.70:45873 SA ttl=52 id=0 iplen=44  seq=2857400463 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 25.174ms | Min rtt: 25.174ms | Avg rtt: 25.174ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:43:52
+://nmap.org/nping ) at 2025-12-17 17:43 UTC
+SENT (0.0229s) TCP 192.168.1.70:6685 > 129.237.161.212:62 S ttl=64 id=284 iplen=40  seq=2991755915 win=1480 
+RCVD (0.0419s) TCP 129.237.161.212:62 > 192.168.1.70:6685 SA ttl=52 id=0 iplen=44  seq=59949911 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 19.016ms | Min rtt: 19.016ms | Avg rtt: 19.016ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:43:53
+://nmap.org/nping ) at 2025-12-17 17:43 UTC
+SENT (0.0449s) TCP 192.168.1.70:35336 > 129.237.161.212:62 S ttl=64 id=49557 iplen=40  seq=835502999 win=1480 
+RCVD (0.0746s) TCP 129.237.161.212:62 > 192.168.1.70:35336 SA ttl=52 id=0 iplen=44  seq=182993066 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 29.725ms | Min rtt: 29.725ms | Avg rtt: 29.725ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.12 seconds
+
+
+Date and Time: 2025/Dec/17 17:43:53
+://nmap.org/nping ) at 2025-12-17 17:43 UTC
+SENT (0.0236s) TCP 192.168.1.70:42729 > 129.237.161.212:62 S ttl=64 id=1302 iplen=40  seq=2852747107 win=1480 
+RCVD (0.0458s) TCP 129.237.161.212:62 > 192.168.1.70:42729 SA ttl=52 id=0 iplen=44  seq=903528008 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 22.135ms | Min rtt: 22.135ms | Avg rtt: 22.135ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:43:54
+://nmap.org/nping ) at 2025-12-17 17:43 UTC
+SENT (0.0275s) TCP 192.168.1.70:61475 > 129.237.161.212:62 S ttl=64 id=17922 iplen=40  seq=289601402 win=1480 
+RCVD (0.0490s) TCP 129.237.161.212:62 > 192.168.1.70:61475 SA ttl=52 id=0 iplen=44  seq=4034569200 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 21.406ms | Min rtt: 21.406ms | Avg rtt: 21.406ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:43:54
+://nmap.org/nping ) at 2025-12-17 17:43 UTC
+SENT (0.0646s) TCP 192.168.1.70:56233 > 129.237.161.212:62 S ttl=64 id=21325 iplen=40  seq=1084039253 win=1480 
+RCVD (0.0937s) TCP 129.237.161.212:62 > 192.168.1.70:56233 SA ttl=52 id=0 iplen=44  seq=3848815021 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 26.209ms | Min rtt: 26.209ms | Avg rtt: 26.209ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.13 seconds
+
+
+Date and Time: 2025/Dec/17 17:43:55
+://nmap.org/nping ) at 2025-12-17 17:43 UTC
+SENT (0.0166s) TCP 192.168.1.70:13585 > 129.237.161.212:62 S ttl=64 id=45261 iplen=40  seq=3148588692 win=1480 
+RCVD (0.0372s) TCP 129.237.161.212:62 > 192.168.1.70:13585 SA ttl=52 id=0 iplen=44  seq=2064480596 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 20.487ms | Min rtt: 20.487ms | Avg rtt: 20.487ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:43:55
+://nmap.org/nping ) at 2025-12-17 17:43 UTC
+SENT (0.0363s) TCP 192.168.1.70:52880 > 129.237.161.212:62 S ttl=64 id=39405 iplen=40  seq=2928946968 win=1480 
+RCVD (0.0545s) TCP 129.237.161.212:62 > 192.168.1.70:52880 SA ttl=52 id=0 iplen=44  seq=2891522565 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 18.247ms | Min rtt: 18.247ms | Avg rtt: 18.247ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:43:56
+://nmap.org/nping ) at 2025-12-17 17:43 UTC
+SENT (0.0438s) TCP 192.168.1.70:1991 > 129.237.161.212:62 S ttl=64 id=16146 iplen=40  seq=2912630831 win=1480 
+RCVD (0.0666s) TCP 129.237.161.212:62 > 192.168.1.70:1991 SA ttl=52 id=0 iplen=44  seq=2886710683 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 22.757ms | Min rtt: 22.757ms | Avg rtt: 22.757ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.11 seconds
+
+
+Date and Time: 2025/Dec/17 17:43:57
+://nmap.org/nping ) at 2025-12-17 17:43 UTC
+SENT (0.0265s) TCP 192.168.1.70:11721 > 129.237.161.212:62 S ttl=64 id=5022 iplen=40  seq=805788216 win=1480 
+RCVD (0.0495s) TCP 129.237.161.212:62 > 192.168.1.70:11721 SA ttl=52 id=0 iplen=44  seq=2543846034 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 22.968ms | Min rtt: 22.968ms | Avg rtt: 22.968ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:43:57
+://nmap.org/nping ) at 2025-12-17 17:43 UTC
+SENT (0.0296s) TCP 192.168.1.70:3581 > 129.237.161.212:62 S ttl=64 id=13848 iplen=40  seq=2318702703 win=1480 
+RCVD (0.0527s) TCP 129.237.161.212:62 > 192.168.1.70:3581 SA ttl=52 id=0 iplen=44  seq=2222434921 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 23.094ms | Min rtt: 23.094ms | Avg rtt: 23.094ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:43:58
+://nmap.org/nping ) at 2025-12-17 17:43 UTC
+SENT (0.0228s) TCP 192.168.1.70:27381 > 129.237.161.212:62 S ttl=64 id=712 iplen=40  seq=2367322158 win=1480 
+RCVD (0.0487s) TCP 129.237.161.212:62 > 192.168.1.70:27381 SA ttl=52 id=0 iplen=44  seq=1194143674 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 25.911ms | Min rtt: 25.911ms | Avg rtt: 25.911ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.06 seconds
+
+
+Date and Time: 2025/Dec/17 17:43:58
+://nmap.org/nping ) at 2025-12-17 17:43 UTC
+SENT (0.0216s) TCP 192.168.1.70:51222 > 129.237.161.212:62 S ttl=64 id=8765 iplen=40  seq=793503682 win=1480 
+RCVD (0.0500s) TCP 129.237.161.212:62 > 192.168.1.70:51222 SA ttl=52 id=0 iplen=44  seq=1333926050 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 28.033ms | Min rtt: 28.033ms | Avg rtt: 28.033ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:43:59
+://nmap.org/nping ) at 2025-12-17 17:43 UTC
+SENT (0.0324s) TCP 192.168.1.70:21419 > 129.237.161.212:62 S ttl=64 id=59928 iplen=40  seq=3350827294 win=1480 
+RCVD (0.0567s) TCP 129.237.161.212:62 > 192.168.1.70:21419 SA ttl=52 id=0 iplen=44  seq=1662965729 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 24.276ms | Min rtt: 24.276ms | Avg rtt: 24.276ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:43:59
+://nmap.org/nping ) at 2025-12-17 17:43 UTC
+SENT (0.0271s) TCP 192.168.1.70:26525 > 129.237.161.212:62 S ttl=64 id=15559 iplen=40  seq=3412751136 win=1480 
+RCVD (0.0449s) TCP 129.237.161.212:62 > 192.168.1.70:26525 SA ttl=52 id=0 iplen=44  seq=3162323119 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 17.766ms | Min rtt: 17.766ms | Avg rtt: 17.766ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.11 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:00
+://nmap.org/nping ) at 2025-12-17 17:43 UTC
+SENT (0.0264s) TCP 192.168.1.70:8087 > 129.237.161.212:62 S ttl=64 id=22835 iplen=40  seq=3383378933 win=1480 
+RCVD (0.0491s) TCP 129.237.161.212:62 > 192.168.1.70:8087 SA ttl=52 id=0 iplen=44  seq=560320203 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 22.609ms | Min rtt: 22.609ms | Avg rtt: 22.609ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:00
+://nmap.org/nping ) at 2025-12-17 17:43 UTC
+SENT (0.0219s) TCP 192.168.1.70:50445 > 129.237.161.212:62 S ttl=64 id=8051 iplen=40  seq=4055531823 win=1480 
+RCVD (0.0517s) TCP 129.237.161.212:62 > 192.168.1.70:50445 SA ttl=52 id=0 iplen=44  seq=3299501710 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 29.807ms | Min rtt: 29.807ms | Avg rtt: 29.807ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:01
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0388s) TCP 192.168.1.70:41421 > 129.237.161.212:62 S ttl=64 id=2224 iplen=40  seq=4055753055 win=1480 
+RCVD (0.0616s) TCP 129.237.161.212:62 > 192.168.1.70:41421 SA ttl=52 id=0 iplen=44  seq=3885702488 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 22.768ms | Min rtt: 22.768ms | Avg rtt: 22.768ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:01
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0352s) TCP 192.168.1.70:21509 > 129.237.161.212:62 S ttl=64 id=45034 iplen=40  seq=3172097892 win=1480 
+RCVD (0.0568s) TCP 129.237.161.212:62 > 192.168.1.70:21509 SA ttl=52 id=0 iplen=44  seq=3687598207 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 21.599ms | Min rtt: 21.599ms | Avg rtt: 21.599ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.10 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:02
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0259s) TCP 192.168.1.70:42524 > 129.237.161.212:62 S ttl=64 id=33675 iplen=40  seq=4231750953 win=1480 
+RCVD (0.0482s) TCP 129.237.161.212:62 > 192.168.1.70:42524 SA ttl=52 id=0 iplen=44  seq=36211024 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 22.356ms | Min rtt: 22.356ms | Avg rtt: 22.356ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:02
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0233s) TCP 192.168.1.70:14432 > 129.237.161.212:62 S ttl=64 id=31843 iplen=40  seq=4090425255 win=1480 
+RCVD (0.0421s) TCP 129.237.161.212:62 > 192.168.1.70:14432 SA ttl=52 id=0 iplen=44  seq=2969731351 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 18.765ms | Min rtt: 18.765ms | Avg rtt: 18.765ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:03
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0290s) TCP 192.168.1.70:52581 > 129.237.161.212:62 S ttl=64 id=48904 iplen=40  seq=2518939260 win=1480 
+RCVD (0.0528s) TCP 129.237.161.212:62 > 192.168.1.70:52581 SA ttl=52 id=0 iplen=44  seq=428901254 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 23.772ms | Min rtt: 23.772ms | Avg rtt: 23.772ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:04
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0303s) TCP 192.168.1.70:16388 > 129.237.161.212:62 S ttl=64 id=40809 iplen=40  seq=1518560713 win=1480 
+RCVD (0.0526s) TCP 129.237.161.212:62 > 192.168.1.70:16388 SA ttl=52 id=0 iplen=44  seq=2989597550 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 22.344ms | Min rtt: 22.344ms | Avg rtt: 22.344ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:04
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0223s) TCP 192.168.1.70:63087 > 129.237.161.212:62 S ttl=64 id=2628 iplen=40  seq=2175736097 win=1480 
+RCVD (0.0441s) TCP 129.237.161.212:62 > 192.168.1.70:63087 SA ttl=52 id=0 iplen=44  seq=3299724135 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 21.705ms | Min rtt: 21.705ms | Avg rtt: 21.705ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.06 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:05
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0347s) TCP 192.168.1.70:8975 > 129.237.161.212:62 S ttl=64 id=21608 iplen=40  seq=2470242709 win=1480 
+RCVD (0.0567s) TCP 129.237.161.212:62 > 192.168.1.70:8975 SA ttl=52 id=0 iplen=44  seq=302286026 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 21.999ms | Min rtt: 21.999ms | Avg rtt: 21.999ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:05
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0387s) TCP 192.168.1.70:12707 > 129.237.161.212:62 S ttl=64 id=37557 iplen=40  seq=93945552 win=1480 
+RCVD (0.0696s) TCP 129.237.161.212:62 > 192.168.1.70:12707 SA ttl=52 id=0 iplen=44  seq=922468229 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 30.768ms | Min rtt: 30.768ms | Avg rtt: 30.768ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:06
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0211s) TCP 192.168.1.70:9773 > 129.237.161.212:62 S ttl=64 id=58097 iplen=40  seq=4188999781 win=1480 
+RCVD (0.0477s) TCP 129.237.161.212:62 > 192.168.1.70:9773 SA ttl=52 id=0 iplen=44  seq=1942592960 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 26.554ms | Min rtt: 26.554ms | Avg rtt: 26.554ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:06
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0500s) TCP 192.168.1.70:38154 > 129.237.161.212:62 S ttl=64 id=21361 iplen=40  seq=250871142 win=1480 
+RCVD (0.0765s) TCP 129.237.161.212:62 > 192.168.1.70:38154 SA ttl=52 id=0 iplen=44  seq=773485817 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 26.180ms | Min rtt: 26.180ms | Avg rtt: 26.180ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.10 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:07
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0232s) TCP 192.168.1.70:30503 > 129.237.161.212:62 S ttl=64 id=50797 iplen=40  seq=2526986360 win=1480 
+RCVD (0.0501s) TCP 129.237.161.212:62 > 192.168.1.70:30503 SA ttl=52 id=0 iplen=44  seq=1502981071 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 26.814ms | Min rtt: 26.814ms | Avg rtt: 26.814ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:07
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0281s) TCP 192.168.1.70:57344 > 129.237.161.212:62 S ttl=64 id=42433 iplen=40  seq=1242158264 win=1480 
+RCVD (0.0506s) TCP 129.237.161.212:62 > 192.168.1.70:57344 SA ttl=52 id=0 iplen=44  seq=238087361 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 22.474ms | Min rtt: 22.474ms | Avg rtt: 22.474ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.11 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:08
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0235s) TCP 192.168.1.70:59784 > 129.237.161.212:62 S ttl=64 id=28197 iplen=40  seq=4214122678 win=1480 
+RCVD (0.0451s) TCP 129.237.161.212:62 > 192.168.1.70:59784 SA ttl=52 id=0 iplen=44  seq=566801646 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 21.556ms | Min rtt: 21.556ms | Avg rtt: 21.556ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:09
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0322s) TCP 192.168.1.70:15313 > 129.237.161.212:62 S ttl=64 id=20208 iplen=40  seq=3512875189 win=1480 
+RCVD (0.0566s) TCP 129.237.161.212:62 > 192.168.1.70:15313 SA ttl=52 id=0 iplen=44  seq=927818592 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 24.329ms | Min rtt: 24.329ms | Avg rtt: 24.329ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:09
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0345s) TCP 192.168.1.70:42637 > 129.237.161.212:62 S ttl=64 id=22797 iplen=40  seq=2123501858 win=1480 
+RCVD (0.0611s) TCP 129.237.161.212:62 > 192.168.1.70:42637 SA ttl=52 id=0 iplen=44  seq=2504558028 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 26.518ms | Min rtt: 26.518ms | Avg rtt: 26.518ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.10 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:10
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0262s) TCP 192.168.1.70:16518 > 129.237.161.212:62 S ttl=64 id=52511 iplen=40  seq=910120709 win=1480 
+RCVD (0.0499s) TCP 129.237.161.212:62 > 192.168.1.70:16518 SA ttl=52 id=0 iplen=44  seq=1490917457 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 23.684ms | Min rtt: 23.684ms | Avg rtt: 23.684ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.06 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:10
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0341s) TCP 192.168.1.70:38349 > 129.237.161.212:62 S ttl=64 id=29943 iplen=40  seq=2354019665 win=1480 
+RCVD (0.0570s) TCP 129.237.161.212:62 > 192.168.1.70:38349 SA ttl=52 id=0 iplen=44  seq=94472923 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 22.815ms | Min rtt: 22.815ms | Avg rtt: 22.815ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.10 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:11
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0318s) TCP 192.168.1.70:4655 > 129.237.161.212:62 S ttl=64 id=2756 iplen=40  seq=847177039 win=1480 
+RCVD (0.0548s) TCP 129.237.161.212:62 > 192.168.1.70:4655 SA ttl=52 id=0 iplen=44  seq=2253624270 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 22.980ms | Min rtt: 22.980ms | Avg rtt: 22.980ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:11
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0299s) TCP 192.168.1.70:52702 > 129.237.161.212:62 S ttl=64 id=16383 iplen=40  seq=3931205401 win=1480 
+RCVD (0.0553s) TCP 129.237.161.212:62 > 192.168.1.70:52702 SA ttl=52 id=0 iplen=44  seq=483972229 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 25.389ms | Min rtt: 25.389ms | Avg rtt: 25.389ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:12
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0353s) TCP 192.168.1.70:43065 > 129.237.161.212:62 S ttl=64 id=37551 iplen=40  seq=4065899146 win=1480 
+RCVD (0.0624s) TCP 129.237.161.212:62 > 192.168.1.70:43065 SA ttl=52 id=0 iplen=44  seq=3897798239 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 27.093ms | Min rtt: 27.093ms | Avg rtt: 27.093ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:12
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0259s) TCP 192.168.1.70:5852 > 129.237.161.212:62 S ttl=64 id=32688 iplen=40  seq=2394555913 win=1480 
+RCVD (0.0491s) TCP 129.237.161.212:62 > 192.168.1.70:5852 SA ttl=52 id=0 iplen=44  seq=484693070 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 23.216ms | Min rtt: 23.216ms | Avg rtt: 23.216ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.06 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:13
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0353s) TCP 192.168.1.70:48910 > 129.237.161.212:62 S ttl=64 id=43900 iplen=40  seq=68798378 win=1480 
+RCVD (0.0584s) TCP 129.237.161.212:62 > 192.168.1.70:48910 SA ttl=52 id=0 iplen=44  seq=3643618562 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 23.024ms | Min rtt: 23.024ms | Avg rtt: 23.024ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:13
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0396s) TCP 192.168.1.70:46266 > 129.237.161.212:62 S ttl=64 id=50428 iplen=40  seq=3162707803 win=1480 
+RCVD (0.0627s) TCP 129.237.161.212:62 > 192.168.1.70:46266 SA ttl=52 id=0 iplen=44  seq=2965007655 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 22.975ms | Min rtt: 22.975ms | Avg rtt: 22.975ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.12 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:14
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0352s) TCP 192.168.1.70:28519 > 129.237.161.212:62 S ttl=64 id=36652 iplen=40  seq=3459916504 win=1480 
+RCVD (0.0555s) TCP 129.237.161.212:62 > 192.168.1.70:28519 SA ttl=52 id=0 iplen=44  seq=534119589 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 20.324ms | Min rtt: 20.324ms | Avg rtt: 20.324ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.10 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:15
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0326s) TCP 192.168.1.70:52413 > 129.237.161.212:62 S ttl=64 id=61931 iplen=40  seq=2511638047 win=1480 
+RCVD (0.0570s) TCP 129.237.161.212:62 > 192.168.1.70:52413 SA ttl=52 id=0 iplen=44  seq=3772804219 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 24.439ms | Min rtt: 24.439ms | Avg rtt: 24.439ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:15
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0272s) TCP 192.168.1.70:56498 > 129.237.161.212:62 S ttl=64 id=51143 iplen=40  seq=1180336970 win=1480 
+RCVD (0.0459s) TCP 129.237.161.212:62 > 192.168.1.70:56498 SA ttl=52 id=0 iplen=44  seq=2805598952 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 18.771ms | Min rtt: 18.771ms | Avg rtt: 18.771ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:16
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0369s) TCP 192.168.1.70:52679 > 129.237.161.212:62 S ttl=64 id=39982 iplen=40  seq=59195492 win=1480 
+RCVD (0.0641s) TCP 129.237.161.212:62 > 192.168.1.70:52679 SA ttl=52 id=0 iplen=44  seq=1323761373 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 27.197ms | Min rtt: 27.197ms | Avg rtt: 27.197ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.10 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:16
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0320s) TCP 192.168.1.70:30724 > 129.237.161.212:62 S ttl=64 id=8274 iplen=40  seq=2371760947 win=1480 
+RCVD (0.0587s) TCP 129.237.161.212:62 > 192.168.1.70:30724 SA ttl=52 id=0 iplen=44  seq=460276349 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 26.659ms | Min rtt: 26.659ms | Avg rtt: 26.659ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:17
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0274s) TCP 192.168.1.70:65452 > 129.237.161.212:62 S ttl=64 id=48274 iplen=40  seq=212392852 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:17
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0327s) TCP 192.168.1.70:13016 > 129.237.161.212:62 S ttl=64 id=58871 iplen=40  seq=2878039213 win=1480 
+RCVD (0.0568s) TCP 129.237.161.212:62 > 192.168.1.70:13016 SA ttl=52 id=0 iplen=44  seq=587246703 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 24.110ms | Min rtt: 24.110ms | Avg rtt: 24.110ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.10 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:18
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0352s) TCP 192.168.1.70:3798 > 129.237.161.212:62 S ttl=64 id=1402 iplen=40  seq=1131407289 win=1480 
+RCVD (0.0584s) TCP 129.237.161.212:62 > 192.168.1.70:3798 SA ttl=52 id=0 iplen=44  seq=685451350 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 23.184ms | Min rtt: 23.184ms | Avg rtt: 23.184ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:18
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0211s) TCP 192.168.1.70:15527 > 129.237.161.212:62 S ttl=64 id=52862 iplen=40  seq=2452402732 win=1480 
+RCVD (0.0492s) TCP 129.237.161.212:62 > 192.168.1.70:15527 SA ttl=52 id=0 iplen=44  seq=669232610 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 28.026ms | Min rtt: 28.026ms | Avg rtt: 28.026ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:19
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0241s) TCP 192.168.1.70:36416 > 129.237.161.212:62 S ttl=64 id=51410 iplen=40  seq=2724157268 win=1480 
+RCVD (0.0514s) TCP 129.237.161.212:62 > 192.168.1.70:36416 SA ttl=52 id=0 iplen=44  seq=3797815635 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 27.230ms | Min rtt: 27.230ms | Avg rtt: 27.230ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:20
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0295s) TCP 192.168.1.70:53143 > 129.237.161.212:62 S ttl=64 id=17059 iplen=40  seq=48626862 win=1480 
+RCVD (0.0500s) TCP 129.237.161.212:62 > 192.168.1.70:53143 SA ttl=52 id=0 iplen=44  seq=3353065692 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 20.437ms | Min rtt: 20.437ms | Avg rtt: 20.437ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.12 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:20
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0263s) TCP 192.168.1.70:47939 > 129.237.161.212:62 S ttl=64 id=7303 iplen=40  seq=1427177682 win=1480 
+RCVD (0.0479s) TCP 129.237.161.212:62 > 192.168.1.70:47939 SA ttl=52 id=0 iplen=44  seq=1140929782 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 21.514ms | Min rtt: 21.514ms | Avg rtt: 21.514ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:21
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0254s) TCP 192.168.1.70:40546 > 129.237.161.212:62 S ttl=64 id=19885 iplen=40  seq=734509913 win=1480 
+RCVD (0.0541s) TCP 129.237.161.212:62 > 192.168.1.70:40546 SA ttl=52 id=0 iplen=44  seq=3427064423 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 28.593ms | Min rtt: 28.593ms | Avg rtt: 28.593ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:21
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0258s) TCP 192.168.1.70:13248 > 129.237.161.212:62 S ttl=64 id=9444 iplen=40  seq=1396885639 win=1480 
+RCVD (0.0531s) TCP 129.237.161.212:62 > 192.168.1.70:13248 SA ttl=52 id=0 iplen=44  seq=244599178 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 27.325ms | Min rtt: 27.325ms | Avg rtt: 27.325ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:22
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0308s) TCP 192.168.1.70:37579 > 129.237.161.212:62 S ttl=64 id=46380 iplen=40  seq=3926460866 win=1480 
+RCVD (0.0669s) TCP 129.237.161.212:62 > 192.168.1.70:37579 SA ttl=52 id=0 iplen=44  seq=506064858 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 35.967ms | Min rtt: 35.967ms | Avg rtt: 35.967ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:22
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0222s) TCP 192.168.1.70:38520 > 129.237.161.212:62 S ttl=64 id=41689 iplen=40  seq=1588474993 win=1480 
+RCVD (0.0454s) TCP 129.237.161.212:62 > 192.168.1.70:38520 SA ttl=52 id=0 iplen=44  seq=2764002023 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 23.124ms | Min rtt: 23.124ms | Avg rtt: 23.124ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.06 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:23
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0298s) TCP 192.168.1.70:4879 > 129.237.161.212:62 S ttl=64 id=1766 iplen=40  seq=1051713731 win=1480 
+comms
+nping_event_handler(): READ-PCAP killed: Resource temporarily unavailable
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.06 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:23
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0309s) TCP 192.168.1.70:2944 > 129.237.161.212:62 S ttl=64 id=8430 iplen=40  seq=3247797404 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.11 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:24
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0247s) TCP 192.168.1.70:4401 > 129.237.161.212:62 S ttl=64 id=57667 iplen=40  seq=923427361 win=1480 
+RCVD (0.0906s) TCP 129.237.161.212:62 > 192.168.1.70:4401 SA ttl=52 id=0 iplen=44  seq=507253790 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 65.871ms | Min rtt: 65.871ms | Avg rtt: 65.871ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:24
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0348s) TCP 192.168.1.70:63534 > 129.237.161.212:62 S ttl=64 id=40273 iplen=40  seq=493007102 win=1480 
+RCVD (0.0564s) TCP 129.237.161.212:62 > 192.168.1.70:63534 SA ttl=52 id=0 iplen=44  seq=3954845745 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 21.506ms | Min rtt: 21.506ms | Avg rtt: 21.506ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:25
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0264s) TCP 192.168.1.70:50993 > 129.237.161.212:62 S ttl=64 id=63857 iplen=40  seq=2030076158 win=1480 
+RCVD (0.0482s) TCP 129.237.161.212:62 > 192.168.1.70:50993 SA ttl=52 id=0 iplen=44  seq=547114540 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 21.723ms | Min rtt: 21.723ms | Avg rtt: 21.723ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:25
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0310s) TCP 192.168.1.70:43719 > 129.237.161.212:62 S ttl=64 id=64527 iplen=40  seq=3071111080 win=1480 
+RCVD (0.0487s) TCP 129.237.161.212:62 > 192.168.1.70:43719 SA ttl=52 id=0 iplen=44  seq=2116818406 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 17.666ms | Min rtt: 17.666ms | Avg rtt: 17.666ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:26
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0242s) TCP 192.168.1.70:13534 > 129.237.161.212:62 S ttl=64 id=8795 iplen=40  seq=299990217 win=1480 
+RCVD (0.0463s) TCP 129.237.161.212:62 > 192.168.1.70:13534 SA ttl=52 id=0 iplen=44  seq=3735784760 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 21.994ms | Min rtt: 21.994ms | Avg rtt: 21.994ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:27
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0292s) TCP 192.168.1.70:40907 > 129.237.161.212:62 S ttl=64 id=30844 iplen=40  seq=3873898595 win=1480 
+RCVD (0.0512s) TCP 129.237.161.212:62 > 192.168.1.70:40907 SA ttl=52 id=0 iplen=44  seq=2369729584 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 21.946ms | Min rtt: 21.946ms | Avg rtt: 21.946ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:27
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0353s) TCP 192.168.1.70:29684 > 129.237.161.212:62 S ttl=64 id=12195 iplen=40  seq=3476246964 win=1480 
+RCVD (0.0599s) TCP 129.237.161.212:62 > 192.168.1.70:29684 SA ttl=52 id=0 iplen=44  seq=1862528424 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 24.476ms | Min rtt: 24.476ms | Avg rtt: 24.476ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.10 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:28
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0406s) TCP 192.168.1.70:14255 > 129.237.161.212:62 S ttl=64 id=6208 iplen=40  seq=1025512186 win=1480 
+comms
+nping_event_handler(): READ-PCAP killed: Resource temporarily unavailable
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:28
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0356s) TCP 192.168.1.70:18621 > 129.237.161.212:62 S ttl=64 id=40542 iplen=40  seq=1767579258 win=1480 
+RCVD (0.0554s) TCP 129.237.161.212:62 > 192.168.1.70:18621 SA ttl=52 id=0 iplen=44  seq=2646396964 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 19.696ms | Min rtt: 19.696ms | Avg rtt: 19.696ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.12 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:29
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0269s) TCP 192.168.1.70:63348 > 129.237.161.212:62 S ttl=64 id=54771 iplen=40  seq=1297132057 win=1480 
+RCVD (0.0548s) TCP 129.237.161.212:62 > 192.168.1.70:63348 SA ttl=52 id=0 iplen=44  seq=1852074799 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 27.772ms | Min rtt: 27.772ms | Avg rtt: 27.772ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:29
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0277s) TCP 192.168.1.70:3579 > 129.237.161.212:62 S ttl=64 id=25386 iplen=40  seq=1384702283 win=1480 
+RCVD (0.0492s) TCP 129.237.161.212:62 > 192.168.1.70:3579 SA ttl=52 id=0 iplen=44  seq=4029041381 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 21.490ms | Min rtt: 21.490ms | Avg rtt: 21.490ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:30
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0317s) TCP 192.168.1.70:6236 > 129.237.161.212:62 S ttl=64 id=32556 iplen=40  seq=2529189451 win=1480 
+RCVD (0.0508s) TCP 129.237.161.212:62 > 192.168.1.70:6236 SA ttl=52 id=0 iplen=44  seq=3108931232 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 19.017ms | Min rtt: 19.017ms | Avg rtt: 19.017ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:31
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0248s) TCP 192.168.1.70:18737 > 129.237.161.212:62 S ttl=64 id=20107 iplen=40  seq=2863629398 win=1480 
+RCVD (0.0426s) TCP 129.237.161.212:62 > 192.168.1.70:18737 SA ttl=52 id=0 iplen=44  seq=2515548889 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 17.769ms | Min rtt: 17.769ms | Avg rtt: 17.769ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:31
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0260s) TCP 192.168.1.70:65088 > 129.237.161.212:62 S ttl=64 id=42101 iplen=40  seq=3418501757 win=1480 
+RCVD (0.0544s) TCP 129.237.161.212:62 > 192.168.1.70:65088 SA ttl=52 id=0 iplen=44  seq=3927177044 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 28.294ms | Min rtt: 28.294ms | Avg rtt: 28.294ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:32
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0246s) TCP 192.168.1.70:35185 > 129.237.161.212:62 S ttl=64 id=65240 iplen=40  seq=3956746433 win=1480 
+RCVD (0.0421s) TCP 129.237.161.212:62 > 192.168.1.70:35185 SA ttl=52 id=0 iplen=44  seq=970324851 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 17.554ms | Min rtt: 17.554ms | Avg rtt: 17.554ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.10 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:32
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0426s) TCP 192.168.1.70:27859 > 129.237.161.212:62 S ttl=64 id=1665 iplen=40  seq=1598276803 win=1480 
+RCVD (0.0642s) TCP 129.237.161.212:62 > 192.168.1.70:27859 SA ttl=52 id=0 iplen=44  seq=800387048 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 21.637ms | Min rtt: 21.637ms | Avg rtt: 21.637ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:33
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0269s) TCP 192.168.1.70:14254 > 129.237.161.212:62 S ttl=64 id=26730 iplen=40  seq=3945140135 win=1480 
+RCVD (0.0505s) TCP 129.237.161.212:62 > 192.168.1.70:14254 SA ttl=52 id=0 iplen=44  seq=4256573561 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 23.535ms | Min rtt: 23.535ms | Avg rtt: 23.535ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:33
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0352s) TCP 192.168.1.70:46907 > 129.237.161.212:62 S ttl=64 id=60919 iplen=40  seq=2037967884 win=1480 
+RCVD (0.0515s) TCP 129.237.161.212:62 > 192.168.1.70:46907 SA ttl=52 id=0 iplen=44  seq=226450036 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 16.264ms | Min rtt: 16.264ms | Avg rtt: 16.264ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:34
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0316s) TCP 192.168.1.70:57084 > 129.237.161.212:62 S ttl=64 id=3512 iplen=40  seq=810887065 win=1480 
+RCVD (0.0483s) TCP 129.237.161.212:62 > 192.168.1.70:57084 SA ttl=52 id=0 iplen=44  seq=2240920778 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 16.643ms | Min rtt: 16.643ms | Avg rtt: 16.643ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:34
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0308s) TCP 192.168.1.70:1293 > 129.237.161.212:62 S ttl=64 id=32497 iplen=40  seq=3206905104 win=1480 
+RCVD (0.0502s) TCP 129.237.161.212:62 > 192.168.1.70:1293 SA ttl=52 id=0 iplen=44  seq=3424642577 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 19.415ms | Min rtt: 19.415ms | Avg rtt: 19.415ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:35
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0244s) TCP 192.168.1.70:52935 > 129.237.161.212:62 S ttl=64 id=59405 iplen=40  seq=2397797377 win=1480 
+RCVD (0.0497s) TCP 129.237.161.212:62 > 192.168.1.70:52935 SA ttl=52 id=0 iplen=44  seq=77239026 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 25.228ms | Min rtt: 25.228ms | Avg rtt: 25.228ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:35
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0228s) TCP 192.168.1.70:28827 > 129.237.161.212:62 S ttl=64 id=49485 iplen=40  seq=3602016093 win=1480 
+RCVD (0.0475s) TCP 129.237.161.212:62 > 192.168.1.70:28827 SA ttl=52 id=0 iplen=44  seq=148511675 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 24.627ms | Min rtt: 24.627ms | Avg rtt: 24.627ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.06 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:36
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0238s) TCP 192.168.1.70:34850 > 129.237.161.212:62 S ttl=64 id=6291 iplen=40  seq=3988081283 win=1480 
+RCVD (0.0445s) TCP 129.237.161.212:62 > 192.168.1.70:34850 SA ttl=52 id=0 iplen=44  seq=2597345904 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 20.678ms | Min rtt: 20.678ms | Avg rtt: 20.678ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:36
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0308s) TCP 192.168.1.70:46638 > 129.237.161.212:62 S ttl=64 id=24344 iplen=40  seq=2270936755 win=1480 
+RCVD (0.0474s) TCP 129.237.161.212:62 > 192.168.1.70:46638 SA ttl=52 id=0 iplen=44  seq=1340683983 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 16.608ms | Min rtt: 16.608ms | Avg rtt: 16.608ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:37
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0281s) TCP 192.168.1.70:44938 > 129.237.161.212:62 S ttl=64 id=12652 iplen=40  seq=1648967949 win=1480 
+RCVD (0.0446s) TCP 129.237.161.212:62 > 192.168.1.70:44938 SA ttl=52 id=0 iplen=44  seq=1025108685 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 16.392ms | Min rtt: 16.392ms | Avg rtt: 16.392ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:37
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0259s) TCP 192.168.1.70:27607 > 129.237.161.212:62 S ttl=64 id=26815 iplen=40  seq=3031981565 win=1480 
+RCVD (0.0480s) TCP 129.237.161.212:62 > 192.168.1.70:27607 SA ttl=52 id=0 iplen=44  seq=3626037019 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 21.980ms | Min rtt: 21.980ms | Avg rtt: 21.980ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:38
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0275s) TCP 192.168.1.70:7282 > 129.237.161.212:62 S ttl=64 id=43813 iplen=40  seq=2499925823 win=1480 
+RCVD (0.0480s) TCP 129.237.161.212:62 > 192.168.1.70:7282 SA ttl=52 id=0 iplen=44  seq=2961974092 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 20.475ms | Min rtt: 20.475ms | Avg rtt: 20.475ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.10 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:39
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0341s) TCP 192.168.1.70:16883 > 129.237.161.212:62 S ttl=64 id=9200 iplen=40  seq=2746362194 win=1480 
+RCVD (0.0541s) TCP 129.237.161.212:62 > 192.168.1.70:16883 SA ttl=52 id=0 iplen=44  seq=227800245 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 19.994ms | Min rtt: 19.994ms | Avg rtt: 19.994ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:39
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0407s) TCP 192.168.1.70:33189 > 129.237.161.212:62 S ttl=64 id=12095 iplen=40  seq=444258732 win=1480 
+RCVD (0.0615s) TCP 129.237.161.212:62 > 192.168.1.70:33189 SA ttl=52 id=0 iplen=44  seq=2391843532 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 20.780ms | Min rtt: 20.780ms | Avg rtt: 20.780ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:40
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0349s) TCP 192.168.1.70:57372 > 129.237.161.212:62 S ttl=64 id=39930 iplen=40  seq=2148548722 win=1480 
+RCVD (0.0581s) TCP 129.237.161.212:62 > 192.168.1.70:57372 SA ttl=52 id=0 iplen=44  seq=800118464 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 23.133ms | Min rtt: 23.133ms | Avg rtt: 23.133ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:40
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0322s) TCP 192.168.1.70:39739 > 129.237.161.212:62 S ttl=64 id=31135 iplen=40  seq=3848952356 win=1480 
+RCVD (0.0519s) TCP 129.237.161.212:62 > 192.168.1.70:39739 SA ttl=52 id=0 iplen=44  seq=448146987 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 19.621ms | Min rtt: 19.621ms | Avg rtt: 19.621ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:41
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0262s) TCP 192.168.1.70:65228 > 129.237.161.212:62 S ttl=64 id=17004 iplen=40  seq=2769048570 win=1480 
+RCVD (0.0439s) TCP 129.237.161.212:62 > 192.168.1.70:65228 SA ttl=52 id=0 iplen=44  seq=2288416846 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 17.737ms | Min rtt: 17.737ms | Avg rtt: 17.737ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:41
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0296s) TCP 192.168.1.70:15844 > 129.237.161.212:62 S ttl=64 id=60222 iplen=40  seq=1445606299 win=1480 
+RCVD (0.0543s) TCP 129.237.161.212:62 > 192.168.1.70:15844 SA ttl=52 id=0 iplen=44  seq=1437787796 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 24.616ms | Min rtt: 24.616ms | Avg rtt: 24.616ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:42
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0311s) TCP 192.168.1.70:63759 > 129.237.161.212:62 S ttl=64 id=25022 iplen=40  seq=1575315940 win=1480 
+RCVD (0.0481s) TCP 129.237.161.212:62 > 192.168.1.70:63759 SA ttl=52 id=0 iplen=44  seq=4125813908 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 16.992ms | Min rtt: 16.992ms | Avg rtt: 16.992ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:43
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0367s) TCP 192.168.1.70:61154 > 129.237.161.212:62 S ttl=64 id=22557 iplen=40  seq=1744686949 win=1480 
+RCVD (0.1143s) TCP 129.237.161.212:62 > 192.168.1.70:61154 SA ttl=52 id=0 iplen=44  seq=276334254 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 77.702ms | Min rtt: 77.702ms | Avg rtt: 77.702ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:43
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0374s) TCP 192.168.1.70:58807 > 129.237.161.212:62 S ttl=64 id=52248 iplen=40  seq=905904939 win=1480 
+RCVD (0.0601s) TCP 129.237.161.212:62 > 192.168.1.70:58807 SA ttl=52 id=0 iplen=44  seq=1346715443 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 22.708ms | Min rtt: 22.708ms | Avg rtt: 22.708ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:44
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0375s) TCP 192.168.1.70:56978 > 129.237.161.212:62 S ttl=64 id=6882 iplen=40  seq=2964448376 win=1480 
+RCVD (0.0607s) TCP 129.237.161.212:62 > 192.168.1.70:56978 SA ttl=52 id=0 iplen=44  seq=435079605 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 23.174ms | Min rtt: 23.174ms | Avg rtt: 23.174ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:44
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0353s) TCP 192.168.1.70:28404 > 129.237.161.212:62 S ttl=64 id=31163 iplen=40  seq=2397297839 win=1480 
+RCVD (0.0595s) TCP 129.237.161.212:62 > 192.168.1.70:28404 SA ttl=52 id=0 iplen=44  seq=166676574 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 24.195ms | Min rtt: 24.195ms | Avg rtt: 24.195ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:45
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0182s) TCP 192.168.1.70:57612 > 129.237.161.212:62 S ttl=64 id=61000 iplen=40  seq=537368742 win=1480 
+RCVD (0.0478s) TCP 129.237.161.212:62 > 192.168.1.70:57612 SA ttl=52 id=0 iplen=44  seq=3476454536 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 29.521ms | Min rtt: 29.521ms | Avg rtt: 29.521ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.06 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:45
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0402s) TCP 192.168.1.70:1204 > 129.237.161.212:62 S ttl=64 id=8252 iplen=40  seq=1021257281 win=1480 
+RCVD (0.0609s) TCP 129.237.161.212:62 > 192.168.1.70:1204 SA ttl=52 id=0 iplen=44  seq=2667625423 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 20.707ms | Min rtt: 20.707ms | Avg rtt: 20.707ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:46
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0441s) TCP 192.168.1.70:34766 > 129.237.161.212:62 S ttl=64 id=14013 iplen=40  seq=413269553 win=1480 
+RCVD (0.0652s) TCP 129.237.161.212:62 > 192.168.1.70:34766 SA ttl=52 id=0 iplen=44  seq=2907003082 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 21.083ms | Min rtt: 21.083ms | Avg rtt: 21.083ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:46
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0275s) TCP 192.168.1.70:34613 > 129.237.161.212:62 S ttl=64 id=36724 iplen=40  seq=2119071197 win=1480 
+RCVD (0.0489s) TCP 129.237.161.212:62 > 192.168.1.70:34613 SA ttl=52 id=0 iplen=44  seq=3501088374 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 21.402ms | Min rtt: 21.402ms | Avg rtt: 21.402ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:47
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0290s) TCP 192.168.1.70:56823 > 129.237.161.212:62 S ttl=64 id=60517 iplen=40  seq=1497758659 win=1480 
+RCVD (0.0527s) TCP 129.237.161.212:62 > 192.168.1.70:56823 SA ttl=52 id=0 iplen=44  seq=4269814444 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 23.651ms | Min rtt: 23.651ms | Avg rtt: 23.651ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:47
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0333s) TCP 192.168.1.70:29247 > 129.237.161.212:62 S ttl=64 id=45826 iplen=40  seq=958630956 win=1480 
+RCVD (0.0620s) TCP 129.237.161.212:62 > 192.168.1.70:29247 SA ttl=52 id=0 iplen=44  seq=3387204785 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 28.555ms | Min rtt: 28.555ms | Avg rtt: 28.555ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.10 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:48
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0374s) TCP 192.168.1.70:17531 > 129.237.161.212:62 S ttl=64 id=23736 iplen=40  seq=331662988 win=1480 
+RCVD (0.0584s) TCP 129.237.161.212:62 > 192.168.1.70:17531 SA ttl=52 id=0 iplen=44  seq=2768877353 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 20.910ms | Min rtt: 20.910ms | Avg rtt: 20.910ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:48
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0462s) TCP 192.168.1.70:51180 > 129.237.161.212:62 S ttl=64 id=58315 iplen=40  seq=493987102 win=1480 
+RCVD (0.0671s) TCP 129.237.161.212:62 > 192.168.1.70:51180 SA ttl=52 id=0 iplen=44  seq=4162567918 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 20.858ms | Min rtt: 20.858ms | Avg rtt: 20.858ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.13 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:49
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0351s) TCP 192.168.1.70:56391 > 129.237.161.212:62 S ttl=64 id=19450 iplen=40  seq=400861144 win=1480 
+RCVD (0.0578s) TCP 129.237.161.212:62 > 192.168.1.70:56391 SA ttl=52 id=0 iplen=44  seq=2474324293 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 22.605ms | Min rtt: 22.605ms | Avg rtt: 22.605ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.10 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:50
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0363s) TCP 192.168.1.70:38783 > 129.237.161.212:62 S ttl=64 id=57635 iplen=40  seq=3033367227 win=1480 
+RCVD (0.0570s) TCP 129.237.161.212:62 > 192.168.1.70:38783 SA ttl=52 id=0 iplen=44  seq=2616391101 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 20.656ms | Min rtt: 20.656ms | Avg rtt: 20.656ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:50
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0405s) TCP 192.168.1.70:61257 > 129.237.161.212:62 S ttl=64 id=64264 iplen=40  seq=1861535969 win=1480 
+RCVD (0.0614s) TCP 129.237.161.212:62 > 192.168.1.70:61257 SA ttl=52 id=0 iplen=44  seq=899167646 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 20.861ms | Min rtt: 20.861ms | Avg rtt: 20.861ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:51
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0303s) TCP 192.168.1.70:60814 > 129.237.161.212:62 S ttl=64 id=56304 iplen=40  seq=3665502006 win=1480 
+RCVD (0.0510s) TCP 129.237.161.212:62 > 192.168.1.70:60814 SA ttl=52 id=0 iplen=44  seq=1960876684 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 20.661ms | Min rtt: 20.661ms | Avg rtt: 20.661ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:51
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0422s) TCP 192.168.1.70:31890 > 129.237.161.212:62 S ttl=64 id=29331 iplen=40  seq=1546228884 win=1480 
+RCVD (0.0631s) TCP 129.237.161.212:62 > 192.168.1.70:31890 SA ttl=52 id=0 iplen=44  seq=2438956452 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 20.924ms | Min rtt: 20.924ms | Avg rtt: 20.924ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.11 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:52
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0283s) TCP 192.168.1.70:29413 > 129.237.161.212:62 S ttl=64 id=48262 iplen=40  seq=1537091111 win=1480 
+RCVD (0.0508s) TCP 129.237.161.212:62 > 192.168.1.70:29413 SA ttl=52 id=0 iplen=44  seq=2261365488 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 22.439ms | Min rtt: 22.439ms | Avg rtt: 22.439ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:52
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0290s) TCP 192.168.1.70:14190 > 129.237.161.212:62 S ttl=64 id=13953 iplen=40  seq=841697466 win=1480 
+RCVD (0.0547s) TCP 129.237.161.212:62 > 192.168.1.70:14190 SA ttl=52 id=0 iplen=44  seq=769705658 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 25.780ms | Min rtt: 25.780ms | Avg rtt: 25.780ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:53
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0321s) TCP 192.168.1.70:58595 > 129.237.161.212:62 S ttl=64 id=18665 iplen=40  seq=296119746 win=1480 
+RCVD (0.0581s) TCP 129.237.161.212:62 > 192.168.1.70:58595 SA ttl=52 id=0 iplen=44  seq=1069686976 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 25.921ms | Min rtt: 25.921ms | Avg rtt: 25.921ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:54
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0259s) TCP 192.168.1.70:37098 > 129.237.161.212:62 S ttl=64 id=23436 iplen=40  seq=504186250 win=1480 
+RCVD (0.0481s) TCP 129.237.161.212:62 > 192.168.1.70:37098 SA ttl=52 id=0 iplen=44  seq=3318920827 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 22.032ms | Min rtt: 22.032ms | Avg rtt: 22.032ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.06 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:54
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0317s) TCP 192.168.1.70:50161 > 129.237.161.212:62 S ttl=64 id=57582 iplen=40  seq=1164912785 win=1480 
+RCVD (0.0562s) TCP 129.237.161.212:62 > 192.168.1.70:50161 SA ttl=52 id=0 iplen=44  seq=2830463672 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 24.419ms | Min rtt: 24.419ms | Avg rtt: 24.419ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:55
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0304s) TCP 192.168.1.70:62352 > 129.237.161.212:62 S ttl=64 id=12232 iplen=40  seq=2581509413 win=1480 
+RCVD (0.0520s) TCP 129.237.161.212:62 > 192.168.1.70:62352 SA ttl=52 id=0 iplen=44  seq=3221496664 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 21.562ms | Min rtt: 21.562ms | Avg rtt: 21.562ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:55
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0307s) TCP 192.168.1.70:4987 > 129.237.161.212:62 S ttl=64 id=28801 iplen=40  seq=168485435 win=1480 
+RCVD (0.0536s) TCP 129.237.161.212:62 > 192.168.1.70:4987 SA ttl=52 id=0 iplen=44  seq=315689576 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 22.765ms | Min rtt: 22.765ms | Avg rtt: 22.765ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:56
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0348s) TCP 192.168.1.70:7113 > 129.237.161.212:62 S ttl=64 id=33054 iplen=40  seq=503969220 win=1480 
+RCVD (0.0575s) TCP 129.237.161.212:62 > 192.168.1.70:7113 SA ttl=52 id=0 iplen=44  seq=332436114 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 22.727ms | Min rtt: 22.727ms | Avg rtt: 22.727ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:56
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0269s) TCP 192.168.1.70:2085 > 129.237.161.212:62 S ttl=64 id=29653 iplen=40  seq=3671664018 win=1480 
+RCVD (0.0481s) TCP 129.237.161.212:62 > 192.168.1.70:2085 SA ttl=52 id=0 iplen=44  seq=3667221449 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 21.150ms | Min rtt: 21.150ms | Avg rtt: 21.150ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:57
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0257s) TCP 192.168.1.70:34814 > 129.237.161.212:62 S ttl=64 id=24837 iplen=40  seq=912304181 win=1480 
+RCVD (0.0523s) TCP 129.237.161.212:62 > 192.168.1.70:34814 SA ttl=52 id=0 iplen=44  seq=1747985336 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 26.573ms | Min rtt: 26.573ms | Avg rtt: 26.573ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.06 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:57
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0287s) TCP 192.168.1.70:53714 > 129.237.161.212:62 S ttl=64 id=11727 iplen=40  seq=3397892537 win=1480 
+RCVD (0.0510s) TCP 129.237.161.212:62 > 192.168.1.70:53714 SA ttl=52 id=0 iplen=44  seq=4106184108 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 22.261ms | Min rtt: 22.261ms | Avg rtt: 22.261ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.10 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:58
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0177s) TCP 192.168.1.70:47152 > 129.237.161.212:62 S ttl=64 id=26777 iplen=40  seq=2839961726 win=1480 
+RCVD (0.0398s) TCP 129.237.161.212:62 > 192.168.1.70:47152 SA ttl=52 id=0 iplen=44  seq=2871574647 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 22.149ms | Min rtt: 22.149ms | Avg rtt: 22.149ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:58
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0373s) TCP 192.168.1.70:49393 > 129.237.161.212:62 S ttl=64 id=49162 iplen=40  seq=3354954556 win=1480 
+RCVD (0.0586s) TCP 129.237.161.212:62 > 192.168.1.70:49393 SA ttl=52 id=0 iplen=44  seq=2158259556 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 21.409ms | Min rtt: 21.409ms | Avg rtt: 21.409ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.11 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:59
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0319s) TCP 192.168.1.70:25672 > 129.237.161.212:62 S ttl=64 id=5658 iplen=40  seq=1989150459 win=1480 
+RCVD (0.0566s) TCP 129.237.161.212:62 > 192.168.1.70:25672 SA ttl=52 id=0 iplen=44  seq=3260384339 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 24.688ms | Min rtt: 24.688ms | Avg rtt: 24.688ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:44:59
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0218s) TCP 192.168.1.70:37978 > 129.237.161.212:62 S ttl=64 id=16093 iplen=40  seq=2285327731 win=1480 
+RCVD (0.0475s) TCP 129.237.161.212:62 > 192.168.1.70:37978 SA ttl=52 id=0 iplen=44  seq=3651580539 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 25.652ms | Min rtt: 25.652ms | Avg rtt: 25.652ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:00
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0194s) TCP 192.168.1.70:49071 > 129.237.161.212:62 S ttl=64 id=33280 iplen=40  seq=2135363485 win=1480 
+RCVD (0.0454s) TCP 129.237.161.212:62 > 192.168.1.70:49071 SA ttl=52 id=0 iplen=44  seq=292702048 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 25.919ms | Min rtt: 25.919ms | Avg rtt: 25.919ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:01
+://nmap.org/nping ) at 2025-12-17 17:44 UTC
+SENT (0.0253s) TCP 192.168.1.70:7887 > 129.237.161.212:62 S ttl=64 id=2503 iplen=40  seq=2382114960 win=1480 
+RCVD (0.0473s) TCP 129.237.161.212:62 > 192.168.1.70:7887 SA ttl=52 id=0 iplen=44  seq=3512054907 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 21.929ms | Min rtt: 21.929ms | Avg rtt: 21.929ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:01
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0353s) TCP 192.168.1.70:28707 > 129.237.161.212:62 S ttl=64 id=63758 iplen=40  seq=3238200497 win=1480 
+RCVD (0.0578s) TCP 129.237.161.212:62 > 192.168.1.70:28707 SA ttl=52 id=0 iplen=44  seq=2935961949 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 22.509ms | Min rtt: 22.509ms | Avg rtt: 22.509ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:02
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0308s) TCP 192.168.1.70:2328 > 129.237.161.212:62 S ttl=64 id=43473 iplen=40  seq=676297643 win=1480 
+RCVD (0.0574s) TCP 129.237.161.212:62 > 192.168.1.70:2328 SA ttl=52 id=0 iplen=44  seq=718098474 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 26.563ms | Min rtt: 26.563ms | Avg rtt: 26.563ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.10 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:02
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0430s) TCP 192.168.1.70:13488 > 129.237.161.212:62 S ttl=64 id=64622 iplen=40  seq=210867728 win=1480 
+RCVD (0.0649s) TCP 129.237.161.212:62 > 192.168.1.70:13488 SA ttl=52 id=0 iplen=44  seq=1176301607 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 21.821ms | Min rtt: 21.821ms | Avg rtt: 21.821ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:03
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0282s) TCP 192.168.1.70:36278 > 129.237.161.212:62 S ttl=64 id=41860 iplen=40  seq=2971111355 win=1480 
+RCVD (0.0496s) TCP 129.237.161.212:62 > 192.168.1.70:36278 SA ttl=52 id=0 iplen=44  seq=3801987651 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 21.380ms | Min rtt: 21.380ms | Avg rtt: 21.380ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:03
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0336s) TCP 192.168.1.70:6255 > 129.237.161.212:62 S ttl=64 id=61857 iplen=40  seq=689958573 win=1480 
+RCVD (0.0552s) TCP 129.237.161.212:62 > 192.168.1.70:6255 SA ttl=52 id=0 iplen=44  seq=1124764171 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 21.634ms | Min rtt: 21.634ms | Avg rtt: 21.634ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:04
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0282s) TCP 192.168.1.70:65494 > 129.237.161.212:62 S ttl=64 id=31000 iplen=40  seq=148576632 win=1480 
+RCVD (0.0582s) TCP 129.237.161.212:62 > 192.168.1.70:65494 SA ttl=52 id=0 iplen=44  seq=1140571901 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 29.959ms | Min rtt: 29.959ms | Avg rtt: 29.959ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:04
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0230s) TCP 192.168.1.70:38307 > 129.237.161.212:62 S ttl=64 id=19538 iplen=40  seq=3563332739 win=1480 
+RCVD (0.0474s) TCP 129.237.161.212:62 > 192.168.1.70:38307 SA ttl=52 id=0 iplen=44  seq=4129103992 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 24.428ms | Min rtt: 24.428ms | Avg rtt: 24.428ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:05
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0226s) TCP 192.168.1.70:46907 > 129.237.161.212:62 S ttl=64 id=48112 iplen=40  seq=949941378 win=1480 
+RCVD (0.0440s) TCP 129.237.161.212:62 > 192.168.1.70:46907 SA ttl=52 id=0 iplen=44  seq=722334466 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 21.396ms | Min rtt: 21.396ms | Avg rtt: 21.396ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:06
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0295s) TCP 192.168.1.70:8448 > 129.237.161.212:62 S ttl=64 id=24765 iplen=40  seq=2349749021 win=1480 
+RCVD (0.0521s) TCP 129.237.161.212:62 > 192.168.1.70:8448 SA ttl=52 id=0 iplen=44  seq=4228112480 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 22.518ms | Min rtt: 22.518ms | Avg rtt: 22.518ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:06
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0372s) TCP 192.168.1.70:5619 > 129.237.161.212:62 S ttl=64 id=30092 iplen=40  seq=4130379386 win=1480 
+RCVD (0.0584s) TCP 129.237.161.212:62 > 192.168.1.70:5619 SA ttl=52 id=0 iplen=44  seq=3171575979 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 21.130ms | Min rtt: 21.130ms | Avg rtt: 21.130ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.10 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:07
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0174s) TCP 192.168.1.70:36990 > 129.237.161.212:62 S ttl=64 id=33718 iplen=40  seq=3910604663 win=1480 
+RCVD (0.0406s) TCP 129.237.161.212:62 > 192.168.1.70:36990 SA ttl=52 id=0 iplen=44  seq=2474201269 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 23.175ms | Min rtt: 23.175ms | Avg rtt: 23.175ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.06 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:07
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0313s) TCP 192.168.1.70:58518 > 129.237.161.212:62 S ttl=64 id=14268 iplen=40  seq=2484414782 win=1480 
+RCVD (0.0546s) TCP 129.237.161.212:62 > 192.168.1.70:58518 SA ttl=52 id=0 iplen=44  seq=2580421724 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 23.369ms | Min rtt: 23.369ms | Avg rtt: 23.369ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:08
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0438s) TCP 192.168.1.70:23155 > 129.237.161.212:62 S ttl=64 id=42003 iplen=40  seq=3202352186 win=1480 
+RCVD (0.0664s) TCP 129.237.161.212:62 > 192.168.1.70:23155 SA ttl=52 id=0 iplen=44  seq=1290428815 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 22.588ms | Min rtt: 22.588ms | Avg rtt: 22.588ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.11 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:08
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0386s) TCP 192.168.1.70:15539 > 129.237.161.212:62 S ttl=64 id=63192 iplen=40  seq=2236325228 win=1480 
+RCVD (0.0650s) TCP 129.237.161.212:62 > 192.168.1.70:15539 SA ttl=52 id=0 iplen=44  seq=3947004748 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 26.324ms | Min rtt: 26.324ms | Avg rtt: 26.324ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:09
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0244s) TCP 192.168.1.70:4031 > 129.237.161.212:62 S ttl=64 id=48551 iplen=40  seq=3388760539 win=1480 
+RCVD (0.0459s) TCP 129.237.161.212:62 > 192.168.1.70:4031 SA ttl=52 id=0 iplen=44  seq=1636140226 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 21.420ms | Min rtt: 21.420ms | Avg rtt: 21.420ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:09
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0320s) TCP 192.168.1.70:15921 > 129.237.161.212:62 S ttl=64 id=47575 iplen=40  seq=2560433550 win=1480 
+RCVD (0.0527s) TCP 129.237.161.212:62 > 192.168.1.70:15921 SA ttl=52 id=0 iplen=44  seq=2195573952 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 20.663ms | Min rtt: 20.663ms | Avg rtt: 20.663ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:10
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0354s) TCP 192.168.1.70:41761 > 129.237.161.212:62 S ttl=64 id=51676 iplen=40  seq=224621651 win=1480 
+RCVD (0.0565s) TCP 129.237.161.212:62 > 192.168.1.70:41761 SA ttl=52 id=0 iplen=44  seq=1348451946 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 21.092ms | Min rtt: 21.092ms | Avg rtt: 21.092ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.11 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:10
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0282s) TCP 192.168.1.70:9999 > 129.237.161.212:62 S ttl=64 id=9063 iplen=40  seq=2087373587 win=1480 
+RCVD (0.0507s) TCP 129.237.161.212:62 > 192.168.1.70:9999 SA ttl=52 id=0 iplen=44  seq=718021249 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 22.493ms | Min rtt: 22.493ms | Avg rtt: 22.493ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:11
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0367s) TCP 192.168.1.70:12409 > 129.237.161.212:62 S ttl=64 id=52937 iplen=40  seq=3101620404 win=1480 
+RCVD (0.0608s) TCP 129.237.161.212:62 > 192.168.1.70:12409 SA ttl=52 id=0 iplen=44  seq=3120639128 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 24.052ms | Min rtt: 24.052ms | Avg rtt: 24.052ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:11
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0390s) TCP 192.168.1.70:26719 > 129.237.161.212:62 S ttl=64 id=59743 iplen=40  seq=263370269 win=1480 
+RCVD (0.0611s) TCP 129.237.161.212:62 > 192.168.1.70:26719 SA ttl=52 id=0 iplen=44  seq=1129165242 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 22.021ms | Min rtt: 22.021ms | Avg rtt: 22.021ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:12
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0305s) TCP 192.168.1.70:22409 > 129.237.161.212:62 S ttl=64 id=44306 iplen=40  seq=231626926 win=1480 
+RCVD (0.0519s) TCP 129.237.161.212:62 > 192.168.1.70:22409 SA ttl=52 id=0 iplen=44  seq=562229188 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 21.255ms | Min rtt: 21.255ms | Avg rtt: 21.255ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:13
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0261s) TCP 192.168.1.70:38997 > 129.237.161.212:62 S ttl=64 id=44945 iplen=40  seq=1224142300 win=1480 
+RCVD (0.1108s) TCP 129.237.161.212:62 > 192.168.1.70:38997 SA ttl=52 id=0 iplen=44  seq=2325806130 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 84.669ms | Min rtt: 84.669ms | Avg rtt: 84.669ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:13
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0318s) TCP 192.168.1.70:36929 > 129.237.161.212:62 S ttl=64 id=32637 iplen=40  seq=2481980792 win=1480 
+RCVD (0.0605s) TCP 129.237.161.212:62 > 192.168.1.70:36929 SA ttl=52 id=0 iplen=44  seq=2019603695 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 28.669ms | Min rtt: 28.669ms | Avg rtt: 28.669ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:14
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0196s) TCP 192.168.1.70:25473 > 129.237.161.212:62 S ttl=64 id=2992 iplen=40  seq=1723194031 win=1480 
+RCVD (0.0434s) TCP 129.237.161.212:62 > 192.168.1.70:25473 SA ttl=52 id=0 iplen=44  seq=1220968843 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 23.794ms | Min rtt: 23.794ms | Avg rtt: 23.794ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:14
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0210s) TCP 192.168.1.70:40273 > 129.237.161.212:62 S ttl=64 id=12099 iplen=40  seq=2973821043 win=1480 
+RCVD (0.0490s) TCP 129.237.161.212:62 > 192.168.1.70:40273 SA ttl=52 id=0 iplen=44  seq=3856782422 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 27.983ms | Min rtt: 27.983ms | Avg rtt: 27.983ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.06 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:15
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0247s) TCP 192.168.1.70:12566 > 129.237.161.212:62 S ttl=64 id=2783 iplen=40  seq=3412832175 win=1480 
+RCVD (0.0486s) TCP 129.237.161.212:62 > 192.168.1.70:12566 SA ttl=52 id=0 iplen=44  seq=3080694224 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 23.840ms | Min rtt: 23.840ms | Avg rtt: 23.840ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:15
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0302s) TCP 192.168.1.70:9379 > 129.237.161.212:62 S ttl=64 id=59046 iplen=40  seq=2423781806 win=1480 
+RCVD (0.0544s) TCP 129.237.161.212:62 > 192.168.1.70:9379 SA ttl=52 id=0 iplen=44  seq=3607749934 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 24.180ms | Min rtt: 24.180ms | Avg rtt: 24.180ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.10 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:16
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0324s) TCP 192.168.1.70:37344 > 129.237.161.212:62 S ttl=64 id=18123 iplen=40  seq=1679512792 win=1480 
+RCVD (0.0553s) TCP 129.237.161.212:62 > 192.168.1.70:37344 SA ttl=52 id=0 iplen=44  seq=3032530744 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 22.800ms | Min rtt: 22.800ms | Avg rtt: 22.800ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:16
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0386s) TCP 192.168.1.70:16847 > 129.237.161.212:62 S ttl=64 id=27084 iplen=40  seq=731401796 win=1480 
+RCVD (0.0630s) TCP 129.237.161.212:62 > 192.168.1.70:16847 SA ttl=52 id=0 iplen=44  seq=839413951 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 24.356ms | Min rtt: 24.356ms | Avg rtt: 24.356ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:17
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0250s) TCP 192.168.1.70:11815 > 129.237.161.212:62 S ttl=64 id=37691 iplen=40  seq=2683309680 win=1480 
+RCVD (0.0534s) TCP 129.237.161.212:62 > 192.168.1.70:11815 SA ttl=52 id=0 iplen=44  seq=525597836 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 28.458ms | Min rtt: 28.458ms | Avg rtt: 28.458ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.06 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:18
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0278s) TCP 192.168.1.70:61056 > 129.237.161.212:62 S ttl=64 id=24283 iplen=40  seq=3565741751 win=1480 
+RCVD (0.0514s) TCP 129.237.161.212:62 > 192.168.1.70:61056 SA ttl=52 id=0 iplen=44  seq=3441237421 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 23.507ms | Min rtt: 23.507ms | Avg rtt: 23.507ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:18
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0277s) TCP 192.168.1.70:34389 > 129.237.161.212:62 S ttl=64 id=50972 iplen=40  seq=3589518241 win=1480 
+RCVD (0.0513s) TCP 129.237.161.212:62 > 192.168.1.70:34389 SA ttl=52 id=0 iplen=44  seq=3436367937 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 23.543ms | Min rtt: 23.543ms | Avg rtt: 23.543ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:19
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0178s) TCP 192.168.1.70:18628 > 129.237.161.212:62 S ttl=64 id=34916 iplen=40  seq=693227621 win=1480 
+RCVD (0.0388s) TCP 129.237.161.212:62 > 192.168.1.70:18628 SA ttl=52 id=0 iplen=44  seq=2666842604 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 20.947ms | Min rtt: 20.947ms | Avg rtt: 20.947ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.06 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:19
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0194s) TCP 192.168.1.70:55913 > 129.237.161.212:62 S ttl=64 id=32498 iplen=40  seq=2660371464 win=1480 
+RCVD (0.0483s) TCP 129.237.161.212:62 > 192.168.1.70:55913 SA ttl=52 id=0 iplen=44  seq=1661075167 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 28.891ms | Min rtt: 28.891ms | Avg rtt: 28.891ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:20
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0312s) TCP 192.168.1.70:52613 > 129.237.161.212:62 S ttl=64 id=24359 iplen=40  seq=1314196846 win=1480 
+RCVD (0.0593s) TCP 129.237.161.212:62 > 192.168.1.70:52613 SA ttl=52 id=0 iplen=44  seq=3221126348 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 28.016ms | Min rtt: 28.016ms | Avg rtt: 28.016ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:20
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0370s) TCP 192.168.1.70:10351 > 129.237.161.212:62 S ttl=64 id=25727 iplen=40  seq=3957072721 win=1480 
+RCVD (0.0660s) TCP 129.237.161.212:62 > 192.168.1.70:10351 SA ttl=52 id=0 iplen=44  seq=3272613550 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 28.951ms | Min rtt: 28.951ms | Avg rtt: 28.951ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:21
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0297s) TCP 192.168.1.70:50166 > 129.237.161.212:62 S ttl=64 id=58994 iplen=40  seq=939504062 win=1480 
+RCVD (0.0540s) TCP 129.237.161.212:62 > 192.168.1.70:50166 SA ttl=52 id=0 iplen=44  seq=2033580737 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 24.261ms | Min rtt: 24.261ms | Avg rtt: 24.261ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:21
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0489s) TCP 192.168.1.70:10275 > 129.237.161.212:62 S ttl=64 id=26843 iplen=40  seq=2423232496 win=1480 
+RCVD (0.0741s) TCP 129.237.161.212:62 > 192.168.1.70:10275 SA ttl=52 id=0 iplen=44  seq=1342704001 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 25.139ms | Min rtt: 25.139ms | Avg rtt: 25.139ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.13 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:22
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0267s) TCP 192.168.1.70:18150 > 129.237.161.212:62 S ttl=64 id=3418 iplen=40  seq=650249012 win=1480 
+RCVD (0.0496s) TCP 129.237.161.212:62 > 192.168.1.70:18150 SA ttl=52 id=0 iplen=44  seq=86527257 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 22.933ms | Min rtt: 22.933ms | Avg rtt: 22.933ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:22
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0275s) TCP 192.168.1.70:1081 > 129.237.161.212:62 S ttl=64 id=30700 iplen=40  seq=1640622563 win=1480 
+RCVD (0.0547s) TCP 129.237.161.212:62 > 192.168.1.70:1081 SA ttl=52 id=0 iplen=44  seq=3561607936 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 27.129ms | Min rtt: 27.129ms | Avg rtt: 27.129ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.10 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:23
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0423s) TCP 192.168.1.70:1629 > 129.237.161.212:62 S ttl=64 id=4283 iplen=40  seq=3162113791 win=1480 
+RCVD (0.0652s) TCP 129.237.161.212:62 > 192.168.1.70:1629 SA ttl=52 id=0 iplen=44  seq=2133499560 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 22.852ms | Min rtt: 22.852ms | Avg rtt: 22.852ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.10 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:24
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0214s) TCP 192.168.1.70:8112 > 129.237.161.212:62 S ttl=64 id=57828 iplen=40  seq=3931304496 win=1480 
+RCVD (0.0463s) TCP 129.237.161.212:62 > 192.168.1.70:8112 SA ttl=52 id=0 iplen=44  seq=1229682263 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 24.803ms | Min rtt: 24.803ms | Avg rtt: 24.803ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:24
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0255s) TCP 192.168.1.70:61779 > 129.237.161.212:62 S ttl=64 id=31154 iplen=40  seq=2936402030 win=1480 
+RCVD (0.0543s) TCP 129.237.161.212:62 > 192.168.1.70:61779 SA ttl=52 id=0 iplen=44  seq=4193229450 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 28.703ms | Min rtt: 28.703ms | Avg rtt: 28.703ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:25
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0276s) TCP 192.168.1.70:1931 > 129.237.161.212:62 S ttl=64 id=56237 iplen=40  seq=2089247441 win=1480 
+RCVD (0.0572s) TCP 129.237.161.212:62 > 192.168.1.70:1931 SA ttl=52 id=0 iplen=44  seq=2079860553 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 29.577ms | Min rtt: 29.577ms | Avg rtt: 29.577ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:25
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0383s) TCP 192.168.1.70:48232 > 129.237.161.212:62 S ttl=64 id=27778 iplen=40  seq=115163741 win=1480 
+RCVD (0.0620s) TCP 129.237.161.212:62 > 192.168.1.70:48232 SA ttl=52 id=0 iplen=44  seq=1862544377 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 23.673ms | Min rtt: 23.673ms | Avg rtt: 23.673ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.11 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:26
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0237s) TCP 192.168.1.70:41725 > 129.237.161.212:62 S ttl=64 id=65421 iplen=40  seq=3986434678 win=1480 
+RCVD (0.0516s) TCP 129.237.161.212:62 > 192.168.1.70:41725 SA ttl=52 id=0 iplen=44  seq=370955647 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 27.880ms | Min rtt: 27.880ms | Avg rtt: 27.880ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.06 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:26
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0336s) TCP 192.168.1.70:6470 > 129.237.161.212:62 S ttl=64 id=389 iplen=40  seq=2323131220 win=1480 
+RCVD (0.0588s) TCP 129.237.161.212:62 > 192.168.1.70:6470 SA ttl=52 id=0 iplen=44  seq=325454639 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 25.109ms | Min rtt: 25.109ms | Avg rtt: 25.109ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:27
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0220s) TCP 192.168.1.70:51214 > 129.237.161.212:62 S ttl=64 id=33946 iplen=40  seq=3221810317 win=1480 
+RCVD (0.0455s) TCP 129.237.161.212:62 > 192.168.1.70:51214 SA ttl=52 id=0 iplen=44  seq=413729700 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 23.399ms | Min rtt: 23.399ms | Avg rtt: 23.399ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:27
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0261s) TCP 192.168.1.70:25855 > 129.237.161.212:62 S ttl=64 id=15946 iplen=40  seq=1377374 win=1480 
+RCVD (0.0464s) TCP 129.237.161.212:62 > 192.168.1.70:25855 SA ttl=52 id=0 iplen=44  seq=1634537278 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 20.317ms | Min rtt: 20.317ms | Avg rtt: 20.317ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.06 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:28
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0255s) TCP 192.168.1.70:28045 > 129.237.161.212:62 S ttl=64 id=59530 iplen=40  seq=1392307352 win=1480 
+RCVD (0.0496s) TCP 129.237.161.212:62 > 192.168.1.70:28045 SA ttl=52 id=0 iplen=44  seq=3814355129 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 24.078ms | Min rtt: 24.078ms | Avg rtt: 24.078ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.06 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:28
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0268s) TCP 192.168.1.70:41636 > 129.237.161.212:62 S ttl=64 id=28436 iplen=40  seq=3882464814 win=1480 
+RCVD (0.0455s) TCP 129.237.161.212:62 > 192.168.1.70:41636 SA ttl=52 id=0 iplen=44  seq=3160051923 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 18.628ms | Min rtt: 18.628ms | Avg rtt: 18.628ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.10 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:29
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0340s) TCP 192.168.1.70:8740 > 129.237.161.212:62 S ttl=64 id=11265 iplen=40  seq=1701594424 win=1480 
+RCVD (0.0544s) TCP 129.237.161.212:62 > 192.168.1.70:8740 SA ttl=52 id=0 iplen=44  seq=2178897114 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 20.459ms | Min rtt: 20.459ms | Avg rtt: 20.459ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:30
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0391s) TCP 192.168.1.70:48456 > 129.237.161.212:62 S ttl=64 id=34436 iplen=40  seq=2018849256 win=1480 
+RCVD (0.0604s) TCP 129.237.161.212:62 > 192.168.1.70:48456 SA ttl=52 id=0 iplen=44  seq=3323310390 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 21.285ms | Min rtt: 21.285ms | Avg rtt: 21.285ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:30
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0290s) TCP 192.168.1.70:17972 > 129.237.161.212:62 S ttl=64 id=64471 iplen=40  seq=3097603744 win=1480 
+RCVD (0.0589s) TCP 129.237.161.212:62 > 192.168.1.70:17972 SA ttl=52 id=0 iplen=44  seq=2715339911 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 29.899ms | Min rtt: 29.899ms | Avg rtt: 29.899ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.10 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:31
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0293s) TCP 192.168.1.70:18274 > 129.237.161.212:62 S ttl=64 id=23270 iplen=40  seq=2017872727 win=1480 
+RCVD (0.0505s) TCP 129.237.161.212:62 > 192.168.1.70:18274 SA ttl=52 id=0 iplen=44  seq=2701445848 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 21.184ms | Min rtt: 21.184ms | Avg rtt: 21.184ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:31
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0416s) TCP 192.168.1.70:53884 > 129.237.161.212:62 S ttl=64 id=24600 iplen=40  seq=2330692546 win=1480 
+RCVD (0.0702s) TCP 129.237.161.212:62 > 192.168.1.70:53884 SA ttl=52 id=0 iplen=44  seq=4163712970 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 28.534ms | Min rtt: 28.534ms | Avg rtt: 28.534ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:32
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0368s) TCP 192.168.1.70:57484 > 129.237.161.212:62 S ttl=64 id=15932 iplen=40  seq=534093662 win=1480 
+RCVD (0.0604s) TCP 129.237.161.212:62 > 192.168.1.70:57484 SA ttl=52 id=0 iplen=44  seq=2281613261 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 23.547ms | Min rtt: 23.547ms | Avg rtt: 23.547ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:32
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0242s) TCP 192.168.1.70:51240 > 129.237.161.212:62 S ttl=64 id=36075 iplen=40  seq=3984751836 win=1480 
+RCVD (0.0449s) TCP 129.237.161.212:62 > 192.168.1.70:51240 SA ttl=52 id=0 iplen=44  seq=3984754112 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 20.564ms | Min rtt: 20.564ms | Avg rtt: 20.564ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:33
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0394s) TCP 192.168.1.70:21769 > 129.237.161.212:62 S ttl=64 id=25689 iplen=40  seq=3568874278 win=1480 
+RCVD (0.0634s) TCP 129.237.161.212:62 > 192.168.1.70:21769 SA ttl=52 id=0 iplen=44  seq=3714171832 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 23.870ms | Min rtt: 23.870ms | Avg rtt: 23.870ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:33
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0333s) TCP 192.168.1.70:49704 > 129.237.161.212:62 S ttl=64 id=8915 iplen=40  seq=665083190 win=1480 
+RCVD (0.0534s) TCP 129.237.161.212:62 > 192.168.1.70:49704 SA ttl=52 id=0 iplen=44  seq=3641780174 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 20.056ms | Min rtt: 20.056ms | Avg rtt: 20.056ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:34
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0282s) TCP 192.168.1.70:28752 > 129.237.161.212:62 S ttl=64 id=30874 iplen=40  seq=1540711507 win=1480 
+RCVD (0.0484s) TCP 129.237.161.212:62 > 192.168.1.70:28752 SA ttl=52 id=0 iplen=44  seq=3323797159 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 20.150ms | Min rtt: 20.150ms | Avg rtt: 20.150ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:34
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0377s) TCP 192.168.1.70:22387 > 129.237.161.212:62 S ttl=64 id=22597 iplen=40  seq=1047649950 win=1480 
+RCVD (0.0575s) TCP 129.237.161.212:62 > 192.168.1.70:22387 SA ttl=52 id=0 iplen=44  seq=312528313 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 19.746ms | Min rtt: 19.746ms | Avg rtt: 19.746ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:35
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0235s) TCP 192.168.1.70:54142 > 129.237.161.212:62 S ttl=64 id=24061 iplen=40  seq=1445485264 win=1480 
+RCVD (0.0472s) TCP 129.237.161.212:62 > 192.168.1.70:54142 SA ttl=52 id=0 iplen=44  seq=737369064 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 23.631ms | Min rtt: 23.631ms | Avg rtt: 23.631ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:36
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0329s) TCP 192.168.1.70:10875 > 129.237.161.212:62 S ttl=64 id=11966 iplen=40  seq=1045319162 win=1480 
+RCVD (0.0574s) TCP 129.237.161.212:62 > 192.168.1.70:10875 SA ttl=52 id=0 iplen=44  seq=321636948 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 24.331ms | Min rtt: 24.331ms | Avg rtt: 24.331ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:36
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0418s) TCP 192.168.1.70:19171 > 129.237.161.212:62 S ttl=64 id=781 iplen=40  seq=2264745656 win=1480 
+RCVD (0.0660s) TCP 129.237.161.212:62 > 192.168.1.70:19171 SA ttl=52 id=0 iplen=44  seq=1654703272 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 24.197ms | Min rtt: 24.197ms | Avg rtt: 24.197ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:37
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0294s) TCP 192.168.1.70:39779 > 129.237.161.212:62 S ttl=64 id=26846 iplen=40  seq=1639493425 win=1480 
+RCVD (0.0538s) TCP 129.237.161.212:62 > 192.168.1.70:39779 SA ttl=52 id=0 iplen=44  seq=1261812400 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 24.373ms | Min rtt: 24.373ms | Avg rtt: 24.373ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:37
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0207s) TCP 192.168.1.70:35342 > 129.237.161.212:62 S ttl=64 id=11487 iplen=40  seq=4063754916 win=1480 
+RCVD (0.0410s) TCP 129.237.161.212:62 > 192.168.1.70:35342 SA ttl=52 id=0 iplen=44  seq=2222392953 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 20.294ms | Min rtt: 20.294ms | Avg rtt: 20.294ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.06 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:38
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0367s) TCP 192.168.1.70:22821 > 129.237.161.212:62 S ttl=64 id=17989 iplen=40  seq=1052638333 win=1480 
+RCVD (0.0617s) TCP 129.237.161.212:62 > 192.168.1.70:22821 SA ttl=52 id=0 iplen=44  seq=3757616183 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 24.999ms | Min rtt: 24.999ms | Avg rtt: 24.999ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:38
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0248s) TCP 192.168.1.70:16793 > 129.237.161.212:62 S ttl=64 id=55692 iplen=40  seq=4177345740 win=1480 
+RCVD (0.0440s) TCP 129.237.161.212:62 > 192.168.1.70:16793 SA ttl=52 id=0 iplen=44  seq=2273039671 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 19.073ms | Min rtt: 19.073ms | Avg rtt: 19.073ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:39
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0414s) TCP 192.168.1.70:54611 > 129.237.161.212:62 S ttl=64 id=46099 iplen=40  seq=2392709044 win=1480 
+RCVD (0.0610s) TCP 129.237.161.212:62 > 192.168.1.70:54611 SA ttl=52 id=0 iplen=44  seq=857558275 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 19.650ms | Min rtt: 19.650ms | Avg rtt: 19.650ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:39
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0282s) TCP 192.168.1.70:41631 > 129.237.161.212:62 S ttl=64 id=40347 iplen=40  seq=3871653210 win=1480 
+RCVD (0.0496s) TCP 129.237.161.212:62 > 192.168.1.70:41631 SA ttl=52 id=0 iplen=44  seq=3844869339 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 21.272ms | Min rtt: 21.272ms | Avg rtt: 21.272ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:40
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0297s) TCP 192.168.1.70:23257 > 129.237.161.212:62 S ttl=64 id=14915 iplen=40  seq=2957417012 win=1480 
+RCVD (0.0498s) TCP 129.237.161.212:62 > 192.168.1.70:23257 SA ttl=52 id=0 iplen=44  seq=3496878900 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 20.081ms | Min rtt: 20.081ms | Avg rtt: 20.081ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.10 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:40
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0493s) TCP 192.168.1.70:30540 > 129.237.161.212:62 S ttl=64 id=49208 iplen=40  seq=1382772963 win=1480 
+RCVD (0.0696s) TCP 129.237.161.212:62 > 192.168.1.70:30540 SA ttl=52 id=0 iplen=44  seq=794943159 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 20.374ms | Min rtt: 20.374ms | Avg rtt: 20.374ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.10 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:41
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0381s) TCP 192.168.1.70:48189 > 129.237.161.212:62 S ttl=64 id=4127 iplen=40  seq=4108001508 win=1480 
+RCVD (0.0581s) TCP 129.237.161.212:62 > 192.168.1.70:48189 SA ttl=52 id=0 iplen=44  seq=1279704109 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 19.843ms | Min rtt: 19.843ms | Avg rtt: 19.843ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.10 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:42
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0329s) TCP 192.168.1.70:16448 > 129.237.161.212:62 S ttl=64 id=59806 iplen=40  seq=1077966830 win=1480 
+RCVD (0.0541s) TCP 129.237.161.212:62 > 192.168.1.70:16448 SA ttl=52 id=0 iplen=44  seq=1860517768 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 21.122ms | Min rtt: 21.122ms | Avg rtt: 21.122ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:42
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0382s) TCP 192.168.1.70:20483 > 129.237.161.212:62 S ttl=64 id=24490 iplen=40  seq=2497063054 win=1480 
+RCVD (0.0585s) TCP 129.237.161.212:62 > 192.168.1.70:20483 SA ttl=52 id=0 iplen=44  seq=1854120419 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 20.286ms | Min rtt: 20.286ms | Avg rtt: 20.286ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.10 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:43
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0237s) TCP 192.168.1.70:30512 > 129.237.161.212:62 S ttl=64 id=50409 iplen=40  seq=1130894087 win=1480 
+RCVD (0.0511s) TCP 129.237.161.212:62 > 192.168.1.70:30512 SA ttl=52 id=0 iplen=44  seq=1158743646 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 27.347ms | Min rtt: 27.347ms | Avg rtt: 27.347ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:43
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0270s) TCP 192.168.1.70:1759 > 129.237.161.212:62 S ttl=64 id=8449 iplen=40  seq=2560862630 win=1480 
+RCVD (0.0433s) TCP 129.237.161.212:62 > 192.168.1.70:1759 SA ttl=52 id=0 iplen=44  seq=2954618514 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 16.252ms | Min rtt: 16.252ms | Avg rtt: 16.252ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:44
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0431s) TCP 192.168.1.70:9396 > 129.237.161.212:62 S ttl=64 id=28538 iplen=40  seq=2569756387 win=1480 
+RCVD (0.0672s) TCP 129.237.161.212:62 > 192.168.1.70:9396 SA ttl=52 id=0 iplen=44  seq=2156542967 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 24.078ms | Min rtt: 24.078ms | Avg rtt: 24.078ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:44
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0396s) TCP 192.168.1.70:8679 > 129.237.161.212:62 S ttl=64 id=9184 iplen=40  seq=423347422 win=1480 
+RCVD (0.0593s) TCP 129.237.161.212:62 > 192.168.1.70:8679 SA ttl=52 id=0 iplen=44  seq=255944991 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 19.686ms | Min rtt: 19.686ms | Avg rtt: 19.686ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:45
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0244s) TCP 192.168.1.70:16837 > 129.237.161.212:62 S ttl=64 id=57324 iplen=40  seq=2704053229 win=1480 
+RCVD (0.0489s) TCP 129.237.161.212:62 > 192.168.1.70:16837 SA ttl=52 id=0 iplen=44  seq=2599992300 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 24.430ms | Min rtt: 24.430ms | Avg rtt: 24.430ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:45
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0361s) TCP 192.168.1.70:7591 > 129.237.161.212:62 S ttl=64 id=31441 iplen=40  seq=131598846 win=1480 
+RCVD (0.0564s) TCP 129.237.161.212:62 > 192.168.1.70:7591 SA ttl=52 id=0 iplen=44  seq=3902784073 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 20.275ms | Min rtt: 20.275ms | Avg rtt: 20.275ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:46
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0288s) TCP 192.168.1.70:15732 > 129.237.161.212:62 S ttl=64 id=37512 iplen=40  seq=509598524 win=1480 
+RCVD (0.0449s) TCP 129.237.161.212:62 > 192.168.1.70:15732 SA ttl=52 id=0 iplen=44  seq=3723734535 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 16.129ms | Min rtt: 16.129ms | Avg rtt: 16.129ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:46
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0224s) TCP 192.168.1.70:39880 > 129.237.161.212:62 S ttl=64 id=30430 iplen=40  seq=2187237850 win=1480 
+RCVD (0.0423s) TCP 129.237.161.212:62 > 192.168.1.70:39880 SA ttl=52 id=0 iplen=44  seq=2843334692 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 19.830ms | Min rtt: 19.830ms | Avg rtt: 19.830ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:47
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0209s) TCP 192.168.1.70:61061 > 129.237.161.212:62 S ttl=64 id=50890 iplen=40  seq=3810202872 win=1480 
+RCVD (0.0379s) TCP 129.237.161.212:62 > 192.168.1.70:61061 SA ttl=52 id=0 iplen=44  seq=1431601636 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 16.973ms | Min rtt: 16.973ms | Avg rtt: 16.973ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:48
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0253s) TCP 192.168.1.70:42622 > 129.237.161.212:62 S ttl=64 id=63082 iplen=40  seq=2186202786 win=1480 
+RCVD (0.0463s) TCP 129.237.161.212:62 > 192.168.1.70:42622 SA ttl=52 id=0 iplen=44  seq=3496094820 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 20.974ms | Min rtt: 20.974ms | Avg rtt: 20.974ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:48
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0238s) TCP 192.168.1.70:26690 > 129.237.161.212:62 S ttl=64 id=7824 iplen=40  seq=2112815039 win=1480 
+RCVD (0.0427s) TCP 129.237.161.212:62 > 192.168.1.70:26690 SA ttl=52 id=0 iplen=44  seq=117766095 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 18.899ms | Min rtt: 18.899ms | Avg rtt: 18.899ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:49
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0226s) TCP 192.168.1.70:29007 > 129.237.161.212:62 S ttl=64 id=30465 iplen=40  seq=2085728901 win=1480 
+RCVD (0.0432s) TCP 129.237.161.212:62 > 192.168.1.70:29007 SA ttl=52 id=0 iplen=44  seq=3962192011 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 20.462ms | Min rtt: 20.462ms | Avg rtt: 20.462ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:49
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0258s) TCP 192.168.1.70:62520 > 129.237.161.212:62 S ttl=64 id=9592 iplen=40  seq=2236478730 win=1480 
+RCVD (0.0427s) TCP 129.237.161.212:62 > 192.168.1.70:62520 SA ttl=52 id=0 iplen=44  seq=2109914104 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 16.782ms | Min rtt: 16.782ms | Avg rtt: 16.782ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:50
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0300s) TCP 192.168.1.70:5159 > 129.237.161.212:62 S ttl=64 id=20817 iplen=40  seq=312592733 win=1480 
+RCVD (0.0489s) TCP 129.237.161.212:62 > 192.168.1.70:5159 SA ttl=52 id=0 iplen=44  seq=4058515327 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 18.795ms | Min rtt: 18.795ms | Avg rtt: 18.795ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:50
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0182s) TCP 192.168.1.70:40766 > 129.237.161.212:62 S ttl=64 id=39268 iplen=40  seq=2742270506 win=1480 
+RCVD (0.0389s) TCP 129.237.161.212:62 > 192.168.1.70:40766 SA ttl=52 id=0 iplen=44  seq=3060820096 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 20.684ms | Min rtt: 20.684ms | Avg rtt: 20.684ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:51
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0277s) TCP 192.168.1.70:39907 > 129.237.161.212:62 S ttl=64 id=65118 iplen=40  seq=652718744 win=1480 
+RCVD (0.0439s) TCP 129.237.161.212:62 > 192.168.1.70:39907 SA ttl=52 id=0 iplen=44  seq=1233576923 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 16.198ms | Min rtt: 16.198ms | Avg rtt: 16.198ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:51
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0476s) TCP 192.168.1.70:54749 > 129.237.161.212:62 S ttl=64 id=55412 iplen=40  seq=1559528111 win=1480 
+RCVD (0.0678s) TCP 129.237.161.212:62 > 192.168.1.70:54749 SA ttl=52 id=0 iplen=44  seq=3766529698 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 20.139ms | Min rtt: 20.139ms | Avg rtt: 20.139ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.11 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:52
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0355s) TCP 192.168.1.70:50243 > 129.237.161.212:62 S ttl=64 id=43575 iplen=40  seq=175411864 win=1480 
+RCVD (0.0516s) TCP 129.237.161.212:62 > 192.168.1.70:50243 SA ttl=52 id=0 iplen=44  seq=3289985516 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 16.029ms | Min rtt: 16.029ms | Avg rtt: 16.029ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:53
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0369s) TCP 192.168.1.70:54852 > 129.237.161.212:62 S ttl=64 id=31964 iplen=40  seq=2775052133 win=1480 
+RCVD (0.0555s) TCP 129.237.161.212:62 > 192.168.1.70:54852 SA ttl=52 id=0 iplen=44  seq=2169263914 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 18.552ms | Min rtt: 18.552ms | Avg rtt: 18.552ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:53
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0292s) TCP 192.168.1.70:43008 > 129.237.161.212:62 S ttl=64 id=52134 iplen=40  seq=3793098203 win=1480 
+RCVD (0.0491s) TCP 129.237.161.212:62 > 192.168.1.70:43008 SA ttl=52 id=0 iplen=44  seq=2747264008 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 19.829ms | Min rtt: 19.829ms | Avg rtt: 19.829ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:54
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0364s) TCP 192.168.1.70:47753 > 129.237.161.212:62 S ttl=64 id=6756 iplen=40  seq=1630689305 win=1480 
+RCVD (0.0542s) TCP 129.237.161.212:62 > 192.168.1.70:47753 SA ttl=52 id=0 iplen=44  seq=1815262692 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 17.864ms | Min rtt: 17.864ms | Avg rtt: 17.864ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:54
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0410s) TCP 192.168.1.70:62675 > 129.237.161.212:62 S ttl=64 id=4923 iplen=40  seq=2401757193 win=1480 
+RCVD (0.0600s) TCP 129.237.161.212:62 > 192.168.1.70:62675 SA ttl=52 id=0 iplen=44  seq=350707426 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 18.932ms | Min rtt: 18.932ms | Avg rtt: 18.932ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.12 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:55
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0333s) TCP 192.168.1.70:20256 > 129.237.161.212:62 S ttl=64 id=32911 iplen=40  seq=1364350219 win=1480 
+RCVD (0.0503s) TCP 129.237.161.212:62 > 192.168.1.70:20256 SA ttl=52 id=0 iplen=44  seq=3909950360 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 17.044ms | Min rtt: 17.044ms | Avg rtt: 17.044ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.10 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:55
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0323s) TCP 192.168.1.70:19409 > 129.237.161.212:62 S ttl=64 id=58619 iplen=40  seq=2384075030 win=1480 
+RCVD (0.0513s) TCP 129.237.161.212:62 > 192.168.1.70:19409 SA ttl=52 id=0 iplen=44  seq=3616785926 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 19.031ms | Min rtt: 19.031ms | Avg rtt: 19.031ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:56
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0396s) TCP 192.168.1.70:6272 > 129.237.161.212:62 S ttl=64 id=775 iplen=40  seq=4079511206 win=1480 
+RCVD (0.0587s) TCP 129.237.161.212:62 > 192.168.1.70:6272 SA ttl=52 id=0 iplen=44  seq=187529252 win=64240 <mss 1460>
+comms
+ 
+Max rtt: 19.013ms | Min rtt: 19.013ms | Avg rtt: 19.013ms
+Raw packets sent: 1 (40B) | Rcvd: 1 (46B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 1.11 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:56
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0318s) TCP 192.168.1.70:49672 > 129.237.161.212:62 S ttl=64 id=31554 iplen=40  seq=1855722226 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:57
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0259s) TCP 192.168.1.70:22229 > 129.237.161.212:62 S ttl=64 id=47688 iplen=40  seq=3528118490 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:57
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0283s) TCP 192.168.1.70:34506 > 129.237.161.212:62 S ttl=64 id=3369 iplen=40  seq=3264264737 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:58
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0234s) TCP 192.168.1.70:7771 > 129.237.161.212:62 S ttl=64 id=36229 iplen=40  seq=3435350035 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.06 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:59
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0245s) TCP 192.168.1.70:18386 > 129.237.161.212:62 S ttl=64 id=26341 iplen=40  seq=4157076299 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:45:59
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0253s) TCP 192.168.1.70:14234 > 129.237.161.212:62 S ttl=64 id=8865 iplen=40  seq=3957953373 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.10 seconds
+
+
+Date and Time: 2025/Dec/17 17:46:00
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0286s) TCP 192.168.1.70:17773 > 129.237.161.212:62 S ttl=64 id=18299 iplen=40  seq=2083804572 win=1480 
+comms
+nping_event_handler(): READ-PCAP killed: Resource temporarily unavailable
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:46:00
+://nmap.org/nping ) at 2025-12-17 17:45 UTC
+SENT (0.0270s) TCP 192.168.1.70:1563 > 129.237.161.212:62 S ttl=64 id=46059 iplen=40  seq=1350936268 win=1480 
+comms
+nping_event_handler(): READ-PCAP killed: Resource temporarily unavailable
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:46:01
+://nmap.org/nping ) at 2025-12-17 17:46 UTC
+SENT (0.0356s) TCP 192.168.1.70:15497 > 129.237.161.212:62 S ttl=64 id=12224 iplen=40  seq=569453184 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:46:01
+://nmap.org/nping ) at 2025-12-17 17:46 UTC
+SENT (0.0228s) TCP 192.168.1.70:42824 > 129.237.161.212:62 S ttl=64 id=56964 iplen=40  seq=3149303777 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:46:02
+://nmap.org/nping ) at 2025-12-17 17:46 UTC
+SENT (0.0197s) TCP 192.168.1.70:7013 > 129.237.161.212:62 S ttl=64 id=37430 iplen=40  seq=3184864718 win=1480 
+comms
+nping_event_handler(): READ-PCAP killed: Resource temporarily unavailable
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:46:02
+://nmap.org/nping ) at 2025-12-17 17:46 UTC
+SENT (0.0369s) TCP 192.168.1.70:19580 > 129.237.161.212:62 S ttl=64 id=42856 iplen=40  seq=2944557870 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:46:03
+://nmap.org/nping ) at 2025-12-17 17:46 UTC
+SENT (0.0382s) TCP 192.168.1.70:44036 > 129.237.161.212:62 S ttl=64 id=18570 iplen=40  seq=3647758950 win=1480 
+comms
+nping_event_handler(): READ-PCAP killed: Resource temporarily unavailable
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:46:03
+://nmap.org/nping ) at 2025-12-17 17:46 UTC
+SENT (0.0343s) TCP 192.168.1.70:55386 > 129.237.161.212:62 S ttl=64 id=45282 iplen=40  seq=3831174865 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:46:04
+://nmap.org/nping ) at 2025-12-17 17:46 UTC
+SENT (0.0337s) TCP 192.168.1.70:21507 > 129.237.161.212:62 S ttl=64 id=8599 iplen=40  seq=3874373470 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:46:05
+://nmap.org/nping ) at 2025-12-17 17:46 UTC
+SENT (0.0364s) TCP 192.168.1.70:62150 > 129.237.161.212:62 S ttl=64 id=48957 iplen=40  seq=3668994886 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.10 seconds
+
+
+Date and Time: 2025/Dec/17 17:46:05
+://nmap.org/nping ) at 2025-12-17 17:46 UTC
+SENT (0.0286s) TCP 192.168.1.70:58230 > 129.237.161.212:62 S ttl=64 id=37813 iplen=40  seq=3328970024 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:46:06
+://nmap.org/nping ) at 2025-12-17 17:46 UTC
+SENT (0.0240s) TCP 192.168.1.70:27474 > 129.237.161.212:62 S ttl=64 id=58680 iplen=40  seq=1860554201 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:46:06
+://nmap.org/nping ) at 2025-12-17 17:46 UTC
+SENT (0.0441s) TCP 192.168.1.70:52351 > 129.237.161.212:62 S ttl=64 id=885 iplen=40  seq=3699442299 win=1480 
+comms
+nping_event_handler(): READ-PCAP killed: Resource temporarily unavailable
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.10 seconds
+
+
+Date and Time: 2025/Dec/17 17:46:07
+://nmap.org/nping ) at 2025-12-17 17:46 UTC
+SENT (0.0392s) TCP 192.168.1.70:23770 > 129.237.161.212:62 S ttl=64 id=63404 iplen=40  seq=656566509 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:46:07
+://nmap.org/nping ) at 2025-12-17 17:46 UTC
+SENT (0.0256s) TCP 192.168.1.70:26824 > 129.237.161.212:62 S ttl=64 id=26222 iplen=40  seq=364260928 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:46:08
+://nmap.org/nping ) at 2025-12-17 17:46 UTC
+SENT (0.0314s) TCP 192.168.1.70:45685 > 129.237.161.212:62 S ttl=64 id=41884 iplen=40  seq=2043462203 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:46:08
+://nmap.org/nping ) at 2025-12-17 17:46 UTC
+SENT (0.0285s) TCP 192.168.1.70:57528 > 129.237.161.212:62 S ttl=64 id=1531 iplen=40  seq=1418987761 win=1480 
+comms
+nping_event_handler(): READ-PCAP killed: Resource temporarily unavailable
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:46:09
+://nmap.org/nping ) at 2025-12-17 17:46 UTC
+SENT (0.0374s) TCP 192.168.1.70:28481 > 129.237.161.212:62 S ttl=64 id=49596 iplen=40  seq=2639286695 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:46:10
+://nmap.org/nping ) at 2025-12-17 17:46 UTC
+SENT (0.0310s) TCP 192.168.1.70:65418 > 129.237.161.212:62 S ttl=64 id=365 iplen=40  seq=992204864 win=1480 
+comms
+nping_event_handler(): READ-PCAP killed: Resource temporarily unavailable
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:46:10
+://nmap.org/nping ) at 2025-12-17 17:46 UTC
+SENT (0.0283s) TCP 192.168.1.70:63150 > 129.237.161.212:62 S ttl=64 id=3512 iplen=40  seq=921357840 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:46:11
+://nmap.org/nping ) at 2025-12-17 17:46 UTC
+SENT (0.0292s) TCP 192.168.1.70:54200 > 129.237.161.212:62 S ttl=64 id=42031 iplen=40  seq=3573119276 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:46:11
+://nmap.org/nping ) at 2025-12-17 17:46 UTC
+SENT (0.0348s) TCP 192.168.1.70:14061 > 129.237.161.212:62 S ttl=64 id=19781 iplen=40  seq=1676320270 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.10 seconds
+
+
+Date and Time: 2025/Dec/17 17:46:12
+://nmap.org/nping ) at 2025-12-17 17:46 UTC
+SENT (0.0302s) TCP 192.168.1.70:29075 > 129.237.161.212:62 S ttl=64 id=9406 iplen=40  seq=775996341 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:46:12
+://nmap.org/nping ) at 2025-12-17 17:46 UTC
+SENT (0.0276s) TCP 192.168.1.70:23030 > 129.237.161.212:62 S ttl=64 id=31221 iplen=40  seq=3326618166 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:46:13
+://nmap.org/nping ) at 2025-12-17 17:46 UTC
+SENT (0.0258s) TCP 192.168.1.70:65515 > 129.237.161.212:62 S ttl=64 id=8292 iplen=40  seq=3637113898 win=1480 
+comms
+nping_event_handler(): READ-PCAP killed: Resource temporarily unavailable
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:46:13
+://nmap.org/nping ) at 2025-12-17 17:46 UTC
+SENT (0.0199s) TCP 192.168.1.70:22286 > 129.237.161.212:62 S ttl=64 id=1660 iplen=40  seq=1690482572 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:46:14
+://nmap.org/nping ) at 2025-12-17 17:46 UTC
+SENT (0.0262s) TCP 192.168.1.70:44754 > 129.237.161.212:62 S ttl=64 id=39999 iplen=40  seq=3432332809 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:46:14
+://nmap.org/nping ) at 2025-12-17 17:46 UTC
+SENT (0.0254s) TCP 192.168.1.70:65461 > 129.237.161.212:62 S ttl=64 id=3202 iplen=40  seq=3871748059 win=1480 
+comms
+nping_event_handler(): READ-PCAP killed: Resource temporarily unavailable
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:46:15
+://nmap.org/nping ) at 2025-12-17 17:46 UTC
+SENT (0.0303s) TCP 192.168.1.70:55205 > 129.237.161.212:62 S ttl=64 id=61940 iplen=40  seq=1165105383 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:46:16
+://nmap.org/nping ) at 2025-12-17 17:46 UTC
+SENT (0.0380s) TCP 192.168.1.70:61026 > 129.237.161.212:62 S ttl=64 id=56304 iplen=40  seq=3818122379 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.11 seconds
+
+
+Date and Time: 2025/Dec/17 17:46:16
+://nmap.org/nping ) at 2025-12-17 17:46 UTC
+SENT (0.0351s) TCP 192.168.1.70:49289 > 129.237.161.212:62 S ttl=64 id=45869 iplen=40  seq=149557454 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.10 seconds
+
+
+Date and Time: 2025/Dec/17 17:46:17
+://nmap.org/nping ) at 2025-12-17 17:46 UTC
+SENT (0.0228s) TCP 192.168.1.70:19514 > 129.237.161.212:62 S ttl=64 id=54646 iplen=40  seq=873628163 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:46:17
+://nmap.org/nping ) at 2025-12-17 17:46 UTC
+SENT (0.0450s) TCP 192.168.1.70:24940 > 129.237.161.212:62 S ttl=64 id=12821 iplen=40  seq=1855259123 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.10 seconds
+
+
+Date and Time: 2025/Dec/17 17:46:18
+://nmap.org/nping ) at 2025-12-17 17:46 UTC
+SENT (0.0303s) TCP 192.168.1.70:15048 > 129.237.161.212:62 S ttl=64 id=47020 iplen=40  seq=1270162444 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+Date and Time: 2025/Dec/17 17:46:18
+://nmap.org/nping ) at 2025-12-17 17:46 UTC
+SENT (0.0227s) TCP 192.168.1.70:19069 > 129.237.161.212:62 S ttl=64 id=5221 iplen=40  seq=2721371394 win=1480 
+comms
+nping_event_handler(): READ-PCAP killed: Resource temporarily unavailable
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.06 seconds
+
+
+Date and Time: 2025/Dec/17 17:46:19
+://nmap.org/nping ) at 2025-12-17 17:46 UTC
+SENT (0.0371s) TCP 192.168.1.70:49685 > 129.237.161.212:62 S ttl=64 id=61770 iplen=40  seq=2245720334 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.10 seconds
+
+
+Date and Time: 2025/Dec/17 17:46:19
+://nmap.org/nping ) at 2025-12-17 17:46 UTC
+SENT (0.0255s) TCP 192.168.1.70:7824 > 129.237.161.212:62 S ttl=64 id=34 iplen=40  seq=1669641177 win=1480 
+comms
+nping_event_handler(): READ-PCAP killed: Resource temporarily unavailable
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.10 seconds
+
+
+Date and Time: 2025/Dec/17 17:46:20
+://nmap.org/nping ) at 2025-12-17 17:46 UTC
+SENT (0.0320s) TCP 192.168.1.70:2016 > 129.237.161.212:62 S ttl=64 id=25256 iplen=40  seq=3013763552 win=1480 
+comms
+nping_event_handler(): READ-PCAP killed: Resource temporarily unavailable
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:46:20
+://nmap.org/nping ) at 2025-12-17 17:46 UTC
+SENT (0.0339s) TCP 192.168.1.70:1462 > 129.237.161.212:62 S ttl=64 id=20471 iplen=40  seq=3946443252 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:46:21
+://nmap.org/nping ) at 2025-12-17 17:46 UTC
+SENT (0.0349s) TCP 192.168.1.70:24174 > 129.237.161.212:62 S ttl=64 id=9588 iplen=40  seq=47876792 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.08 seconds
+
+
+Date and Time: 2025/Dec/17 17:46:22
+://nmap.org/nping ) at 2025-12-17 17:46 UTC
+SENT (0.0354s) TCP 192.168.1.70:46128 > 129.237.161.212:62 S ttl=64 id=42567 iplen=40  seq=1260648676 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.09 seconds
+
+
+Date and Time: 2025/Dec/17 17:46:22
+://nmap.org/nping ) at 2025-12-17 17:46 UTC
+SENT (0.0339s) TCP 192.168.1.70:64364 > 129.237.161.212:62 S ttl=64 id=26440 iplen=40  seq=2649769755 win=1480 
+comms
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 1 (40B) | Rcvd: 0 (0B) | Lost: 1 (100.00%)
+Nping done: 1 IP address pinged in 1.07 seconds
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

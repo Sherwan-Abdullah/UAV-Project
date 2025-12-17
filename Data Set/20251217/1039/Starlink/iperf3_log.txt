@@ -1,0 +1,694 @@
+Connecting to host 129.237.161.212, port 5202
+[  5] local 192.168.1.70 port 52658 connected to 129.237.161.212 port 5202
+[  7] local 192.168.1.70 port 52666 connected to 129.237.161.212 port 5202
+[ ID][Role] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5][TX-C]   0.00-1.00   sec  1.93 MBytes  16.2 Mbits/sec    3   51.3 KBytes       
+[  7][RX-C]   0.00-1.00   sec  9.29 MBytes  77.9 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID][Role] Interval           Transfer     Bitrate         Retr
+[  5][TX-C]   0.00-1.00   sec  1.93 MBytes  16.2 Mbits/sec    3             sender
+[  5][TX-C]   0.00-1.03   sec  1.60 MBytes  13.1 Mbits/sec                  receiver
+[  7][RX-C]   0.00-1.00   sec  11.3 MBytes  94.6 Mbits/sec    3             sender
+[  7][RX-C]   0.00-1.03   sec  9.29 MBytes  76.0 Mbits/sec                  receiver
+
+iperf Done.
+2025/Dec/17 17:43:34
+Connecting to host 129.237.161.212, port 5202
+[  5] local 192.168.1.70 port 52686 connected to 129.237.161.212 port 5202
+[  7] local 192.168.1.70 port 52698 connected to 129.237.161.212 port 5202
+[ ID][Role] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5][TX-C]   0.00-1.00   sec  1.99 MBytes  16.7 Mbits/sec   12   39.9 KBytes       
+[  7][RX-C]   0.00-1.00   sec  10.1 MBytes  84.4 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID][Role] Interval           Transfer     Bitrate         Retr
+[  5][TX-C]   0.00-1.00   sec  1.99 MBytes  16.7 Mbits/sec   12             sender
+[  5][TX-C]   0.00-1.03   sec  1.52 MBytes  12.4 Mbits/sec                  receiver
+[  7][RX-C]   0.00-1.00   sec  12.7 MBytes   107 Mbits/sec    2             sender
+[  7][RX-C]   0.00-1.03   sec  10.1 MBytes  82.2 Mbits/sec                  receiver
+
+iperf Done.
+2025/Dec/17 17:43:37
+Connecting to host 129.237.161.212, port 5202
+[  5] local 192.168.1.70 port 52710 connected to 129.237.161.212 port 5202
+[  7] local 192.168.1.70 port 52720 connected to 129.237.161.212 port 5202
+[ ID][Role] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5][TX-C]   0.00-1.00   sec  3.25 MBytes  27.3 Mbits/sec    7   55.6 KBytes       
+[  7][RX-C]   0.00-1.00   sec  7.86 MBytes  65.9 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID][Role] Interval           Transfer     Bitrate         Retr
+[  5][TX-C]   0.00-1.00   sec  3.25 MBytes  27.3 Mbits/sec    7             sender
+[  5][TX-C]   0.00-1.02   sec  2.30 MBytes  19.0 Mbits/sec                  receiver
+[  7][RX-C]   0.00-1.00   sec  9.76 MBytes  81.8 Mbits/sec   12             sender
+[  7][RX-C]   0.00-1.02   sec  7.86 MBytes  64.7 Mbits/sec                  receiver
+
+iperf Done.
+2025/Dec/17 17:43:40
+Connecting to host 129.237.161.212, port 5202
+[  5] local 192.168.1.70 port 44142 connected to 129.237.161.212 port 5202
+[  7] local 192.168.1.70 port 44158 connected to 129.237.161.212 port 5202
+[ ID][Role] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5][TX-C]   0.00-1.00   sec  1.96 MBytes  16.5 Mbits/sec    2   54.2 KBytes       
+[  7][RX-C]   0.00-1.00   sec  7.65 MBytes  64.2 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID][Role] Interval           Transfer     Bitrate         Retr
+[  5][TX-C]   0.00-1.00   sec  1.96 MBytes  16.5 Mbits/sec    2             sender
+[  5][TX-C]   0.00-1.02   sec  1.66 MBytes  13.7 Mbits/sec                  receiver
+[  7][RX-C]   0.00-1.00   sec  10.1 MBytes  84.3 Mbits/sec    0             sender
+[  7][RX-C]   0.00-1.02   sec  7.65 MBytes  63.0 Mbits/sec                  receiver
+
+iperf Done.
+2025/Dec/17 17:43:43
+Connecting to host 129.237.161.212, port 5202
+[  5] local 192.168.1.70 port 44166 connected to 129.237.161.212 port 5202
+[  7] local 192.168.1.70 port 44182 connected to 129.237.161.212 port 5202
+[ ID][Role] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5][TX-C]   0.00-1.00   sec  2.46 MBytes  20.6 Mbits/sec    4   51.3 KBytes       
+[  7][RX-C]   0.00-1.00   sec  6.35 MBytes  53.3 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID][Role] Interval           Transfer     Bitrate         Retr
+[  5][TX-C]   0.00-1.00   sec  2.46 MBytes  20.6 Mbits/sec    4             sender
+[  5][TX-C]   0.00-1.03   sec  1.91 MBytes  15.5 Mbits/sec                  receiver
+[  7][RX-C]   0.00-1.00   sec  7.99 MBytes  67.1 Mbits/sec    1             sender
+[  7][RX-C]   0.00-1.03   sec  6.35 MBytes  51.7 Mbits/sec                  receiver
+
+iperf Done.
+2025/Dec/17 17:43:46
+Connecting to host 129.237.161.212, port 5202
+[  5] local 192.168.1.70 port 44202 connected to 129.237.161.212 port 5202
+[  7] local 192.168.1.70 port 44204 connected to 129.237.161.212 port 5202
+[ ID][Role] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5][TX-C]   0.00-1.00   sec  2.66 MBytes  22.3 Mbits/sec    3   58.5 KBytes       
+[  7][RX-C]   0.00-1.00   sec  8.70 MBytes  72.9 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID][Role] Interval           Transfer     Bitrate         Retr
+[  5][TX-C]   0.00-1.00   sec  2.66 MBytes  22.3 Mbits/sec    3             sender
+[  5][TX-C]   0.00-1.02   sec  2.16 MBytes  17.7 Mbits/sec                  receiver
+[  7][RX-C]   0.00-1.00   sec  10.6 MBytes  89.1 Mbits/sec    1             sender
+[  7][RX-C]   0.00-1.02   sec  8.70 MBytes  71.3 Mbits/sec                  receiver
+
+iperf Done.
+2025/Dec/17 17:43:49
+Connecting to host 129.237.161.212, port 5202
+[  5] local 192.168.1.70 port 50380 connected to 129.237.161.212 port 5202
+[  7] local 192.168.1.70 port 50392 connected to 129.237.161.212 port 5202
+[ ID][Role] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5][TX-C]   0.00-1.00   sec  2.18 MBytes  18.3 Mbits/sec    4   51.3 KBytes       
+[  7][RX-C]   0.00-1.00   sec  11.9 MBytes  99.6 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID][Role] Interval           Transfer     Bitrate         Retr
+[  5][TX-C]   0.00-1.00   sec  2.18 MBytes  18.3 Mbits/sec    4             sender
+[  5][TX-C]   0.00-1.03   sec  1.86 MBytes  15.2 Mbits/sec                  receiver
+[  7][RX-C]   0.00-1.00   sec  14.8 MBytes   124 Mbits/sec    1             sender
+[  7][RX-C]   0.00-1.03   sec  11.9 MBytes  97.1 Mbits/sec                  receiver
+
+iperf Done.
+2025/Dec/17 17:43:52
+Connecting to host 129.237.161.212, port 5202
+[  5] local 192.168.1.70 port 50416 connected to 129.237.161.212 port 5202
+[  7] local 192.168.1.70 port 50430 connected to 129.237.161.212 port 5202
+[ ID][Role] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5][TX-C]   0.00-1.00   sec  1.83 MBytes  15.4 Mbits/sec    1   58.5 KBytes       
+[  7][RX-C]   0.00-1.00   sec  11.2 MBytes  93.6 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID][Role] Interval           Transfer     Bitrate         Retr
+[  5][TX-C]   0.00-1.00   sec  1.83 MBytes  15.4 Mbits/sec    1             sender
+[  5][TX-C]   0.00-1.02   sec  1.59 MBytes  13.0 Mbits/sec                  receiver
+[  7][RX-C]   0.00-1.00   sec  13.5 MBytes   114 Mbits/sec    0             sender
+[  7][RX-C]   0.00-1.02   sec  11.2 MBytes  91.6 Mbits/sec                  receiver
+
+iperf Done.
+2025/Dec/17 17:43:55
+Connecting to host 129.237.161.212, port 5202
+[  5] local 192.168.1.70 port 50434 connected to 129.237.161.212 port 5202
+[  7] local 192.168.1.70 port 50442 connected to 129.237.161.212 port 5202
+[ ID][Role] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5][TX-C]   0.00-1.00   sec  1.09 MBytes  9.11 Mbits/sec    5   18.5 KBytes       
+[  7][RX-C]   0.00-1.00   sec  8.63 MBytes  72.4 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID][Role] Interval           Transfer     Bitrate         Retr
+[  5][TX-C]   0.00-1.00   sec  1.09 MBytes  9.11 Mbits/sec    5             sender
+[  5][TX-C]   0.00-1.03   sec   867 KBytes  6.91 Mbits/sec                  receiver
+[  7][RX-C]   0.00-1.00   sec  11.0 MBytes  92.2 Mbits/sec    0             sender
+[  7][RX-C]   0.00-1.03   sec  8.63 MBytes  70.5 Mbits/sec                  receiver
+
+iperf Done.
+2025/Dec/17 17:43:58
+Connecting to host 129.237.161.212, port 5202
+[  5] local 192.168.1.70 port 56236 connected to 129.237.161.212 port 5202
+[  7] local 192.168.1.70 port 56242 connected to 129.237.161.212 port 5202
+[ ID][Role] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5][TX-C]   0.00-1.00   sec  2.40 MBytes  20.2 Mbits/sec    6   47.1 KBytes       
+[  7][RX-C]   0.00-1.00   sec  4.22 MBytes  35.4 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID][Role] Interval           Transfer     Bitrate         Retr
+[  5][TX-C]   0.00-1.00   sec  2.40 MBytes  20.2 Mbits/sec    6             sender
+[  5][TX-C]   0.00-1.02   sec  1.99 MBytes  16.3 Mbits/sec                  receiver
+[  7][RX-C]   0.00-1.00   sec  5.11 MBytes  42.9 Mbits/sec    1             sender
+[  7][RX-C]   0.00-1.02   sec  4.22 MBytes  34.6 Mbits/sec                  receiver
+
+iperf Done.
+2025/Dec/17 17:44:01
+Connecting to host 129.237.161.212, port 5202
+[  5] local 192.168.1.70 port 56252 connected to 129.237.161.212 port 5202
+[  7] local 192.168.1.70 port 56264 connected to 129.237.161.212 port 5202
+[ ID][Role] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5][TX-C]   0.00-1.00   sec  1.85 MBytes  15.5 Mbits/sec   10   17.1 KBytes       
+[  7][RX-C]   0.00-1.00   sec  5.23 MBytes  43.8 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID][Role] Interval           Transfer     Bitrate         Retr
+[  5][TX-C]   0.00-1.00   sec  1.85 MBytes  15.5 Mbits/sec   10             sender
+[  5][TX-C]   0.00-1.03   sec  1.42 MBytes  11.6 Mbits/sec                  receiver
+[  7][RX-C]   0.00-1.00   sec  6.74 MBytes  56.5 Mbits/sec    1             sender
+[  7][RX-C]   0.00-1.03   sec  5.23 MBytes  42.8 Mbits/sec                  receiver
+
+iperf Done.
+2025/Dec/17 17:44:04
+Connecting to host 129.237.161.212, port 5202
+[  5] local 192.168.1.70 port 56270 connected to 129.237.161.212 port 5202
+[  7] local 192.168.1.70 port 56284 connected to 129.237.161.212 port 5202
+[ ID][Role] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5][TX-C]   0.00-1.00   sec  1.37 MBytes  11.5 Mbits/sec    4   32.8 KBytes       
+[  7][RX-C]   0.00-1.00   sec  6.29 MBytes  52.8 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID][Role] Interval           Transfer     Bitrate         Retr
+[  5][TX-C]   0.00-1.00   sec  1.37 MBytes  11.5 Mbits/sec    4             sender
+[  5][TX-C]   0.00-1.03   sec  1.02 MBytes  8.32 Mbits/sec                  receiver
+[  7][RX-C]   0.00-1.00   sec  8.27 MBytes  69.4 Mbits/sec    0             sender
+[  7][RX-C]   0.00-1.03   sec  6.29 MBytes  51.2 Mbits/sec                  receiver
+
+iperf Done.
+2025/Dec/17 17:44:07
+Connecting to host 129.237.161.212, port 5202
+[  5] local 192.168.1.70 port 56300 connected to 129.237.161.212 port 5202
+[  7] local 192.168.1.70 port 56314 connected to 129.237.161.212 port 5202
+[ ID][Role] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5][TX-C]   0.00-1.00   sec  1.45 MBytes  12.1 Mbits/sec   14   17.1 KBytes       
+[  7][RX-C]   0.00-1.00   sec  8.24 MBytes  69.0 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID][Role] Interval           Transfer     Bitrate         Retr
+[  5][TX-C]   0.00-1.00   sec  1.45 MBytes  12.1 Mbits/sec   14             sender
+[  5][TX-C]   0.00-1.02   sec  1.06 MBytes  8.65 Mbits/sec                  receiver
+[  7][RX-C]   0.00-1.00   sec  11.1 MBytes  92.9 Mbits/sec    0             sender
+[  7][RX-C]   0.00-1.02   sec  8.24 MBytes  67.6 Mbits/sec                  receiver
+
+iperf Done.
+2025/Dec/17 17:44:09
+Connecting to host 129.237.161.212, port 5202
+[  5] local 192.168.1.70 port 56776 connected to 129.237.161.212 port 5202
+[  7] local 192.168.1.70 port 56792 connected to 129.237.161.212 port 5202
+[ ID][Role] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5][TX-C]   0.00-1.00   sec  1.08 MBytes  9.05 Mbits/sec    5   31.4 KBytes       
+[  7][RX-C]   0.00-1.00   sec  6.37 MBytes  53.4 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID][Role] Interval           Transfer     Bitrate         Retr
+[  5][TX-C]   0.00-1.00   sec  1.08 MBytes  9.05 Mbits/sec    5             sender
+[  5][TX-C]   0.00-1.03   sec   797 KBytes  6.35 Mbits/sec                  receiver
+[  7][RX-C]   0.00-1.00   sec  9.02 MBytes  75.7 Mbits/sec    0             sender
+[  7][RX-C]   0.00-1.03   sec  6.37 MBytes  51.9 Mbits/sec                  receiver
+
+iperf Done.
+2025/Dec/17 17:44:12
+Connecting to host 129.237.161.212, port 5202
+[  5] local 192.168.1.70 port 56812 connected to 129.237.161.212 port 5202
+[  7] local 192.168.1.70 port 56826 connected to 129.237.161.212 port 5202
+[ ID][Role] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5][TX-C]   0.00-1.00   sec  1.44 MBytes  12.1 Mbits/sec    4   28.5 KBytes       
+[  7][RX-C]   0.00-1.00   sec  6.84 MBytes  57.3 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID][Role] Interval           Transfer     Bitrate         Retr
+[  5][TX-C]   0.00-1.00   sec  1.44 MBytes  12.1 Mbits/sec    4             sender
+[  5][TX-C]   0.00-1.02   sec  1.15 MBytes  9.45 Mbits/sec                  receiver
+[  7][RX-C]   0.00-1.00   sec  8.81 MBytes  73.9 Mbits/sec    0             sender
+[  7][RX-C]   0.00-1.02   sec  6.84 MBytes  56.1 Mbits/sec                  receiver
+
+iperf Done.
+2025/Dec/17 17:44:15
+Connecting to host 129.237.161.212, port 5202
+[  5] local 192.168.1.70 port 56846 connected to 129.237.161.212 port 5202
+[  7] local 192.168.1.70 port 56858 connected to 129.237.161.212 port 5202
+[ ID][Role] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5][TX-C]   0.00-1.00   sec  1.20 MBytes  10.0 Mbits/sec    8   21.4 KBytes       
+[  7][RX-C]   0.00-1.00   sec  4.43 MBytes  37.1 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID][Role] Interval           Transfer     Bitrate         Retr
+[  5][TX-C]   0.00-1.00   sec  1.20 MBytes  10.0 Mbits/sec    8             sender
+[  5][TX-C]   0.00-1.02   sec   967 KBytes  7.76 Mbits/sec                  receiver
+[  7][RX-C]   0.00-1.00   sec  5.98 MBytes  50.2 Mbits/sec    2             sender
+[  7][RX-C]   0.00-1.02   sec  4.43 MBytes  36.4 Mbits/sec                  receiver
+
+iperf Done.
+2025/Dec/17 17:44:18
+Connecting to host 129.237.161.212, port 5202
+[  5] local 192.168.1.70 port 40534 connected to 129.237.161.212 port 5202
+[  7] local 192.168.1.70 port 40548 connected to 129.237.161.212 port 5202
+[ ID][Role] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5][TX-C]   0.00-1.00   sec  1.09 MBytes  9.10 Mbits/sec    6   1.43 KBytes       
+[  7][RX-C]   0.00-1.00   sec   615 KBytes  5.03 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID][Role] Interval           Transfer     Bitrate         Retr
+[  5][TX-C]   0.00-1.00   sec  1.09 MBytes  9.10 Mbits/sec    6             sender
+[  5][TX-C]   0.00-1.58   sec   663 KBytes  3.44 Mbits/sec                  receiver
+[  7][RX-C]   0.00-1.00   sec   994 KBytes  8.14 Mbits/sec   42             sender
+[  7][RX-C]   0.00-1.58   sec   615 KBytes  3.19 Mbits/sec                  receiver
+
+iperf Done.
+2025/Dec/17 17:44:21
+Connecting to host 129.237.161.212, port 5202
+[  5] local 192.168.1.70 port 40568 connected to 129.237.161.212 port 5202
+[  7] local 192.168.1.70 port 40576 connected to 129.237.161.212 port 5202
+[ ID][Role] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5][TX-C]   0.00-1.00   sec  1.34 MBytes  11.3 Mbits/sec    5   37.1 KBytes       
+[  7][RX-C]   0.00-1.00   sec  3.82 MBytes  32.0 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID][Role] Interval           Transfer     Bitrate         Retr
+[  5][TX-C]   0.00-1.00   sec  1.34 MBytes  11.3 Mbits/sec    5             sender
+[  5][TX-C]   0.00-1.02   sec  1.08 MBytes  8.86 Mbits/sec                  receiver
+[  7][RX-C]   0.00-1.00   sec  4.86 MBytes  40.8 Mbits/sec    7             sender
+[  7][RX-C]   0.00-1.02   sec  3.82 MBytes  31.3 Mbits/sec                  receiver
+
+iperf Done.
+2025/Dec/17 17:44:25
+Connecting to host 129.237.161.212, port 5202
+[  5] local 192.168.1.70 port 40588 connected to 129.237.161.212 port 5202
+[  7] local 192.168.1.70 port 40594 connected to 129.237.161.212 port 5202
+[ ID][Role] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5][TX-C]   0.00-1.00   sec  2.46 MBytes  20.6 Mbits/sec    4   64.2 KBytes       
+[  7][RX-C]   0.00-1.00   sec  8.04 MBytes  67.4 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID][Role] Interval           Transfer     Bitrate         Retr
+[  5][TX-C]   0.00-1.00   sec  2.46 MBytes  20.6 Mbits/sec    4             sender
+[  5][TX-C]   0.00-1.02   sec  2.05 MBytes  16.8 Mbits/sec                  receiver
+[  7][RX-C]   0.00-1.00   sec  9.71 MBytes  81.4 Mbits/sec    1             sender
+[  7][RX-C]   0.00-1.02   sec  8.04 MBytes  66.0 Mbits/sec                  receiver
+
+iperf Done.
+2025/Dec/17 17:44:27
+Connecting to host 129.237.161.212, port 5202
+[  5] local 192.168.1.70 port 40612 connected to 129.237.161.212 port 5202
+[  7] local 192.168.1.70 port 41568 connected to 129.237.161.212 port 5202
+[ ID][Role] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5][TX-C]   0.00-1.00   sec  3.44 MBytes  28.8 Mbits/sec   14   49.9 KBytes       
+[  7][RX-C]   0.00-1.00   sec  10.4 MBytes  87.1 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID][Role] Interval           Transfer     Bitrate         Retr
+[  5][TX-C]   0.00-1.00   sec  3.44 MBytes  28.8 Mbits/sec   14             sender
+[  5][TX-C]   0.00-1.02   sec  2.17 MBytes  17.8 Mbits/sec                  receiver
+[  7][RX-C]   0.00-1.00   sec  13.3 MBytes   112 Mbits/sec    1             sender
+[  7][RX-C]   0.00-1.02   sec  10.4 MBytes  85.1 Mbits/sec                  receiver
+
+iperf Done.
+2025/Dec/17 17:44:30
+Connecting to host 129.237.161.212, port 5202
+[  5] local 192.168.1.70 port 41590 connected to 129.237.161.212 port 5202
+[  7] local 192.168.1.70 port 41602 connected to 129.237.161.212 port 5202
+[ ID][Role] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5][TX-C]   0.00-1.00   sec  2.37 MBytes  19.8 Mbits/sec    3   72.7 KBytes       
+[  7][RX-C]   0.00-1.00   sec  5.45 MBytes  45.7 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID][Role] Interval           Transfer     Bitrate         Retr
+[  5][TX-C]   0.00-1.00   sec  2.37 MBytes  19.8 Mbits/sec    3             sender
+[  5][TX-C]   0.00-1.02   sec  1.93 MBytes  15.8 Mbits/sec                  receiver
+[  7][RX-C]   0.00-1.00   sec  6.78 MBytes  56.9 Mbits/sec   16             sender
+[  7][RX-C]   0.00-1.02   sec  5.45 MBytes  44.6 Mbits/sec                  receiver
+
+iperf Done.
+2025/Dec/17 17:44:33
+Connecting to host 129.237.161.212, port 5202
+[  5] local 192.168.1.70 port 41620 connected to 129.237.161.212 port 5202
+[  7] local 192.168.1.70 port 41624 connected to 129.237.161.212 port 5202
+[ ID][Role] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5][TX-C]   0.00-1.00   sec  4.14 MBytes  34.7 Mbits/sec    8   55.6 KBytes       
+[  7][RX-C]   0.00-1.00   sec  3.73 MBytes  31.3 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID][Role] Interval           Transfer     Bitrate         Retr
+[  5][TX-C]   0.00-1.00   sec  4.14 MBytes  34.7 Mbits/sec    8             sender
+[  5][TX-C]   0.00-1.02   sec  3.03 MBytes  24.8 Mbits/sec                  receiver
+[  7][RX-C]   0.00-1.00   sec  4.46 MBytes  37.3 Mbits/sec    2             sender
+[  7][RX-C]   0.00-1.02   sec  3.73 MBytes  30.6 Mbits/sec                  receiver
+
+iperf Done.
+2025/Dec/17 17:44:36
+Connecting to host 129.237.161.212, port 5202
+[  5] local 192.168.1.70 port 41642 connected to 129.237.161.212 port 5202
+[  7] local 192.168.1.70 port 41654 connected to 129.237.161.212 port 5202
+[ ID][Role] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5][TX-C]   0.00-1.00   sec  2.38 MBytes  20.0 Mbits/sec    7   64.2 KBytes       
+[  7][RX-C]   0.00-1.00   sec  9.12 MBytes  76.5 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID][Role] Interval           Transfer     Bitrate         Retr
+[  5][TX-C]   0.00-1.00   sec  2.38 MBytes  20.0 Mbits/sec    7             sender
+[  5][TX-C]   0.00-1.03   sec  1.76 MBytes  14.4 Mbits/sec                  receiver
+[  7][RX-C]   0.00-1.00   sec  11.6 MBytes  97.0 Mbits/sec    4             sender
+[  7][RX-C]   0.00-1.03   sec  9.12 MBytes  74.5 Mbits/sec                  receiver
+
+iperf Done.
+2025/Dec/17 17:44:39
+Connecting to host 129.237.161.212, port 5202
+[  5] local 192.168.1.70 port 47092 connected to 129.237.161.212 port 5202
+[  7] local 192.168.1.70 port 47104 connected to 129.237.161.212 port 5202
+[ ID][Role] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5][TX-C]   0.00-1.00   sec  2.48 MBytes  20.8 Mbits/sec    1   74.1 KBytes       
+[  7][RX-C]   0.00-1.00   sec  1.96 MBytes  16.4 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID][Role] Interval           Transfer     Bitrate         Retr
+[  5][TX-C]   0.00-1.00   sec  2.48 MBytes  20.8 Mbits/sec    1             sender
+[  5][TX-C]   0.00-1.02   sec  2.12 MBytes  17.4 Mbits/sec                  receiver
+[  7][RX-C]   0.00-1.00   sec  2.91 MBytes  24.4 Mbits/sec   22             sender
+[  7][RX-C]   0.00-1.02   sec  1.96 MBytes  16.0 Mbits/sec                  receiver
+
+iperf Done.
+2025/Dec/17 17:44:42
+Connecting to host 129.237.161.212, port 5202
+[  5] local 192.168.1.70 port 47124 connected to 129.237.161.212 port 5202
+[  7] local 192.168.1.70 port 47130 connected to 129.237.161.212 port 5202
+[ ID][Role] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5][TX-C]   0.00-1.00   sec  2.43 MBytes  20.4 Mbits/sec    1   74.1 KBytes       
+[  7][RX-C]   0.00-1.00   sec  4.60 MBytes  38.6 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID][Role] Interval           Transfer     Bitrate         Retr
+[  5][TX-C]   0.00-1.00   sec  2.43 MBytes  20.4 Mbits/sec    1             sender
+[  5][TX-C]   0.00-1.02   sec  2.04 MBytes  16.7 Mbits/sec                  receiver
+[  7][RX-C]   0.00-1.00   sec  6.77 MBytes  56.8 Mbits/sec   37             sender
+[  7][RX-C]   0.00-1.02   sec  4.60 MBytes  37.7 Mbits/sec                  receiver
+
+iperf Done.
+2025/Dec/17 17:44:45
+Connecting to host 129.237.161.212, port 5202
+[  5] local 192.168.1.70 port 47146 connected to 129.237.161.212 port 5202
+[  7] local 192.168.1.70 port 47156 connected to 129.237.161.212 port 5202
+[ ID][Role] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5][TX-C]   0.00-1.00   sec  2.49 MBytes  20.9 Mbits/sec    1   74.1 KBytes       
+[  7][RX-C]   0.00-1.00   sec  3.54 MBytes  29.7 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID][Role] Interval           Transfer     Bitrate         Retr
+[  5][TX-C]   0.00-1.00   sec  2.49 MBytes  20.9 Mbits/sec    1             sender
+[  5][TX-C]   0.00-1.03   sec  2.12 MBytes  17.3 Mbits/sec                  receiver
+[  7][RX-C]   0.00-1.00   sec  4.74 MBytes  39.7 Mbits/sec    4             sender
+[  7][RX-C]   0.00-1.03   sec  3.54 MBytes  28.9 Mbits/sec                  receiver
+
+iperf Done.
+2025/Dec/17 17:44:48
+Connecting to host 129.237.161.212, port 5202
+[  5] local 192.168.1.70 port 49166 connected to 129.237.161.212 port 5202
+[  7] local 192.168.1.70 port 49172 connected to 129.237.161.212 port 5202
+[ ID][Role] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5][TX-C]   0.00-1.00   sec  2.23 MBytes  18.7 Mbits/sec    2   52.8 KBytes       
+[  7][RX-C]   0.00-1.00   sec  8.17 MBytes  68.6 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID][Role] Interval           Transfer     Bitrate         Retr
+[  5][TX-C]   0.00-1.00   sec  2.23 MBytes  18.7 Mbits/sec    2             sender
+[  5][TX-C]   0.00-1.03   sec  1.84 MBytes  15.0 Mbits/sec                  receiver
+[  7][RX-C]   0.00-1.00   sec  10.0 MBytes  84.0 Mbits/sec    0             sender
+[  7][RX-C]   0.00-1.03   sec  8.17 MBytes  66.8 Mbits/sec                  receiver
+
+iperf Done.
+2025/Dec/17 17:44:51
+Connecting to host 129.237.161.212, port 5202
+[  5] local 192.168.1.70 port 49180 connected to 129.237.161.212 port 5202
+[  7] local 192.168.1.70 port 49182 connected to 129.237.161.212 port 5202
+[ ID][Role] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5][TX-C]   0.00-1.00   sec  2.10 MBytes  17.6 Mbits/sec    3   58.5 KBytes       
+[  7][RX-C]   0.00-1.00   sec  9.51 MBytes  79.7 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID][Role] Interval           Transfer     Bitrate         Retr
+[  5][TX-C]   0.00-1.00   sec  2.10 MBytes  17.6 Mbits/sec    3             sender
+[  5][TX-C]   0.00-1.03   sec  1.68 MBytes  13.7 Mbits/sec                  receiver
+[  7][RX-C]   0.00-1.00   sec  12.2 MBytes   102 Mbits/sec    0             sender
+[  7][RX-C]   0.00-1.03   sec  9.51 MBytes  77.7 Mbits/sec                  receiver
+
+iperf Done.
+2025/Dec/17 17:44:53
+Connecting to host 129.237.161.212, port 5202
+[  5] local 192.168.1.70 port 49208 connected to 129.237.161.212 port 5202
+[  7] local 192.168.1.70 port 49212 connected to 129.237.161.212 port 5202
+[ ID][Role] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5][TX-C]   0.00-1.00   sec  2.31 MBytes  19.4 Mbits/sec    3   55.6 KBytes       
+[  7][RX-C]   0.00-1.00   sec  4.81 MBytes  40.3 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID][Role] Interval           Transfer     Bitrate         Retr
+[  5][TX-C]   0.00-1.00   sec  2.31 MBytes  19.4 Mbits/sec    3             sender
+[  5][TX-C]   0.00-1.02   sec  1.96 MBytes  16.1 Mbits/sec                  receiver
+[  7][RX-C]   0.00-1.00   sec  5.69 MBytes  47.7 Mbits/sec    2             sender
+[  7][RX-C]   0.00-1.02   sec  4.81 MBytes  39.5 Mbits/sec                  receiver
+
+iperf Done.
+2025/Dec/17 17:44:56
+Connecting to host 129.237.161.212, port 5202
+[  5] local 192.168.1.70 port 49236 connected to 129.237.161.212 port 5202
+[  7] local 192.168.1.70 port 49248 connected to 129.237.161.212 port 5202
+[ ID][Role] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5][TX-C]   0.00-1.00   sec  2.35 MBytes  19.7 Mbits/sec    3   52.8 KBytes       
+[  7][RX-C]   0.00-1.00   sec  6.44 MBytes  54.0 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID][Role] Interval           Transfer     Bitrate         Retr
+[  5][TX-C]   0.00-1.00   sec  2.35 MBytes  19.7 Mbits/sec    3             sender
+[  5][TX-C]   0.00-1.02   sec  1.89 MBytes  15.5 Mbits/sec                  receiver
+[  7][RX-C]   0.00-1.00   sec  7.98 MBytes  66.9 Mbits/sec    1             sender
+[  7][RX-C]   0.00-1.02   sec  6.44 MBytes  52.8 Mbits/sec                  receiver
+
+iperf Done.
+2025/Dec/17 17:44:59
+Connecting to host 129.237.161.212, port 5202
+[  5] local 192.168.1.70 port 60046 connected to 129.237.161.212 port 5202
+[  7] local 192.168.1.70 port 60058 connected to 129.237.161.212 port 5202
+[ ID][Role] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5][TX-C]   0.00-1.00   sec  1.09 MBytes  9.16 Mbits/sec    2   44.2 KBytes       
+[  7][RX-C]   0.00-1.00   sec  6.41 MBytes  53.7 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID][Role] Interval           Transfer     Bitrate         Retr
+[  5][TX-C]   0.00-1.00   sec  1.09 MBytes  9.16 Mbits/sec    2             sender
+[  5][TX-C]   0.00-1.03   sec   975 KBytes  7.78 Mbits/sec                  receiver
+[  7][RX-C]   0.00-1.00   sec  7.99 MBytes  67.0 Mbits/sec    1             sender
+[  7][RX-C]   0.00-1.03   sec  6.41 MBytes  52.4 Mbits/sec                  receiver
+
+iperf Done.
+2025/Dec/17 17:45:02
+Connecting to host 129.237.161.212, port 5202
+[  5] local 192.168.1.70 port 60080 connected to 129.237.161.212 port 5202
+[  7] local 192.168.1.70 port 60094 connected to 129.237.161.212 port 5202
+[ ID][Role] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5][TX-C]   0.00-1.00   sec  2.19 MBytes  18.4 Mbits/sec    8   55.6 KBytes       
+[  7][RX-C]   0.00-1.00   sec  6.72 MBytes  56.4 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID][Role] Interval           Transfer     Bitrate         Retr
+[  5][TX-C]   0.00-1.00   sec  2.19 MBytes  18.4 Mbits/sec    8             sender
+[  5][TX-C]   0.00-1.02   sec  1.79 MBytes  14.7 Mbits/sec                  receiver
+[  7][RX-C]   0.00-1.00   sec  8.05 MBytes  67.5 Mbits/sec    0             sender
+[  7][RX-C]   0.00-1.02   sec  6.72 MBytes  55.1 Mbits/sec                  receiver
+
+iperf Done.
+2025/Dec/17 17:45:05
+Connecting to host 129.237.161.212, port 5202
+[  5] local 192.168.1.70 port 60118 connected to 129.237.161.212 port 5202
+[  7] local 192.168.1.70 port 60130 connected to 129.237.161.212 port 5202
+[ ID][Role] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5][TX-C]   0.00-1.00   sec  2.41 MBytes  20.2 Mbits/sec    1   75.6 KBytes       
+[  7][RX-C]   0.00-1.00   sec  4.99 MBytes  41.8 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID][Role] Interval           Transfer     Bitrate         Retr
+[  5][TX-C]   0.00-1.00   sec  2.41 MBytes  20.2 Mbits/sec    1             sender
+[  5][TX-C]   0.00-1.03   sec  1.91 MBytes  15.6 Mbits/sec                  receiver
+[  7][RX-C]   0.00-1.00   sec  6.03 MBytes  50.5 Mbits/sec   14             sender
+[  7][RX-C]   0.00-1.03   sec  4.99 MBytes  40.8 Mbits/sec                  receiver
+
+iperf Done.
+2025/Dec/17 17:45:08
+Connecting to host 129.237.161.212, port 5202
+[  5] local 192.168.1.70 port 56734 connected to 129.237.161.212 port 5202
+[  7] local 192.168.1.70 port 56748 connected to 129.237.161.212 port 5202
+[ ID][Role] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5][TX-C]   0.00-1.00   sec  1.80 MBytes  15.1 Mbits/sec    2   65.6 KBytes       
+[  7][RX-C]   0.00-1.00   sec  1.82 MBytes  15.3 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID][Role] Interval           Transfer     Bitrate         Retr
+[  5][TX-C]   0.00-1.00   sec  1.80 MBytes  15.1 Mbits/sec    2             sender
+[  5][TX-C]   0.00-1.03   sec  1.54 MBytes  12.6 Mbits/sec                  receiver
+[  7][RX-C]   0.00-1.00   sec  2.39 MBytes  20.0 Mbits/sec   21             sender
+[  7][RX-C]   0.00-1.03   sec  1.82 MBytes  14.9 Mbits/sec                  receiver
+
+iperf Done.
+2025/Dec/17 17:45:11
+Connecting to host 129.237.161.212, port 5202
+[  5] local 192.168.1.70 port 56764 connected to 129.237.161.212 port 5202
+[  7] local 192.168.1.70 port 56768 connected to 129.237.161.212 port 5202
+[ ID][Role] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5][TX-C]   0.00-1.00   sec  2.39 MBytes  20.1 Mbits/sec    3   67.0 KBytes       
+[  7][RX-C]   0.00-1.00   sec  8.43 MBytes  70.7 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID][Role] Interval           Transfer     Bitrate         Retr
+[  5][TX-C]   0.00-1.00   sec  2.39 MBytes  20.1 Mbits/sec    3             sender
+[  5][TX-C]   0.00-1.02   sec  1.93 MBytes  15.8 Mbits/sec                  receiver
+[  7][RX-C]   0.00-1.00   sec  11.8 MBytes  98.7 Mbits/sec    0             sender
+[  7][RX-C]   0.00-1.02   sec  8.43 MBytes  69.1 Mbits/sec                  receiver
+
+iperf Done.
+2025/Dec/17 17:45:14
+Connecting to host 129.237.161.212, port 5202
+[  5] local 192.168.1.70 port 56792 connected to 129.237.161.212 port 5202
+[  7] local 192.168.1.70 port 56800 connected to 129.237.161.212 port 5202
+[ ID][Role] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5][TX-C]   0.00-1.00   sec  2.49 MBytes  20.8 Mbits/sec    3   62.7 KBytes       
+[  7][RX-C]   0.00-1.00   sec  6.59 MBytes  55.2 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID][Role] Interval           Transfer     Bitrate         Retr
+[  5][TX-C]   0.00-1.00   sec  2.49 MBytes  20.8 Mbits/sec    3             sender
+[  5][TX-C]   0.00-1.02   sec  2.06 MBytes  16.9 Mbits/sec                  receiver
+[  7][RX-C]   0.00-1.00   sec  8.18 MBytes  68.5 Mbits/sec    1             sender
+[  7][RX-C]   0.00-1.02   sec  6.59 MBytes  54.1 Mbits/sec                  receiver
+
+iperf Done.
+2025/Dec/17 17:45:17
+Connecting to host 129.237.161.212, port 5202
+[  5] local 192.168.1.70 port 56816 connected to 129.237.161.212 port 5202
+[  7] local 192.168.1.70 port 56824 connected to 129.237.161.212 port 5202
+[ ID][Role] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5][TX-C]   0.00-1.00   sec  1.80 MBytes  15.1 Mbits/sec    3   44.2 KBytes       
+[  7][RX-C]   0.00-1.00   sec  7.71 MBytes  64.6 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID][Role] Interval           Transfer     Bitrate         Retr
+[  5][TX-C]   0.00-1.00   sec  1.80 MBytes  15.1 Mbits/sec    3             sender
+[  5][TX-C]   0.00-1.02   sec  1.39 MBytes  11.4 Mbits/sec                  receiver
+[  7][RX-C]   0.00-1.00   sec  10.6 MBytes  88.8 Mbits/sec    0             sender
+[  7][RX-C]   0.00-1.02   sec  7.71 MBytes  63.2 Mbits/sec                  receiver
+
+iperf Done.
+2025/Dec/17 17:45:20
+Connecting to host 129.237.161.212, port 5202
+[  5] local 192.168.1.70 port 38602 connected to 129.237.161.212 port 5202
+[  7] local 192.168.1.70 port 38618 connected to 129.237.161.212 port 5202
+[ ID][Role] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5][TX-C]   0.00-1.00   sec  1.77 MBytes  14.8 Mbits/sec    2   62.7 KBytes       
+[  7][RX-C]   0.00-1.00   sec  9.31 MBytes  78.1 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID][Role] Interval           Transfer     Bitrate         Retr
+[  5][TX-C]   0.00-1.00   sec  1.77 MBytes  14.8 Mbits/sec    2             sender
+[  5][TX-C]   0.00-1.03   sec  1.49 MBytes  12.1 Mbits/sec                  receiver
+[  7][RX-C]   0.00-1.00   sec  12.0 MBytes   101 Mbits/sec    0             sender
+[  7][RX-C]   0.00-1.03   sec  9.31 MBytes  76.0 Mbits/sec                  receiver
+
+iperf Done.
+2025/Dec/17 17:45:23
+Connecting to host 129.237.161.212, port 5202
+[  5] local 192.168.1.70 port 38636 connected to 129.237.161.212 port 5202
+[  7] local 192.168.1.70 port 38648 connected to 129.237.161.212 port 5202
+[ ID][Role] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5][TX-C]   0.00-1.00   sec  2.19 MBytes  18.4 Mbits/sec    1   77.0 KBytes       
+[  7][RX-C]   0.00-1.00   sec  3.88 MBytes  32.5 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID][Role] Interval           Transfer     Bitrate         Retr
+[  5][TX-C]   0.00-1.00   sec  2.19 MBytes  18.4 Mbits/sec    1             sender
+[  5][TX-C]   0.00-1.02   sec  1.85 MBytes  15.2 Mbits/sec                  receiver
+[  7][RX-C]   0.00-1.00   sec  4.50 MBytes  37.7 Mbits/sec    9             sender
+[  7][RX-C]   0.00-1.02   sec  3.88 MBytes  31.9 Mbits/sec                  receiver
+
+iperf Done.
+2025/Dec/17 17:45:25
+Connecting to host 129.237.161.212, port 5202
+[  5] local 192.168.1.70 port 38670 connected to 129.237.161.212 port 5202
+[  7] local 192.168.1.70 port 38678 connected to 129.237.161.212 port 5202
+[ ID][Role] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5][TX-C]   0.00-1.00   sec  2.29 MBytes  19.1 Mbits/sec    7   25.7 KBytes       
+[  7][RX-C]   0.00-1.00   sec  8.76 MBytes  73.1 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID][Role] Interval           Transfer     Bitrate         Retr
+[  5][TX-C]   0.00-1.00   sec  2.29 MBytes  19.1 Mbits/sec    7             sender
+[  5][TX-C]   0.00-1.03   sec  1.90 MBytes  15.5 Mbits/sec                  receiver
+[  7][RX-C]   0.00-1.00   sec  11.1 MBytes  92.6 Mbits/sec    0             sender
+[  7][RX-C]   0.00-1.03   sec  8.76 MBytes  71.5 Mbits/sec                  receiver
+
+iperf Done.
+2025/Dec/17 17:45:28
+Connecting to host 129.237.161.212, port 5202
+[  5] local 192.168.1.70 port 45072 connected to 129.237.161.212 port 5202
+[  7] local 192.168.1.70 port 45088 connected to 129.237.161.212 port 5202
+[ ID][Role] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5][TX-C]   0.00-1.00   sec  2.39 MBytes  20.1 Mbits/sec    3   45.6 KBytes       
+[  7][RX-C]   0.00-1.00   sec  8.67 MBytes  72.7 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID][Role] Interval           Transfer     Bitrate         Retr
+[  5][TX-C]   0.00-1.00   sec  2.39 MBytes  20.1 Mbits/sec    3             sender
+[  5][TX-C]   0.00-1.02   sec  2.00 MBytes  16.4 Mbits/sec                  receiver
+[  7][RX-C]   0.00-1.00   sec  11.8 MBytes  98.9 Mbits/sec    0             sender
+[  7][RX-C]   0.00-1.02   sec  8.67 MBytes  71.2 Mbits/sec                  receiver
+
+iperf Done.
+2025/Dec/17 17:45:31
+Connecting to host 129.237.161.212, port 5202
+[  5] local 192.168.1.70 port 45104 connected to 129.237.161.212 port 5202
+[  7] local 192.168.1.70 port 45106 connected to 129.237.161.212 port 5202
+[ ID][Role] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5][TX-C]   0.00-1.00   sec  1.68 MBytes  14.1 Mbits/sec    2   44.2 KBytes       
+[  7][RX-C]   0.00-1.00   sec  8.67 MBytes  72.8 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID][Role] Interval           Transfer     Bitrate         Retr
+[  5][TX-C]   0.00-1.00   sec  1.68 MBytes  14.1 Mbits/sec    2             sender
+[  5][TX-C]   0.00-1.02   sec  1.47 MBytes  12.1 Mbits/sec                  receiver
+[  7][RX-C]   0.00-1.00   sec  10.8 MBytes  90.8 Mbits/sec    1             sender
+[  7][RX-C]   0.00-1.02   sec  8.67 MBytes  71.2 Mbits/sec                  receiver
+
+iperf Done.
+2025/Dec/17 17:45:34
+Connecting to host 129.237.161.212, port 5202
+[  5] local 192.168.1.70 port 45130 connected to 129.237.161.212 port 5202
+[  7] local 192.168.1.70 port 45138 connected to 129.237.161.212 port 5202
+[ ID][Role] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5][TX-C]   0.00-1.00   sec  2.42 MBytes  20.3 Mbits/sec   14   41.3 KBytes       
+[  7][RX-C]   0.00-1.00   sec  8.69 MBytes  72.9 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID][Role] Interval           Transfer     Bitrate         Retr
+[  5][TX-C]   0.00-1.00   sec  2.42 MBytes  20.3 Mbits/sec   14             sender
+[  5][TX-C]   0.00-1.02   sec  2.05 MBytes  16.8 Mbits/sec                  receiver
+[  7][RX-C]   0.00-1.00   sec  10.9 MBytes  91.4 Mbits/sec    0             sender
+[  7][RX-C]   0.00-1.02   sec  8.69 MBytes  71.2 Mbits/sec                  receiver
+
+iperf Done.
+2025/Dec/17 17:45:37
+Connecting to host 129.237.161.212, port 5202
+[  5] local 192.168.1.70 port 45164 connected to 129.237.161.212 port 5202
+[  7] local 192.168.1.70 port 45168 connected to 129.237.161.212 port 5202
+[ ID][Role] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5][TX-C]   0.00-1.00   sec  1.84 MBytes  15.5 Mbits/sec    2   45.6 KBytes       
+[  7][RX-C]   0.00-1.00   sec  10.3 MBytes  86.4 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID][Role] Interval           Transfer     Bitrate         Retr
+[  5][TX-C]   0.00-1.00   sec  1.84 MBytes  15.5 Mbits/sec    2             sender
+[  5][TX-C]   0.00-1.03   sec  1.45 MBytes  11.8 Mbits/sec                  receiver
+[  7][RX-C]   0.00-1.00   sec  14.0 MBytes   118 Mbits/sec    0             sender
+[  7][RX-C]   0.00-1.03   sec  10.3 MBytes  83.7 Mbits/sec                  receiver
+
+iperf Done.
+2025/Dec/17 17:45:40
+Connecting to host 129.237.161.212, port 5202
+[  5] local 192.168.1.70 port 48686 connected to 129.237.161.212 port 5202
+[  7] local 192.168.1.70 port 48696 connected to 129.237.161.212 port 5202
+[ ID][Role] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5][TX-C]   0.00-1.00   sec  2.36 MBytes  19.8 Mbits/sec    2   71.3 KBytes       
+[  7][RX-C]   0.00-1.00   sec  10.4 MBytes  87.4 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID][Role] Interval           Transfer     Bitrate         Retr
+[  5][TX-C]   0.00-1.00   sec  2.36 MBytes  19.8 Mbits/sec    2             sender
+[  5][TX-C]   0.00-1.02   sec  2.06 MBytes  16.9 Mbits/sec                  receiver
+[  7][RX-C]   0.00-1.00   sec  13.7 MBytes   115 Mbits/sec    1             sender
+[  7][RX-C]   0.00-1.02   sec  10.4 MBytes  85.4 Mbits/sec                  receiver
+
+iperf Done.
+2025/Dec/17 17:45:43
+Connecting to host 129.237.161.212, port 5202
+[  5] local 192.168.1.70 port 48722 connected to 129.237.161.212 port 5202
+[  7] local 192.168.1.70 port 48736 connected to 129.237.161.212 port 5202
+[ ID][Role] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5][TX-C]   0.00-1.00   sec  2.41 MBytes  20.2 Mbits/sec    6   35.6 KBytes       
+[  7][RX-C]   0.00-1.00   sec  6.69 MBytes  56.1 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID][Role] Interval           Transfer     Bitrate         Retr
+[  5][TX-C]   0.00-1.00   sec  2.41 MBytes  20.2 Mbits/sec    6             sender
+[  5][TX-C]   0.00-1.02   sec  1.88 MBytes  15.4 Mbits/sec                  receiver
+[  7][RX-C]   0.00-1.00   sec  8.02 MBytes  67.3 Mbits/sec    1             sender
+[  7][RX-C]   0.00-1.02   sec  6.69 MBytes  54.8 Mbits/sec                  receiver
+
+iperf Done.
+2025/Dec/17 17:45:46
+2025/Dec/17 17:45:49
+2025/Dec/17 17:45:50
+2025/Dec/17 17:45:52
+2025/Dec/17 17:45:53
