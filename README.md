@@ -12,6 +12,7 @@ This is the data logger of a UAV-based system to record the RAN (Radio Access Ne
     - Extract data from the logfiles
     - Plot the statistical charts
     - Map RAN metrics on 2D and 3D maps
+    - predict the RAN metrics for unmeasured altitudes
 
 
 Inside each folder, you will find a README file that contains more information
