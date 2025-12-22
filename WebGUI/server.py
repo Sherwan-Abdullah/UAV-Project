@@ -414,6 +414,7 @@ HTML_TEMPLATE = """
                     <button onclick="runScript('all_data_extract.py')">📊 Extract Data</button>
                     <button onclick="runScript('all_stat_result.py')">📈 Generate Stats</button>
                     <button onclick="runScript('RAN_Map.py')">🗺️ Generate Maps</button>
+                    <button onclick="runMLScript()">🤖 Run ML Prediction</button>
                     <button onclick="refreshVisualization()">🔄 Refresh All</button>
                 </div>
                 
@@ -469,6 +470,14 @@ HTML_TEMPLATE = """
                 <div class="chart-cell" id="cdf-speed-container">
                     <div class="title">CDF - Throughput</div>
                     <div class="placeholder">Click "Browse Log Files" first, then "Generate Stats"</div>
+                </div>
+            </div>
+            
+
+            <div class="chart-row" id="ml-results-row" style="display: none;">
+                <div class="chart-cell" style="grid-column: span 3; height: auto; min-height: 300px; max-height: 600px;">
+                    <div class="title">Machine Learning Prediction Results</div>
+                    <pre id="ml-results-content" style="padding: 20px; font-family: monospace; overflow-y: auto; overflow-x: auto; font-size: 13px; line-height: 1.6; white-space: pre-wrap; word-wrap: break-word;"></pre>
                 </div>
             </div>
         </div>
@@ -764,6 +773,7 @@ HTML_TEMPLATE = """
             updateCurrentLogDir();
             loadMaps();
             loadCharts();
+            loadMLResults();//
         };
         
         // Close modal on outside click
@@ -772,6 +782,43 @@ HTML_TEMPLATE = """
             if (event.target == modal) {
                 closeFileBrowser();
             }
+        }
+        
+        async function runMLScript() {
+            const loadingDiv = document.getElementById('loading');
+            updateStatus("Running ML Predictions (this may take a while)...");
+            loadingDiv.style.display = 'block';
+
+            try {
+                const response = await fetch('/run_script', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ script: 'ML_predict_all.py' }),
+                });
+
+                const data = await response.json();
+                if (data.success) {
+                    updateStatus("✅ ML Prediction Complete");
+                    loadMLResults(); 
+                } else {
+                    updateStatus(`❌ Error: ${data.error}`);
+                }
+            } catch (error) {
+                updateStatus('❌ Connection error');
+            } finally {
+                loadingDiv.style.display = 'none';
+            }
+        }
+
+        function loadMLResults() {
+            fetch('/get_ml_results')
+                .then(response => response.json())
+                .then(data => {
+                    if (data.exists) {
+                        document.getElementById('ml-results-row').style.display = 'grid';
+                        document.getElementById('ml-results-content').textContent = data.content;
+                    }
+                });
         }
     </script>
 </body>
@@ -918,7 +965,8 @@ def run_script():
     allowed_scripts = [
         'all_stat_result.py',
         'RAN_Map.py',
-        'all_data_extract.py'
+        'all_data_extract.py',
+        'ML_predict_all.py'
     ]
     if script_name not in allowed_scripts:
         return jsonify({'success': False, 'error': 'Unauthorized script name.'})
@@ -1004,6 +1052,21 @@ def check_file():
     
     full_path = os.path.join(LOG_FILES_DIRECTORY, file_path)
     return jsonify({'exists': os.path.exists(full_path)})
+@app.route('/get_ml_results', methods=['GET'])
+def get_ml_results():
+    """Read the ML prediction results file"""
+    try:
+        ml_file = os.path.join(LOG_FILES_DIRECTORY, 'ML_prediction.txt')
+        
+        if not os.path.exists(ml_file):
+            return jsonify({'exists': False})
+        
+        with open(ml_file, 'r', encoding='utf-8') as f:
+            content = f.read()
+            
+        return jsonify({'exists': True, 'content': content})
+    except Exception as e:
+        return jsonify({'exists': False, 'error': str(e)})
 
 if __name__ == '__main__':
     current_directory = os.getcwd()
