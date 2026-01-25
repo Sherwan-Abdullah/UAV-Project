@@ -33,7 +33,7 @@ def run_iperf3(server_ip, port):
             # If no error, the test ran successfully, so wait for the next one
             print("Iperf3 test completed successfully.")
             # If time delay needed uncomment below line and enter delay in seconds
-            time.sleep(1)  
+            #time.sleep(1)  
 
 # Replace with iperf3 server IP and port (which is in our case a PC in Nichols Hall)
 run_iperf3("129.237.161.212", 5201)
@@ -43,3 +43,4 @@ run_iperf3("129.237.161.212", 5201)
 
 
 # iperf3 -s -p port
+
