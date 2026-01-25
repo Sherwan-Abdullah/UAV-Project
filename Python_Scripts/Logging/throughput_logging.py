@@ -27,7 +27,7 @@ def run_iperf3(server_ip, port):
             if stderr:
                 print("Error:", stderr.decode())
                 print("Retrying the iperf3 command...")
-                time.sleep(1)
+                #time.sleep(1)
                 continue  # Skip waiting and rerun the command immediately
 
             # If no error, the test ran successfully, so wait for the next one
@@ -40,5 +40,6 @@ run_iperf3("129.237.161.212", 5201)
 
 #CHANGE THE PORT NUMBER FOR DIFFERENT MODULES IN ORDER NOT TO DROP TESTS
 #CHANGE THE PORT NUMBER ON THE SERVER AS WELL BY OPENEING MORE THAN ONE TERMINAL AND RUN BELOW COMMAND
+
 
 # iperf3 -s -p port
