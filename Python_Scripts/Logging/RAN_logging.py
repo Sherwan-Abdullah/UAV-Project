@@ -2,6 +2,8 @@ import asyncio
 import telnetlib3 
 import nest_asyncio 
 import datetime 
+import time
+
   
 now = datetime.datetime.now() 
 filename = now.strftime("lte_log.txt")
@@ -12,11 +14,17 @@ async def shell(reader, writer):
         if not outp: 
             break 
 
+        # Get current date/time and Unix timestamp
+        now = datetime.datetime.now()
+        date_time = now.strftime("%Y/%b/%d %H:%M:%S")
+        unix_time = int(time.time())
+      
         # display all server output 
         print(outp, flush=True) 
 
         # write server output to txt 
         with open(filename, 'a') as file: 
+            file.write(f"{date_time} | Unix: {unix_time}\n")
             file.write(outp) 
 
         # commands to run and get output of the radio connection from the modem 
